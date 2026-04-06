@@ -2,10 +2,11 @@ from collections import deque
 graph={
     'A':['B','C'],
     'B':['D','E'],
-    'C':['F'],
+    'C':['F','G'],
     'D':[],
     'E':['F'],
-    'F':[]
+    'F':[],
+    'G':[]
 }
 def bfs(graph,start):
     visited=set()
@@ -14,8 +15,8 @@ def bfs(graph,start):
     while queue:
         node=queue.popleft()
         print(node,end=" ")
-        for neighber in graph[node]:
-            if neighber not in visited:
-                visited.add(neighber)
-                queue.append(neighber)
-bfs(graph,'A')
+        for neighbour in graph[node]:
+            if neighbour not in visited:
+                visited.add(neighbour)
+                queue.append(neighbour)
+bfs(graph,'A')                                                                                                                                                                                                                                                                                                                                                                                                                                                          
