@@ -1,0 +1,509 @@
+tenure_months,monthly_charge_usd,data_usage_gb,calls_per_month,plan_type,churned,complaints_count,contract_type,payment_method,tech_support_calls
+48.0,40.98,11.45,347.0,Unlimited,0.0,4.0,ANNUAL,Credit Card,16.0
+25.0,106.58,1.09,196.0,Premium,0.0,0.0,2-Year,MANUAL,8.0
+54.0,55.73,20.07,276.0,Unlimited,0.0,0.0,ANNUAL,Bank Transfer,15.0
+57.0,17.72,7.4,93.0,Unlimited,0.0,3.0,No Contract,Credit Card,2.0
+30.0,31.91,2.14,493.0,basic,0.0,5.0,ANNUAL,MANUAL,2.0
+27.0,71.13,6.13,,PREMIUM,0.0,0.0,No Contract,MANUAL,11.0
+,52.8,4.03,59.0,Standard,1.0,3.0,2-Year,MANUAL,14.0
+23.0,87.83,0.31,238.0,basic,0.0,3.0,2-Year,Manual,14.0
+,110.43,6.02,459.0,Unlimited,0.0,1.0,No Contract,Manual,5.0
+9.0,70.19,0.5,0.0,Basic,0.0,9.0,2-Year,auto pay,0.0
+59.0,114.24,0.64,283.0,PREMIUM,1.0,8.0,2-Year,auto pay,1.0
+4.0,74.84,5.91,320.0,Family,,4.0,monthly,Auto Pay,13.0
+70.0,59.84,17.2,134.0,Unlimited,0.0,4.0,Annual,Credit Card,6.0
+3.0,54.9,2.57,441.0,Family,0.0,8.0,No Contract,auto pay,8.0
+51.0,45.74,1.77,,basic,1.0,5.0,Monthly,Manual,19.0
+5.0,33.13,0.89,454.0,Unlimited,0.0,3.0,No Contract,Auto Pay,0.0
+25.0,49.95,4.34,408.0,Family,0.0,8.0,ANNUAL,Credit Card,12.0
+22.0,80.07,7.84,47.0,Unlimited,0.0,8.0,Monthly,Credit Card,7.0
+15.0,58.7,12.24,95.0,Unlimited,1.0,5.0,Annual,auto pay,19.0
+13.0,53.08,1.29,192.0,Standard,0.0,4.0,Monthly,MANUAL,0.0
+49.0,65.8,10.71,202.0,basic,0.0,2.0,monthly,MANUAL,
+54.0,61.87,2.63,86.0,Standard,0.0,3.0,2-Year,MANUAL,19.0
+19.0,28.77,5.34,138.0,Family,1.0,3.0,2-Year,Manual,3.0
+500.0,78.0,0.6,54.0,Unlimited,0.0,2.0,ANNUAL,Bank Transfer,3.0
+,46.91,9.77,77.0,Standard,0.0,2.0,Annual,MANUAL,2.0
+66.0,63.16,4.04,98.0,Unlimited,0.0,3.0,No Contract,auto pay,19.0
+12.0,,,0.0,Standard,,7.0,monthly,Auto Pay,4.0
+26.0,58.14,13.07,,basic,0.0,3.0,ANNUAL,Auto Pay,13.0
+13.0,5000.0,7.43,54.0,Family,0.0,9.0,Annual,Manual,6.0
+49.0,47.06,6.29,85.0,Unlimited,1.0,2.0,Annual,auto pay,1.0
+50.0,65.57,9.61,300.0,Family,0.0,5.0,No Contract,Auto Pay,14.0
+13.0,67.52,-1.0,288.0,Unlimited,0.0,8.0,,Credit Card,18.0
+45.0,64.77,13.77,74.0,basic,0.0,1.0,,Credit Card,19.0
+67.0,67.82,17.18,77.0,Premium,1.0,2.0,2-Year,auto pay,8.0
+8.0,60.32,16.22,380.0,Standard,0.0,8.0,ANNUAL,MANUAL,8.0
+,67.45,8.46,343.0,Standard,0.0,9.0,2-Year,Bank Transfer,13.0
+21.0,71.35,6.3,60.0,Basic,,7.0,Monthly,Credit Card,2.0
+66.0,74.7,18.2,84.0,Premium,0.0,0.0,Monthly,Credit Card,4.0
+67.0,100.47,2.59,394.0,Unlimited,0.0,9.0,No Contract,Manual,15.0
+68.0,44.79,11.81,36.0,Family,0.0,1.0,2-Year,Bank Transfer,11.0
+40.0,82.86,7.46,324.0,PREMIUM,0.0,6.0,ANNUAL,auto pay,
+37.0,63.44,,56.0,Family,1.0,6.0,Monthly,Auto Pay,2.0
+68.0,41.86,2.69,12.0,Premium,0.0,1.0,Annual,Credit Card,13.0
+28.0,33.29,3.9,167.0,PREMIUM,0.0,7.0,2-Year,Credit Card,14.0
+60.0,84.64,0.28,465.0,basic,1.0,0.0,ANNUAL,Manual,10.0
+31.0,86.09,0.37,484.0,PREMIUM,0.0,3.0,2-Year,MANUAL,8.0
+49.0,84.55,0.62,,Unlimited,0.0,8.0,Annual,MANUAL,13.0
+63.0,79.81,15.61,162.0,Premium,0.0,0.0,ANNUAL,auto pay,9.0
+,53.91,5.54,488.0,PREMIUM,0.0,0.0,2-Year,Bank Transfer,16.0
+18.0,76.12,2.92,448.0,Family,,2.0,Annual,auto pay,1.0
+25.0,61.56,3.28,354.0,Standard,0.0,6.0,ANNUAL,Bank Transfer,1.0
+,67.04,10.39,117.0,Basic,0.0,0.0,ANNUAL,Credit Card,0.0
+46.0,87.45,7.93,61.0,Family,0.0,9.0,Annual,Auto Pay,10.0
+,38.11,5.26,274.0,Standard,0.0,9.0,No Contract,Credit Card,4.0
+31.0,62.94,0.48,102.0,Premium,0.0,7.0,Monthly,Auto Pay,7.0
+69.0,57.61,,338.0,Basic,0.0,6.0,Monthly,Manual,19.0
+64.0,61.52,2.82,435.0,Basic,0.0,7.0,No Contract,MANUAL,9.0
+8.0,63.25,5.59,229.0,Family,0.0,8.0,Annual,Manual,5.0
+40.0,23.71,9.54,161.0,Unlimited,0.0,6.0,No Contract,Manual,17.0
+29.0,110.35,21.08,383.0,PREMIUM,0.0,8.0,No Contract,MANUAL,4.0
+20.0,69.57,7.41,,Premium,0.0,5.0,,Credit Card,16.0
+65.0,64.08,0.33,233.0,,0.0,5.0,ANNUAL,Bank Transfer,3.0
+25.0,68.14,1.18,189.0,basic,1.0,0.0,Annual,Credit Card,17.0
+6.0,55.57,1.31,258.0,PREMIUM,0.0,8.0,No Contract,MANUAL,5.0
+66.0,33.65,3.21,148.0,Standard,0.0,100.0,2-Year,auto pay,2.0
+45.0,61.94,10.56,282.0,basic,,7.0,2-Year,auto pay,3.0
+56.0,52.84,0.46,170.0,Unlimited,1.0,2.0,2-Year,Bank Transfer,17.0
+42.0,30.12,4.28,227.0,Basic,0.0,5.0,ANNUAL,Bank Transfer,19.0
+22.0,79.37,11.1,155.0,,0.0,2.0,,Credit Card,1.0
+54.0,43.09,12.95,468.0,Unlimited,1.0,6.0,monthly,auto pay,0.0
+58.0,68.25,13.47,255.0,Premium,0.0,4.0,ANNUAL,Credit Card,2.0
+63.0,53.04,2.44,256.0,Premium,0.0,0.0,Monthly,auto pay,9.0
+2.0,19.46,4.85,179.0,Family,0.0,9.0,monthly,Manual,19.0
+14.0,1000.0,20.86,,Basic,0.0,5.0,Monthly,MANUAL,12.0
+2.0,69.38,5.89,87.0,PREMIUM,0.0,,Annual,MANUAL,1.0
+32.0,102.2,,273.0,Basic,0.0,8.0,Monthly,auto pay,1.0
+21.0,70.06,2.0,346.0,basic,0.0,3.0,monthly,auto pay,8.0
+56.0,60.48,18.11,22.0,Family,0.0,0.0,No Contract,Auto Pay,19.0
+49.0,41.25,1.56,106.0,Basic,0.0,8.0,ANNUAL,Credit Card,17.0
+64.0,60.24,7.38,245.0,Unlimited,0.0,3.0,monthly,auto pay,5.0
+63.0,80.16,9.97,389.0,Standard,0.0,4.0,Annual,Credit Card,11.0
+54.0,58.9,0.13,432.0,Basic,1.0,4.0,ANNUAL,auto pay,9.0
+48.0,84.21,6.65,290.0,Family,0.0,7.0,No Contract,Manual,9.0
+71.0,30.48,3.34,6.0,Basic,0.0,7.0,2-Year,auto pay,
+51.0,42.79,9.22,352.0,Premium,0.0,,Annual,Auto Pay,8.0
+9.0,74.61,13.28,478.0,Standard,1.0,4.0,Monthly,auto pay,17.0
+5.0,,2.5,106.0,Family,0.0,3.0,Monthly,,5.0
+5.0,30.69,4.73,117.0,Standard,0.0,8.0,2-Year,auto pay,9.0
+59.0,,1.27,84.0,basic,0.0,4.0,No Contract,auto pay,6.0
+,35.52,8.43,7.0,basic,0.0,9.0,Monthly,auto pay,11.0
+44.0,89.47,8.82,248.0,PREMIUM,0.0,4.0,No Contract,Auto Pay,7.0
+60.0,,7.54,356.0,Basic,0.0,9.0,monthly,Credit Card,6.0
+,41.24,1.0,165.0,PREMIUM,0.0,4.0,Annual,Manual,17.0
+3.0,80.05,10.46,50.0,Premium,0.0,6.0,No Contract,Bank Transfer,11.0
+16.0,71.16,4.42,454.0,PREMIUM,0.0,9.0,Monthly,Manual,16.0
+16.0,89.12,14.7,178.0,Family,0.0,3.0,ANNUAL,Bank Transfer,10.0
+45.0,66.77,1.77,204.0,Standard,1.0,8.0,2-Year,MANUAL,1.0
+65.0,85.02,1.36,196.0,Family,0.0,9.0,ANNUAL,auto pay,8.0
+46.0,50.56,17.8,138.0,Premium,0.0,1.0,Annual,Bank Transfer,6.0
+30.0,83.53,1.39,134.0,basic,1.0,4.0,monthly,auto pay,4.0
+16.0,27.23,3.55,159.0,Basic,0.0,1.0,Monthly,Manual,19.0
+61.0,65.34,0.19,214.0,Unlimited,0.0,0.0,ANNUAL,Auto Pay,15.0
+41.0,40.37,1.44,284.0,Premium,0.0,8.0,Monthly,auto pay,6.0
+36.0,71.52,0.1,378.0,Standard,0.0,8.0,No Contract,Auto Pay,18.0
+39.0,36.61,13.01,420.0,Premium,0.0,5.0,Monthly,Auto Pay,13.0
+62.0,1000.0,1.28,407.0,Standard,1.0,1.0,Monthly,Credit Card,16.0
+54.0,119.46,12.99,15.0,Family,0.0,6.0,No Contract,Bank Transfer,13.0
+63.0,45.62,0.49,10.0,,0.0,8.0,Annual,Credit Card,12.0
+3.0,,2.36,203.0,Premium,0.0,,,auto pay,17.0
+25.0,71.96,,483.0,Unlimited,0.0,3.0,No Contract,auto pay,9.0
+30.0,96.01,0.23,378.0,Unlimited,1.0,3.0,ANNUAL,Credit Card,18.0
+41.0,79.75,,,Family,1.0,8.0,ANNUAL,Bank Transfer,0.0
+24.0,,1.29,264.0,Unlimited,0.0,2.0,Annual,Credit Card,2.0
+66.0,77.21,6.5,191.0,PREMIUM,0.0,3.0,Monthly,Auto Pay,13.0
+47.0,89.73,7.9,152.0,Unlimited,0.0,8.0,No Contract,,17.0
+52.0,69.66,0.86,38.0,Premium,0.0,2.0,Annual,MANUAL,4.0
+30.0,87.14,3.06,174.0,Standard,0.0,6.0,2-Year,,2.0
+33.0,97.87,14.58,224.0,Basic,0.0,4.0,monthly,MANUAL,4.0
+36.0,0.06,2.87,156.0,Standard,,0.0,monthly,Auto Pay,13.0
+64.0,63.67,0.54,434.0,PREMIUM,0.0,6.0,monthly,MANUAL,6.0
+58.0,106.31,6.35,350.0,Family,0.0,4.0,ANNUAL,Bank Transfer,4.0
+8.0,,5.6,301.0,Premium,0.0,,ANNUAL,Credit Card,10.0
+,53.36,4.29,292.0,Standard,,9.0,Annual,Bank Transfer,12.0
+61.0,57.1,6.58,461.0,Unlimited,0.0,0.0,2-Year,auto pay,3.0
+15.0,95.14,21.06,436.0,Basic,0.0,1.0,monthly,Credit Card,15.0
+42.0,149.38,3.02,26.0,basic,0.0,5.0,2-Year,Auto Pay,
+55.0,74.15,14.76,413.0,Unlimited,0.0,6.0,2-Year,Manual,14.0
+21.0,,4.04,212.0,basic,1.0,,monthly,Auto Pay,8.0
+65.0,55.35,8.57,253.0,Family,0.0,9.0,Annual,MANUAL,2.0
+,72.14,3.08,251.0,Family,0.0,7.0,No Contract,Manual,8.0
+49.0,79.62,7.8,457.0,Basic,,0.0,2-Year,Manual,9.0
+9.0,101.24,0.72,213.0,Unlimited,0.0,,Annual,auto pay,5.0
+32.0,54.24,8.22,75.0,Basic,0.0,9.0,No Contract,,15.0
+65.0,41.31,8.96,272.0,Standard,1.0,5.0,Annual,Bank Transfer,8.0
+70.0,65.37,0.7,268.0,,1.0,6.0,Annual,Auto Pay,15.0
+21.0,56.2,13.02,2.0,Standard,,5.0,Annual,auto pay,7.0
+42.0,72.87,,41.0,Family,0.0,7.0,No Contract,Manual,2.0
+70.0,69.27,0.47,385.0,PREMIUM,,8.0,,MANUAL,18.0
+29.0,25.04,4.01,248.0,Family,0.0,4.0,Monthly,Credit Card,12.0
+64.0,,13.83,61.0,PREMIUM,0.0,7.0,No Contract,auto pay,0.0
+29.0,67.69,,485.0,Premium,0.0,1.0,Monthly,MANUAL,3.0
+60.0,39.57,50.22,432.0,,0.0,9.0,Annual,MANUAL,19.0
+23.0,,6.16,43.0,Family,0.0,5.0,ANNUAL,Bank Transfer,14.0
+64.0,75.43,21.14,174.0,Standard,1.0,6.0,No Contract,Bank Transfer,9.0
+24.0,107.41,1.05,234.0,Basic,0.0,5.0,Annual,Credit Card,
+45.0,79.17,42.12,362.0,basic,0.0,6.0,Monthly,Credit Card,0.0
+40.0,28.63,11.92,457.0,basic,0.0,6.0,No Contract,Bank Transfer,4.0
+39.0,,7.17,355.0,Basic,0.0,3.0,Monthly,MANUAL,19.0
+48.0,111.2,,40.0,basic,1.0,7.0,Monthly,auto pay,13.0
+68.0,66.41,4.41,320.0,Standard,1.0,5.0,,Bank Transfer,19.0
+6.0,44.31,1.32,133.0,Standard,0.0,2.0,2-Year,auto pay,4.0
+32.0,63.52,1.92,116.0,Family,0.0,0.0,Annual,Auto Pay,
+19.0,106.45,1.1,320.0,PREMIUM,0.0,8.0,No Contract,auto pay,19.0
+14.0,55.52,0.29,342.0,basic,0.0,1.0,Annual,Credit Card,18.0
+28.0,37.08,7.99,,basic,0.0,7.0,2-Year,MANUAL,16.0
+13.0,62.69,8.7,101.0,,0.0,5.0,Annual,Credit Card,3.0
+16.0,96.22,0.1,163.0,Basic,1.0,1.0,Monthly,Manual,11.0
+70.0,53.77,1.94,490.0,Basic,0.0,9.0,Monthly,Auto Pay,13.0
+2.0,,0.28,-50.0,basic,0.0,9.0,No Contract,Credit Card,8.0
+66.0,50.39,13.58,146.0,Unlimited,0.0,3.0,No Contract,Bank Transfer,13.0
+53.0,30.6,9.66,31.0,Standard,0.0,5.0,monthly,auto pay,11.0
+51.0,104.83,8.8,412.0,Standard,1.0,1.0,No Contract,Manual,4.0
+30.0,64.02,13.04,27.0,Unlimited,0.0,9.0,ANNUAL,Bank Transfer,1.0
+63.0,45.82,1.59,449.0,Family,0.0,4.0,monthly,MANUAL,9.0
+69.0,56.05,25.53,474.0,,0.0,1.0,Monthly,Manual,9.0
+45.0,,0.83,166.0,basic,0.0,5.0,ANNUAL,Auto Pay,0.0
+6.0,41.46,22.64,162.0,basic,0.0,0.0,2-Year,Manual,16.0
+55.0,34.34,1.66,184.0,PREMIUM,1.0,2.0,No Contract,auto pay,2.0
+500.0,70.82,7.0,497.0,Family,0.0,7.0,Annual,Auto Pay,10.0
+43.0,53.71,8.99,364.0,basic,1.0,5.0,Monthly,Credit Card,8.0
+53.0,81.09,,391.0,PREMIUM,1.0,,Annual,Manual,10.0
+2.0,52.56,5.62,141.0,Unlimited,0.0,0.0,No Contract,Credit Card,6.0
+67.0,,1.8,4.0,Premium,0.0,50.0,Monthly,Auto Pay,16.0
+25.0,82.93,11.46,,basic,0.0,5.0,Monthly,Credit Card,11.0
+43.0,88.38,0.99,153.0,,1.0,7.0,,Manual,
+8.0,101.14,2.16,258.0,,0.0,3.0,Monthly,Bank Transfer,16.0
+22.0,71.92,5.69,18.0,Family,0.0,1.0,2-Year,Bank Transfer,9.0
+48.0,74.74,18.86,309.0,basic,1.0,3.0,Monthly,MANUAL,1.0
+1.0,68.01,16.38,166.0,Basic,,1.0,ANNUAL,Credit Card,12.0
+,,3.74,490.0,Basic,1.0,7.0,,Auto Pay,6.0
+15.0,88.95,0.16,7.0,,0.0,6.0,No Contract,MANUAL,17.0
+21.0,,10.68,412.0,Basic,1.0,8.0,,,17.0
+56.0,47.86,18.89,102.0,basic,0.0,5.0,ANNUAL,Auto Pay,15.0
+20.0,43.92,8.02,243.0,PREMIUM,0.0,8.0,ANNUAL,Manual,8.0
+37.0,79.95,1.74,120.0,basic,1.0,7.0,No Contract,auto pay,10.0
+71.0,92.63,3.8,349.0,Premium,0.0,5.0,No Contract,MANUAL,18.0
+46.0,63.39,1.5,76.0,basic,0.0,,2-Year,Bank Transfer,3.0
+22.0,115.08,17.39,10.0,basic,0.0,8.0,monthly,Manual,14.0
+15.0,54.11,9.24,484.0,Basic,1.0,,2-Year,Credit Card,15.0
+47.0,77.55,8.12,10.0,Family,0.0,9.0,ANNUAL,Credit Card,17.0
+64.0,86.16,24.57,,basic,0.0,9.0,2-Year,Bank Transfer,0.0
+3.0,100.2,0.61,470.0,Premium,1.0,1.0,monthly,MANUAL,13.0
+34.0,49.54,10.99,480.0,,1.0,9.0,Annual,Manual,
+35.0,,8.96,326.0,Premium,0.0,3.0,Annual,auto pay,1.0
+,32.68,6.1,238.0,Premium,0.0,0.0,No Contract,Auto Pay,11.0
+10.0,73.93,24.36,163.0,PREMIUM,0.0,1.0,Monthly,Bank Transfer,5.0
+25.0,55.18,5.61,20.0,Standard,0.0,1.0,monthly,Bank Transfer,19.0
+63.0,69.39,,263.0,PREMIUM,1.0,5.0,monthly,Bank Transfer,13.0
+28.0,21.47,1.94,384.0,basic,0.0,4.0,No Contract,Bank Transfer,2.0
+13.0,75.0,9.01,60.0,Family,0.0,6.0,monthly,Credit Card,17.0
+69.0,96.8,43.81,189.0,Standard,0.0,6.0,Annual,Bank Transfer,10.0
+0.0,,4.58,7.0,Unlimited,0.0,5.0,No Contract,Bank Transfer,10.0
+,115.66,3.19,412.0,Standard,0.0,6.0,monthly,Bank Transfer,14.0
+9.0,67.66,13.26,86.0,Unlimited,0.0,7.0,2-Year,Bank Transfer,10.0
+37.0,68.81,,,PREMIUM,1.0,5.0,Annual,MANUAL,8.0
+27.0,52.0,3.92,379.0,PREMIUM,0.0,7.0,No Contract,MANUAL,14.0
+16.0,59.31,7.14,374.0,Standard,0.0,3.0,Annual,Bank Transfer,
+48.0,96.21,2.41,,PREMIUM,0.0,6.0,No Contract,MANUAL,4.0
+35.0,31.71,9.31,82.0,PREMIUM,0.0,0.0,monthly,Credit Card,6.0
+70.0,60.91,8.3,202.0,Unlimited,0.0,0.0,ANNUAL,Auto Pay,17.0
+54.0,63.26,3.4,210.0,Basic,,8.0,,Manual,0.0
+68.0,102.72,9.67,-50.0,basic,1.0,2.0,2-Year,Manual,7.0
+22.0,83.33,1.5,268.0,Standard,0.0,2.0,No Contract,Bank Transfer,19.0
+63.0,83.55,5.42,441.0,Unlimited,0.0,2.0,monthly,Credit Card,11.0
+17.0,61.1,13.79,11.0,Premium,,6.0,Annual,Bank Transfer,2.0
+39.0,51.67,1.23,433.0,Premium,1.0,8.0,,Manual,0.0
+35.0,65.06,1.05,342.0,PREMIUM,0.0,7.0,No Contract,MANUAL,6.0
+20.0,79.19,0.86,233.0,Unlimited,0.0,4.0,ANNUAL,auto pay,17.0
+36.0,99.0,0.61,69.0,Unlimited,0.0,3.0,ANNUAL,Auto Pay,13.0
+,92.37,19.45,301.0,Unlimited,0.0,0.0,Monthly,Bank Transfer,10.0
+37.0,77.95,,220.0,basic,0.0,7.0,monthly,auto pay,1.0
+36.0,87.52,1.46,449.0,Standard,1.0,6.0,No Contract,Bank Transfer,
+33.0,67.29,41.25,174.0,Family,0.0,5.0,Annual,Manual,12.0
+67.0,108.78,3.29,221.0,Premium,0.0,1.0,monthly,Credit Card,5.0
+50.0,69.21,0.61,313.0,Standard,1.0,8.0,monthly,Manual,4.0
+21.0,97.88,14.14,110.0,Basic,0.0,4.0,monthly,Bank Transfer,10.0
+56.0,74.48,6.29,210.0,Family,0.0,0.0,monthly,auto pay,12.0
+33.0,109.8,0.09,202.0,Standard,0.0,6.0,2-Year,Credit Card,11.0
+61.0,44.44,23.93,294.0,Family,0.0,4.0,ANNUAL,Manual,14.0
+37.0,,33.54,165.0,Family,0.0,1.0,monthly,Manual,5.0
+43.0,143.12,15.09,48.0,Premium,0.0,2.0,ANNUAL,Auto Pay,
+44.0,57.63,11.26,200.0,Premium,,7.0,No Contract,auto pay,1.0
+48.0,66.01,4.78,339.0,PREMIUM,1.0,9.0,2-Year,Manual,1.0
+63.0,48.75,10.19,165.0,Basic,0.0,6.0,No Contract,Auto Pay,6.0
+68.0,71.6,,13.0,Standard,0.0,2.0,Annual,,7.0
+13.0,44.74,10.02,64.0,Unlimited,,0.0,2-Year,auto pay,
+8.0,64.63,27.05,67.0,Family,0.0,8.0,Monthly,Auto Pay,18.0
+42.0,21.23,9.95,287.0,PREMIUM,1.0,4.0,monthly,MANUAL,0.0
+68.0,37.69,6.19,15.0,Premium,1.0,,2-Year,Auto Pay,12.0
+,109.69,2.26,242.0,Premium,0.0,4.0,Monthly,MANUAL,6.0
+21.0,59.77,3.63,195.0,Family,0.0,8.0,No Contract,,6.0
+0.0,82.37,0.03,57.0,Family,0.0,8.0,No Contract,auto pay,14.0
+9.0,47.79,4.94,64.0,Family,0.0,100.0,ANNUAL,Manual,4.0
+7.0,37.84,6.49,5.0,,0.0,,monthly,MANUAL,7.0
+38.0,47.73,13.29,7.0,Basic,0.0,,Monthly,auto pay,3.0
+63.0,75.7,1.86,300.0,Standard,0.0,2.0,Annual,MANUAL,19.0
+55.0,59.97,14.1,197.0,Unlimited,0.0,7.0,No Contract,MANUAL,5.0
+21.0,55.84,4.16,208.0,Family,0.0,2.0,Monthly,Manual,6.0
+69.0,82.44,14.71,465.0,Basic,0.0,0.0,monthly,MANUAL,7.0
+46.0,21.44,0.1,62.0,Basic,0.0,8.0,2-Year,auto pay,1.0
+4.0,51.5,7.47,215.0,Unlimited,0.0,7.0,ANNUAL,auto pay,8.0
+37.0,82.12,13.14,181.0,basic,0.0,9.0,2-Year,auto pay,13.0
+31.0,82.78,4.37,118.0,PREMIUM,0.0,0.0,Annual,Auto Pay,11.0
+0.0,102.74,6.07,215.0,Premium,0.0,8.0,Monthly,auto pay,5.0
+62.0,100.45,2.5,39.0,PREMIUM,0.0,6.0,monthly,MANUAL,10.0
+27.0,57.16,3.78,59.0,Premium,0.0,0.0,monthly,Bank Transfer,
+21.0,81.4,0.48,255.0,Unlimited,0.0,3.0,Annual,Bank Transfer,2.0
+47.0,74.65,6.25,122.0,basic,1.0,2.0,2-Year,Auto Pay,15.0
+56.0,,1.56,5.0,basic,0.0,7.0,Annual,Bank Transfer,7.0
+12.0,71.47,13.89,326.0,Unlimited,,6.0,Monthly,MANUAL,13.0
+26.0,53.15,4.22,444.0,PREMIUM,1.0,0.0,Annual,Manual,12.0
+60.0,89.99,4.01,175.0,Premium,0.0,1.0,ANNUAL,Bank Transfer,8.0
+7.0,93.01,-1.0,,Unlimited,,3.0,Annual,MANUAL,19.0
+71.0,92.11,0.71,451.0,Unlimited,0.0,6.0,monthly,MANUAL,18.0
+,89.93,11.75,453.0,Family,0.0,1.0,monthly,Manual,8.0
+63.0,79.81,15.61,162.0,Premium,0.0,0.0,,auto pay,9.0
+,71.4,6.87,304.0,Unlimited,1.0,1.0,2-Year,Auto Pay,2.0
+46.0,69.47,0.0,419.0,Premium,0.0,8.0,ANNUAL,Bank Transfer,14.0
+17.0,99.86,6.72,184.0,Premium,0.0,7.0,2-Year,MANUAL,13.0
+42.0,44.3,,404.0,Family,1.0,3.0,Annual,Auto Pay,15.0
+55.0,63.11,6.62,134.0,PREMIUM,0.0,4.0,ANNUAL,Manual,
+41.0,75.67,9.02,451.0,,0.0,4.0,2-Year,Manual,7.0
+32.0,60.7,12.83,443.0,Premium,0.0,2.0,Monthly,,5.0
+12.0,58.65,14.11,310.0,Standard,0.0,6.0,2-Year,MANUAL,8.0
+22.0,53.59,0.87,434.0,Unlimited,,9.0,2-Year,Auto Pay,
+14.0,18.34,,284.0,basic,0.0,3.0,,auto pay,9.0
+50.0,63.06,0.77,422.0,Premium,0.0,1.0,Annual,MANUAL,1.0
+18.0,43.64,9.63,314.0,PREMIUM,0.0,8.0,Monthly,auto pay,17.0
+22.0,65.78,18.69,237.0,Premium,0.0,5.0,Monthly,Credit Card,4.0
+25.0,1000.0,0.92,168.0,Basic,,6.0,2-Year,Manual,4.0
+33.0,64.58,3.81,103.0,Premium,1.0,4.0,No Contract,auto pay,6.0
+11.0,114.43,9.79,163.0,Unlimited,,9.0,2-Year,MANUAL,3.0
+21.0,55.84,4.16,208.0,Family,0.0,2.0,Monthly,Manual,6.0
+55.0,75.62,1.06,68.0,basic,0.0,1.0,Annual,Bank Transfer,16.0
+18.0,81.47,6.57,409.0,Standard,1.0,9.0,Monthly,,5.0
+0.0,89.07,1.73,394.0,Standard,1.0,5.0,2-Year,MANUAL,17.0
+57.0,103.98,5.15,431.0,Standard,0.0,7.0,Monthly,Bank Transfer,10.0
+57.0,81.14,1.43,434.0,Family,1.0,,ANNUAL,Bank Transfer,7.0
+21.0,13.91,12.4,259.0,Premium,0.0,1.0,Monthly,auto pay,2.0
+25.0,,17.97,168.0,Family,1.0,6.0,Annual,Bank Transfer,10.0
+71.0,20.08,0.85,236.0,Standard,0.0,7.0,Monthly,Credit Card,1.0
+17.0,99.78,13.93,39.0,Basic,0.0,3.0,monthly,auto pay,3.0
+,55.04,10.27,10000.0,PREMIUM,0.0,,Monthly,,1.0
+60.0,-50.0,15.08,,Basic,,9.0,Monthly,MANUAL,13.0
+52.0,71.59,4.86,183.0,Basic,0.0,0.0,No Contract,MANUAL,6.0
+67.0,76.15,1.03,95.0,Premium,1.0,0.0,,Manual,18.0
+21.0,88.7,19.19,259.0,Family,0.0,4.0,monthly,Bank Transfer,7.0
+43.0,48.07,0.52,281.0,Unlimited,0.0,4.0,monthly,Auto Pay,7.0
+31.0,60.61,0.44,211.0,Premium,0.0,8.0,2-Year,Credit Card,9.0
+13.0,45.41,4.32,400.0,Standard,0.0,6.0,2-Year,Bank Transfer,19.0
+15.0,81.28,2.08,71.0,Unlimited,0.0,9.0,Annual,auto pay,8.0
+6.0,88.34,6.12,,Family,1.0,7.0,ANNUAL,auto pay,2.0
+-5.0,50.86,14.83,167.0,Premium,1.0,1.0,monthly,Bank Transfer,19.0
+,56.05,26.81,395.0,Unlimited,1.0,6.0,Monthly,Credit Card,11.0
+46.0,,11.78,251.0,Standard,0.0,2.0,2-Year,MANUAL,8.0
+33.0,79.05,,22.0,Basic,0.0,,ANNUAL,auto pay,8.0
+3.0,65.66,2.87,246.0,,0.0,2.0,Annual,Auto Pay,11.0
+33.0,65.2,1.11,385.0,Premium,1.0,4.0,ANNUAL,Auto Pay,19.0
+33.0,94.95,7.4,269.0,,0.0,2.0,2-Year,auto pay,4.0
+66.0,90.66,11.74,375.0,Basic,0.0,3.0,2-Year,Manual,2.0
+,58.01,,449.0,Standard,0.0,3.0,,auto pay,
+58.0,,5.56,70.0,PREMIUM,,,monthly,MANUAL,0.0
+24.0,93.59,1.86,496.0,Premium,1.0,0.0,No Contract,MANUAL,8.0
+65.0,110.57,7.43,53.0,PREMIUM,0.0,,Annual,Auto Pay,9.0
+60.0,,4.69,0.0,PREMIUM,,5.0,Annual,,4.0
+70.0,50.95,,2.0,Standard,0.0,2.0,Monthly,auto pay,3.0
+39.0,63.19,,278.0,Family,0.0,6.0,No Contract,Bank Transfer,15.0
+26.0,64.73,0.49,19.0,Premium,0.0,0.0,Monthly,Auto Pay,2.0
+62.0,42.42,15.83,,Family,0.0,4.0,ANNUAL,Credit Card,1.0
+,88.78,0.26,412.0,Premium,0.0,2.0,monthly,Credit Card,3.0
+14.0,58.93,43.86,212.0,,0.0,4.0,Monthly,Bank Transfer,15.0
+27.0,76.36,6.19,,Family,0.0,3.0,Annual,Manual,15.0
+71.0,83.12,1.24,17.0,Premium,0.0,3.0,2-Year,Manual,6.0
+57.0,,8.08,194.0,PREMIUM,0.0,0.0,Annual,Bank Transfer,4.0
+42.0,111.12,5.7,42.0,Unlimited,0.0,8.0,,auto pay,11.0
+27.0,42.52,0.16,276.0,,0.0,1.0,monthly,MANUAL,19.0
+65.0,50.66,1.85,331.0,basic,0.0,1.0,2-Year,Bank Transfer,5.0
+13.0,75.68,8.33,213.0,Basic,,9.0,Monthly,MANUAL,9.0
+47.0,,1000.0,417.0,Unlimited,0.0,6.0,Annual,Credit Card,2.0
+64.0,97.93,5.06,295.0,PREMIUM,1.0,7.0,monthly,MANUAL,17.0
+65.0,122.52,6.74,414.0,basic,1.0,9.0,Monthly,MANUAL,11.0
+15.0,64.2,12.09,444.0,,1.0,6.0,Annual,Bank Transfer,12.0
+67.0,70.81,1.65,296.0,Family,0.0,8.0,monthly,Auto Pay,19.0
+66.0,59.41,8.87,100.0,Basic,0.0,5.0,monthly,Auto Pay,15.0
+35.0,52.15,21.95,285.0,Family,0.0,,monthly,MANUAL,3.0
+68.0,80.56,3.49,402.0,basic,1.0,8.0,No Contract,Auto Pay,13.0
+50.0,,9.04,330.0,Unlimited,0.0,0.0,Monthly,,1.0
+51.0,36.91,,260.0,Unlimited,0.0,3.0,No Contract,auto pay,16.0
+41.0,114.18,10.09,29.0,Standard,0.0,0.0,Annual,Manual,0.0
+1.0,48.35,0.1,79.0,PREMIUM,0.0,4.0,,Credit Card,13.0
+23.0,76.68,10.78,75.0,Standard,1.0,9.0,No Contract,Auto Pay,10.0
+53.0,99.97,6.43,10000.0,Family,0.0,1.0,Monthly,Credit Card,2.0
+44.0,58.0,11.9,136.0,Unlimited,0.0,6.0,Annual,Auto Pay,6.0
+36.0,51.42,7.37,118.0,Unlimited,0.0,8.0,monthly,auto pay,17.0
+60.0,61.64,5.94,263.0,Premium,0.0,6.0,monthly,Auto Pay,3.0
+32.0,63.85,6.41,27.0,Standard,0.0,8.0,2-Year,Credit Card,4.0
+15.0,79.05,3.34,319.0,Basic,,0.0,Annual,Bank Transfer,4.0
+8.0,61.52,6.48,290.0,Family,0.0,5.0,Annual,auto pay,2.0
+4.0,75.2,,435.0,basic,0.0,3.0,Annual,auto pay,2.0
+-5.0,35.01,5.0,307.0,Basic,0.0,2.0,Monthly,Credit Card,14.0
+30.0,79.52,1.09,196.0,,,1.0,No Contract,Credit Card,12.0
+6.0,,28.68,355.0,PREMIUM,0.0,2.0,Annual,Bank Transfer,15.0
+3.0,65.48,13.02,84.0,Premium,0.0,7.0,No Contract,MANUAL,12.0
+50.0,76.13,18.3,204.0,Basic,0.0,5.0,ANNUAL,MANUAL,0.0
+34.0,57.14,11.57,202.0,Unlimited,1.0,,ANNUAL,Manual,0.0
+40.0,55.03,2.44,418.0,Unlimited,0.0,8.0,ANNUAL,Auto Pay,11.0
+52.0,74.45,9.8,266.0,PREMIUM,0.0,2.0,monthly,Manual,6.0
+62.0,106.62,15.85,483.0,Standard,1.0,6.0,Monthly,MANUAL,9.0
+5.0,,15.18,217.0,Standard,0.0,8.0,Annual,auto pay,4.0
+,77.68,0.76,23.0,basic,0.0,6.0,ANNUAL,MANUAL,6.0
+12.0,47.51,1.67,,PREMIUM,0.0,4.0,Monthly,auto pay,17.0
+35.0,37.26,0.68,99.0,PREMIUM,0.0,6.0,Monthly,MANUAL,
+66.0,38.87,10.27,156.0,Standard,0.0,8.0,2-Year,MANUAL,10.0
+,71.24,4.03,407.0,Premium,0.0,5.0,monthly,MANUAL,16.0
+9.0,47.22,5.6,53.0,Standard,0.0,2.0,ANNUAL,MANUAL,6.0
+24.0,18.59,0.67,187.0,Unlimited,0.0,8.0,monthly,auto pay,8.0
+13.0,84.52,0.39,268.0,Family,0.0,2.0,Annual,auto pay,13.0
+64.0,90.33,11.79,419.0,basic,0.0,6.0,ANNUAL,auto pay,
+15.0,44.06,12.3,356.0,basic,0.0,0.0,ANNUAL,Bank Transfer,13.0
+35.0,103.37,,344.0,PREMIUM,1.0,9.0,Monthly,MANUAL,0.0
+43.0,58.55,6.81,193.0,Standard,0.0,7.0,ANNUAL,Auto Pay,
+29.0,41.45,6.96,414.0,Basic,0.0,2.0,ANNUAL,,6.0
+24.0,48.22,4.44,131.0,Basic,1.0,4.0,monthly,Manual,4.0
+59.0,85.32,0.29,166.0,basic,0.0,4.0,Annual,Manual,12.0
+,91.32,4.79,212.0,Premium,0.0,0.0,ANNUAL,Manual,9.0
+26.0,76.31,5.24,428.0,,0.0,9.0,Annual,Bank Transfer,4.0
+19.0,46.72,16.91,237.0,basic,0.0,0.0,ANNUAL,Credit Card,4.0
+67.0,79.76,4.5,330.0,Unlimited,0.0,2.0,monthly,Bank Transfer,13.0
+54.0,36.61,8.79,25.0,Standard,0.0,2.0,2-Year,MANUAL,1.0
+40.0,82.86,7.46,324.0,PREMIUM,0.0,6.0,ANNUAL,auto pay,16.0
+52.0,60.46,7.8,175.0,Basic,0.0,5.0,Annual,Auto Pay,4.0
+1000.0,74.05,14.07,241.0,Family,0.0,5.0,,MANUAL,2.0
+28.0,29.68,6.92,1.0,Standard,1.0,9.0,Monthly,Auto Pay,6.0
+25.0,,7.13,407.0,Basic,0.0,1.0,Annual,Credit Card,8.0
+56.0,73.21,3.06,271.0,Basic,0.0,9.0,2-Year,Auto Pay,5.0
+30.0,127.67,5.89,284.0,Family,0.0,5.0,monthly,MANUAL,11.0
+61.0,65.9,28.87,475.0,Basic,0.0,8.0,No Contract,Credit Card,13.0
+55.0,113.05,6.59,,Standard,1.0,7.0,Annual,Bank Transfer,16.0
+0.0,84.43,14.24,485.0,Family,1.0,5.0,Annual,Credit Card,11.0
+0.0,29.28,1.11,362.0,Unlimited,1.0,9.0,monthly,Credit Card,15.0
+3.0,77.47,1.35,360.0,basic,0.0,,2-Year,Manual,14.0
+43.0,44.18,2.63,353.0,Family,1.0,8.0,No Contract,Auto Pay,8.0
+18.0,25.8,,355.0,Family,1.0,0.0,Annual,Manual,16.0
+19.0,87.13,2.1,165.0,Premium,0.0,9.0,Monthly,Auto Pay,16.0
+18.0,-50.0,8.0,96.0,Standard,0.0,3.0,ANNUAL,Manual,2.0
+21.0,77.19,14.5,11.0,basic,0.0,5.0,No Contract,auto pay,19.0
+21.0,13.91,12.4,259.0,Premium,0.0,1.0,Monthly,,2.0
+59.0,-50.0,19.18,,basic,1.0,3.0,Annual,Manual,7.0
+47.0,66.49,0.37,125.0,basic,0.0,9.0,Annual,Bank Transfer,3.0
+36.0,42.05,8.93,250.0,Basic,0.0,3.0,2-Year,Manual,13.0
+63.0,59.21,9.39,285.0,Standard,0.0,8.0,No Contract,auto pay,18.0
+,62.29,15.9,76.0,Standard,0.0,5.0,Monthly,Auto Pay,19.0
+11.0,84.72,6.16,100.0,Basic,0.0,4.0,monthly,,
+49.0,54.09,7.79,323.0,Standard,0.0,0.0,Monthly,Auto Pay,0.0
+32.0,68.94,9.65,17.0,Unlimited,0.0,3.0,ANNUAL,,16.0
+36.0,51.7,4.49,220.0,basic,1.0,8.0,2-Year,,11.0
+3.0,51.14,4.2,85.0,Family,0.0,,2-Year,Auto Pay,18.0
+38.0,38.27,7.68,132.0,Unlimited,1.0,1.0,Monthly,Credit Card,3.0
+46.0,101.9,8.96,24.0,basic,,3.0,monthly,Bank Transfer,15.0
+22.0,55.58,11.18,349.0,Premium,0.0,6.0,ANNUAL,MANUAL,11.0
+37.0,82.23,1.62,379.0,Standard,0.0,1.0,Annual,MANUAL,
+36.0,79.02,3.15,21.0,Basic,0.0,8.0,monthly,Bank Transfer,19.0
+15.0,118.83,8.32,,Basic,0.0,9.0,Monthly,auto pay,10.0
+,124.19,13.43,486.0,Premium,0.0,4.0,monthly,,0.0
+52.0,84.05,2.74,2.0,Standard,0.0,3.0,2-Year,Bank Transfer,12.0
+0.0,37.78,13.0,484.0,,0.0,5.0,No Contract,Auto Pay,18.0
+14.0,114.93,11.78,393.0,Standard,0.0,2.0,2-Year,MANUAL,3.0
+60.0,81.28,6.53,152.0,Basic,1.0,5.0,No Contract,Auto Pay,17.0
+11.0,87.38,8.79,246.0,Family,1.0,3.0,2-Year,,
+37.0,69.85,2.2,102.0,Family,1.0,8.0,monthly,,10.0
+56.0,22.15,19.29,463.0,Family,0.0,1.0,2-Year,Manual,15.0
+30.0,31.15,17.46,395.0,,0.0,1.0,Annual,auto pay,12.0
+37.0,39.03,5.1,434.0,Family,0.0,0.0,,Bank Transfer,3.0
+41.0,74.02,5.85,333.0,Basic,0.0,3.0,Monthly,Manual,8.0
+28.0,87.72,15.07,278.0,Basic,0.0,1.0,2-Year,Bank Transfer,11.0
+53.0,51.46,1.14,488.0,Family,,0.0,No Contract,Credit Card,18.0
+23.0,44.07,0.04,372.0,Family,0.0,2.0,ANNUAL,Bank Transfer,14.0
+43.0,25.56,20.44,412.0,basic,0.0,9.0,No Contract,Credit Card,12.0
+39.0,78.2,9.92,33.0,Unlimited,0.0,9.0,Monthly,Manual,19.0
+0.0,30.35,19.33,151.0,PREMIUM,1.0,1.0,2-Year,auto pay,2.0
+41.0,57.68,4.96,105.0,Family,0.0,,monthly,auto pay,12.0
+69.0,79.65,1.22,319.0,basic,0.0,8.0,2-Year,Manual,10.0
+48.0,51.6,0.78,163.0,basic,1.0,4.0,No Contract,Bank Transfer,5.0
+8.0,77.51,1.19,380.0,Premium,0.0,2.0,No Contract,Bank Transfer,18.0
+1.0,8.73,11.62,101.0,PREMIUM,0.0,9.0,No Contract,Manual,5.0
+13.0,,0.39,268.0,Family,0.0,2.0,Annual,auto pay,
+65.0,,1.35,305.0,Standard,1.0,0.0,Annual,Credit Card,17.0
+54.0,127.47,4.6,176.0,Basic,0.0,7.0,monthly,auto pay,9.0
+63.0,39.8,4.38,440.0,basic,0.0,7.0,monthly,Bank Transfer,8.0
+61.0,64.53,3.31,161.0,Standard,0.0,9.0,ANNUAL,MANUAL,15.0
+61.0,101.19,,310.0,PREMIUM,0.0,6.0,Annual,Manual,3.0
+44.0,76.61,3.99,121.0,Basic,0.0,0.0,Monthly,,10.0
+19.0,107.96,0.66,185.0,Standard,0.0,1.0,monthly,Manual,10.0
+70.0,71.36,0.97,215.0,basic,1.0,9.0,Monthly,MANUAL,11.0
+5.0,117.97,15.18,217.0,Standard,0.0,,Annual,auto pay,4.0
+14.0,45.77,,254.0,Basic,0.0,6.0,ANNUAL,auto pay,7.0
+14.0,87.59,4.42,368.0,basic,1.0,5.0,,Auto Pay,14.0
+66.0,88.56,1.05,408.0,Standard,0.0,2.0,2-Year,Manual,5.0
+71.0,82.86,0.68,,Family,0.0,4.0,2-Year,Bank Transfer,19.0
+54.0,71.32,1.77,193.0,basic,1.0,2.0,2-Year,Credit Card,8.0
+1000.0,74.05,14.07,241.0,Family,0.0,5.0,Monthly,MANUAL,
+52.0,52.57,5.91,356.0,Basic,0.0,5.0,Monthly,auto pay,4.0
+13.0,104.76,12.02,171.0,Basic,0.0,1.0,Annual,Manual,8.0
+60.0,51.46,7.01,205.0,,0.0,1.0,,Credit Card,19.0
+28.0,79.14,0.36,44.0,PREMIUM,0.0,1.0,2-Year,MANUAL,10.0
+58.0,116.97,10.98,1.0,Standard,0.0,3.0,Monthly,MANUAL,7.0
+61.0,96.63,0.73,59.0,Premium,1.0,,No Contract,Auto Pay,2.0
+29.0,34.79,12.49,349.0,basic,0.0,7.0,No Contract,Manual,0.0
+48.0,98.52,2.87,77.0,basic,0.0,8.0,Annual,Credit Card,0.0
+32.0,76.45,9.65,342.0,Premium,0.0,5.0,Monthly,MANUAL,1.0
+25.0,52.73,2.39,389.0,basic,1.0,0.0,2-Year,auto pay,2.0
+55.0,77.62,,304.0,Premium,0.0,7.0,ANNUAL,Auto Pay,4.0
+69.0,68.67,1.64,148.0,Unlimited,0.0,2.0,,Manual,8.0
+22.0,39.23,16.42,406.0,Basic,0.0,7.0,monthly,MANUAL,10.0
+32.0,36.57,3.54,171.0,Unlimited,0.0,1.0,ANNUAL,Auto Pay,1.0
+49.0,109.5,12.26,496.0,Basic,0.0,3.0,No Contract,Credit Card,14.0
+21.0,-50.0,17.26,262.0,Standard,0.0,2.0,No Contract,Bank Transfer,10.0
+59.0,72.64,9.71,491.0,PREMIUM,1.0,1.0,Monthly,Bank Transfer,10.0
+12.0,22.02,1.91,311.0,basic,0.0,1.0,monthly,Credit Card,7.0
+49.0,49.13,1.06,345.0,Premium,1.0,3.0,Annual,Credit Card,15.0
+46.0,71.21,3.85,141.0,Family,,0.0,No Contract,Manual,16.0
+22.0,42.05,10.18,85.0,PREMIUM,0.0,6.0,No Contract,Manual,7.0
+,49.98,2.04,187.0,Unlimited,0.0,7.0,2-Year,Auto Pay,4.0
+39.0,56.25,14.34,95.0,Basic,0.0,5.0,monthly,Manual,16.0
+35.0,89.99,18.95,77.0,Unlimited,0.0,6.0,Monthly,Auto Pay,8.0
+34.0,66.21,19.72,150.0,basic,,9.0,No Contract,Auto Pay,13.0
+16.0,60.97,2.54,18.0,Family,0.0,4.0,monthly,auto pay,18.0
+62.0,,9.28,242.0,Unlimited,0.0,7.0,No Contract,Auto Pay,12.0
+,88.19,0.52,18.0,Premium,1.0,2.0,monthly,Auto Pay,19.0
+46.0,35.36,3.64,,PREMIUM,0.0,2.0,Annual,,7.0
+13.0,29.58,8.67,207.0,basic,0.0,100.0,No Contract,Bank Transfer,4.0
+53.0,79.43,2.84,362.0,PREMIUM,1.0,2.0,monthly,Credit Card,9.0
+48.0,70.26,13.38,408.0,Family,0.0,8.0,ANNUAL,MANUAL,8.0
+19.0,78.57,1.33,475.0,Unlimited,1.0,,monthly,Auto Pay,2.0
+37.0,44.64,,245.0,Family,0.0,0.0,,auto pay,8.0
+69.0,45.6,15.99,441.0,Unlimited,0.0,8.0,2-Year,Credit Card,18.0
+20.0,39.85,4.68,,Standard,0.0,,Monthly,auto pay,2.0
+41.0,,2.9,147.0,Family,1.0,0.0,2-Year,auto pay,6.0
+36.0,27.44,1.89,467.0,Premium,1.0,1.0,monthly,auto pay,18.0
+0.0,63.93,4.14,338.0,Standard,1.0,0.0,Annual,Manual,
+33.0,59.08,6.6,478.0,Premium,0.0,2.0,Monthly,MANUAL,11.0
+43.0,62.48,2.44,92.0,Unlimited,0.0,,Annual,Auto Pay,13.0
+29.0,68.81,0.84,267.0,PREMIUM,1.0,5.0,Annual,auto pay,12.0
+,84.29,4.45,389.0,PREMIUM,1.0,4.0,ANNUAL,,
+50.0,33.73,1.06,72.0,Unlimited,,5.0,2-Year,Auto Pay,11.0
+65.0,33.58,14.33,185.0,Family,0.0,4.0,Monthly,Manual,19.0
+69.0,62.06,12.13,368.0,Family,1.0,9.0,monthly,auto pay,6.0
+14.0,43.24,1.93,321.0,Standard,0.0,4.0,ANNUAL,Credit Card,1.0
+11.0,41.54,36.91,404.0,basic,0.0,1.0,Monthly,Bank Transfer,0.0
+44.0,67.37,4.33,79.0,Unlimited,0.0,7.0,No Contract,Manual,16.0
+3.0,55.77,16.32,,Family,1.0,9.0,monthly,Credit Card,19.0
+38.0,-0.21,6.05,488.0,Premium,0.0,,Annual,Bank Transfer,6.0
+3.0,69.17,12.28,159.0,Premium,0.0,0.0,Monthly,Credit Card,
+23.0,129.9,9.7,87.0,basic,,6.0,ANNUAL,auto pay,6.0
+4.0,51.5,7.47,215.0,Unlimited,0.0,7.0,ANNUAL,auto pay,8.0
+27.0,,19.09,269.0,Standard,0.0,,Annual,,9.0
+32.0,53.5,4.47,33.0,Unlimited,0.0,6.0,Annual,,3.0
+41.0,46.07,2.23,,Family,0.0,1.0,Annual,Manual,7.0
