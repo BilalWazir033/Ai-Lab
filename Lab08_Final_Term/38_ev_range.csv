@@ -1,0 +1,951 @@
+manufacturer,vehicle_type,charging_type_last,drive_config,battery_chemistry,model_year,battery_capacity_kwh,battery_age_years,battery_health_pct,motor_power_kw,vehicle_weight_kg,drag_coefficient,tire_type,ambient_temp_c,hvac_usage,avg_speed_kmh,elevation_change_m,num_passengers,cargo_weight_kg,regenerative_braking,driving_mode,wind_speed_kmh,actual_range_km
+Hyundai,,Supercharger,FWD,LFP,2024.0,62.9,,98.3,,,0.305,Low Rolling Resistance,38.1,Max Heat,,349.9,,270.0,Off,Chill,,499.9
+Tesla,Sports Car,Wireless,AWD,NCA,2024.0,49.9,2.0,79.0,679.0,1455.0,0.306,Low Rolling Resistance,-6.8,Max Heat,98.2,337.9,1.0,471.0,,Chill,50.0,328.2
+BMW,Truck,DC Fast Charge,FWD,Solid State,2015.0,29.6,6.0,73.0,455.0,,0.329,Standard,13.7,Heating,123.1,65.7,2.0,,High,Off-Road,60.5,421.7
+NIO,Crossover,Wireless,AWD,NMC,2021.0,65.5,2.0,87.2,,3812.0,0.433,All-Terrain,-1.6,Max Cool,,,5.0,45.0,Off,Sport,21.2,647.8
+NIO,Crossover,,FWD,NMC,2021.0,127.1,,78.9,222.0,1842.0,0.434,Low Rolling Resistance,,Heating,55.3,-248.0,3.0,169.0,Off,Off-Road,39.0,527.3
+Audi,Sports Car,Supercharger,RWD,NMC,2018.0,42.0,0.0,,,3987.0,0.481,Low Rolling Resistance,5.9,Cooling,123.8,-472.4,6.0,250.0,Medium,,9.5,601.4
+Hyundai,Truck,,FWD,NMCA,2024.0,27.5,6.0,88.6,461.0,,0.431,Low Rolling Resistance,-16.8,,,164.2,,36.0,Medium,Sport,25.6,631.1
+NIO,Van,,AWD,LFP,2023.0,98.6,9.0,71.7,104.0,3762.0,0.311,Standard,21.5,Max Heat,78.9,-137.6,5.0,343.0,High,,76.6,535.1
+Audi,,Wireless,RWD,,2017.0,94.9,4.0,95.3,561.0,3849.0,0.328,Low Rolling Resistance,35.0,Max Heat,90.3,467.6,,130.0,,Chill,29.7,149.7
+Polestar,Truck,Level 1,,NMCA,2024.0,,1.0,72.2,340.0,2016.0,,All-Terrain,18.1,Heating,32.4,60.9,4.0,77.0,Medium,,,682.9
+,Sports Car,Level 1,,NCA,2019.0,118.9,7.0,66.9,432.0,1223.0,0.421,All-Terrain,-4.1,None,92.4,,1.0,51.0,Low,Sport,74.4,232.2
+,Van,Supercharger,AWD,NMC,,127.8,5.0,64.8,,3867.0,0.239,Performance,,None,,187.0,5.0,446.0,Low,,3.7,356.3
+Tesla,Sports Car,DC Fast Charge,FWD,,2024.0,82.0,1.0,63.3,,2805.0,0.219,Low Rolling Resistance,,,100.6,212.7,,,,,,656.0
+Audi,,Wireless,AWD,NMC,,34.0,8.0,92.6,,3541.0,0.34,All-Terrain,3.0,Heating,76.5,-120.3,4.0,,Medium,,67.0,139.2
+BMW,Sedan,Level 1,AWD,NCA,2015.0,33.3,3.0,66.2,397.0,,0.398,Performance,-19.7,,117.7,-137.9,4.0,53.0,Low,,75.8,515.1
+BMW,Van,Level 2,AWD,NMCA,2019.0,67.5,9.0,70.8,238.0,3832.0,0.489,Performance,5.5,,114.3,-370.2,,,Medium,Normal,10.3,429.8
+,Van,Wireless,4WD,NCA,2016.0,60.2,5.0,72.1,394.0,1356.0,,Low Rolling Resistance,41.9,Heating,47.6,107.2,4.0,435.0,Medium,Normal,70.0,234.0
+Rivian,Van,Supercharger,4WD,NMC,2015.0,104.5,9.0,63.8,384.0,3372.0,,,22.9,Cooling,33.1,,5.0,307.0,Off,Sport,,312.3
+NIO,Crossover,DC Fast Charge,AWD,NMCA,2016.0,127.9,2.0,75.2,544.0,1479.0,0.293,Standard,25.5,None,26.2,316.8,,171.0,Off,Normal,18.2,314.4
+VW,Truck,DC Fast Charge,FWD,NMCA,2023.0,127.4,1.0,71.3,232.0,2826.0,,All-Terrain,5.4,Heating,,-495.8,6.0,376.0,High,Chill,79.0,572.6
+BMW,SUV,Wireless,RWD,NMC,2017.0,104.1,,87.5,388.0,1847.0,,Low Rolling Resistance,27.9,Heating,113.5,37.8,6.0,268.0,Medium,Normal,25.2,448.0
+,Sedan,,AWD,NMC,2019.0,122.1,4.0,88.6,562.0,2835.0,0.289,Standard,14.5,None,50.2,-295.8,5.0,170.0,Max,Eco,27.3,646.5
+Hyundai,SUV,Level 1,RWD,LFP,2023.0,34.2,5.0,66.5,600.0,3406.0,0.219,Low Rolling Resistance,40.5,Heating,28.6,-268.1,1.0,368.0,Off,Sport,2.8,566.9
+VW,Hatchback,Wireless,AWD,NCA,2018.0,35.9,0.0,92.6,597.0,2738.0,0.477,Low Rolling Resistance,40.9,Cooling,,280.0,3.0,100.0,Off,Eco,,424.6
+BYD,Truck,Level 2,FWD,Solid State,,112.4,2.0,76.1,298.0,1663.0,0.205,Performance,,Max Heat,34.2,,2.0,241.0,High,Normal,62.3,305.4
+Lucid,Sports Car,Supercharger,AWD,NMC,2022.0,92.7,1.0,92.9,263.0,2349.0,,,29.9,Max Cool,41.7,,,200.0,High,Off-Road,54.2,411.2
+Polestar,Hatchback,,RWD,LFP,2016.0,20.5,4.0,83.5,590.0,2154.0,0.426,Standard,-14.1,Cooling,104.1,-353.1,6.0,37.0,High,Chill,20.3,166.8
+BYD,Sports Car,Supercharger,AWD,NCA,2019.0,124.3,,69.3,471.0,3554.0,0.38,All-Terrain,39.7,Max Heat,45.8,,,415.0,Medium,,4.4,347.4
+BYD,Sports Car,Supercharger,4WD,Solid State,2020.0,129.8,6.0,61.4,325.0,3949.0,0.444,Low Rolling Resistance,31.4,,120.9,-285.1,5.0,25.0,Medium,Sport,5.1,472.2
+VW,Crossover,Level 1,,LFP,2017.0,84.5,3.0,61.6,429.0,3062.0,0.486,,16.0,Heating,69.9,-174.2,4.0,,Low,Eco,67.0,215.7
+BYD,Sports Car,Supercharger,RWD,LFP,2021.0,79.4,0.0,81.1,420.0,1770.0,0.207,Standard,-17.8,Heating,85.4,111.4,5.0,58.0,High,Sport,46.3,528.2
+Rivian,Hatchback,Supercharger,AWD,NMC,2019.0,,4.0,,518.0,,0.459,Standard,2.5,Heating,28.6,96.4,2.0,111.0,Low,Chill,47.1,487.8
+Tesla,,Supercharger,FWD,NMC,2024.0,82.3,3.0,87.8,245.0,1351.0,0.389,Standard,4.9,None,94.3,,,486.0,High,Sport,38.0,607.9
+LUCID,Hatchback,DC Fast Charge,AWD,LFP,2015.0,96.9,8.0,96.0,373.0,2738.0,0.231,Low Rolling Resistance,25.5,,112.6,448.1,5.0,492.0,High,,51.4,177.5
+Polestar,Sports Car,Level 2,AWD,,2019.0,82.5,7.0,92.8,91.0,2154.0,0.294,Standard,6.8,Heating,27.8,-64.9,5.0,211.0,High,Off-Road,40.5,3091.634606250512
+Rivian,Sports Car,Level 2,AWD,NCA,2015.0,54.5,8.0,92.3,52.0,3510.0,0.245,,-9.6,Max Heat,,201.0,5.0,234.0,High,Sport,1.7,604.3
+,Crossover,Wireless,FWD,NMCA,2016.0,33.4,5.0,67.1,647.0,2505.0,0.326,Standard,,Cooling,38.2,330.5,4.0,118.0,Off,Normal,60.2,347.5
+tesla ,Sports Car,DC Fast Charge,AWD,NCA,,64.1,5.0,,616.0,2811.0,0.329,Low Rolling Resistance,17.7,Max Heat,,108.6,2.0,287.0,,Off-Road,71.3,355.1
+AUDI,Sedan,Level 1,4WD,Solid State,2024.0,124.5,6.0,72.0,247.0,2252.0,,Low Rolling Resistance,37.6,Heating,115.1,-378.1,4.0,274.0,Max,Chill,45.1,455.3
+BMW,Van,Level 1,AWD,,2023.0,77.9,0.0,66.5,317.0,3225.0,0.499,Performance,4.0,Cooling,51.6,,,332.0,,Sport,43.6,225.1
+NIO ,Sedan,Level 1,RWD,Solid State,2021.0,90.2,6.0,74.1,,3594.0,0.337,Performance,19.6,Heating,112.6,422.8,5.0,,High,Normal,13.1,471.6
+BMW,,Level 2,AWD,,2021.0,23.2,0.0,78.2,550.0,1606.0,0.227,,3.0,Cooling,121.9,272.7,,381.0,High,Chill,49.9,320.6
+VW,Hatchback,Level 1,AWD,NCA,2015.0,120.7,0.0,92.6,192.0,2445.0,0.427,Performance,3.8,None,67.2,433.0,2.0,361.0,Medium,Normal,30.0,230.9
+Rivian,,,4WD,NMC,2023.0,98.4,0.0,93.2,139.0,1365.0,0.257,Low Rolling Resistance,26.6,,91.6,-102.8,5.0,203.0,Low,Eco,28.7,495.6
+rivin,Van,Supercharger,AWD,NCA,2023.0,98.7,2.0,61.4,119.0,3385.0,0.241,Standard,,None,91.7,495.8,4.0,252.0,Medium,Off-Road,35.3,665.4
+BYD,Crossover,DC Fast Charge,AWD,LFP,2015.0,56.3,5.0,80.7,566.0,3603.0,0.482,Low Rolling Resistance,39.8,Heating,75.2,243.1,6.0,308.0,Off,Normal,30.4,520.4
+BYD ,Crossover,Level 2,FWD,NCA,2019.0,80.2,1.0,62.9,262.0,1755.0,0.459,Low Rolling Resistance,21.5,Max Cool,82.9,243.8,5.0,73.0,,,62.5,651.6
+Hyundai,Van,Level 2,AWD,NMC,2024.0,52.6,2.0,70.3,401.0,2136.0,0.496,All-Terrain,31.1,,67.3,-12.8,6.0,,Off,,24.7,484.2
+Audi,Van,,FWD,Solid State,2015.0,,,61.2,637.0,2503.0,0.201,Performance,-2.8,Max Cool,32.1,-94.0,1.0,,Max,Normal,25.5,82.7
+NIO,Crossover,Level 2,,LFP,2018.0,80.4,3.0,,162.0,,0.377,Performance,16.0,Max Cool,127.5,-344.9,5.0,333.0,High,Eco,54.6,196.8
+,Sports Car,,FWD,NMC,,,0.0,64.9,457.0,2562.0,0.214,Low Rolling Resistance,27.0,Max Cool,103.1,-378.0,1.0,384.0,Low,Sport,31.2,623.8
+Tesla,Sedan,Supercharger,,NMC,2018.0,118.5,5.0,95.3,,2516.0,0.471,Low Rolling Resistance,41.6,Max Heat,101.1,,,161.0,High,Sport,23.6,517.7
+Polestar,Van,Supercharger,4WD,NCA,2017.0,32.7,7.0,63.1,193.0,,0.238,Low Rolling Resistance,1.3,Cooling,,427.1,6.0,497.0,Low,Chill,45.0,125.3
+VW,,DC Fast Charge,4WD,,2020.0,34.6,1.0,76.1,395.0,,0.263,Standard,40.9,Max Cool,29.5,268.0,2.0,300.0,Low,Chill,11.3,155.5
+RIVIAN,SUV,Supercharger,4WD,NCA,2022.0,103.9,9.0,96.1,608.0,2883.0,0.431,All-Terrain,18.7,Max Cool,68.3,173.4,6.0,291.0,,Chill,,497.3
+tesla ,Truck,Supercharger,FWD,NMC,2015.0,94.3,6.0,98.0,435.0,2536.0,0.299,Low Rolling Resistance,17.5,Heating,85.2,36.5,3.0,461.0,Max,Off-Road,0.9,576.5
+Tesla,Sedan,Supercharger,AWD,,,110.4,9.0,,323.0,1904.0,0.322,,,Max Heat,73.5,-286.8,3.0,,High,Normal,58.5,246.1
+Tesla,Sedan,DC Fast Charge,4WD,Solid State,2021.0,96.7,5.0,73.3,446.0,1575.0,0.467,Performance,-5.8,Cooling,111.6,-87.9,4.0,153.0,High,Sport,59.2,293.0
+Hyundai,Van,,4WD,Solid State,2020.0,25.0,4.0,68.0,253.0,3801.0,0.201,Standard,21.7,None,43.6,-65.3,6.0,264.0,Off,Normal,6.5,316.2
+Rivian,,Wireless,FWD,,2024.0,,4.0,95.0,478.0,1301.0,0.23,Standard,35.4,None,44.3,,2.0,282.0,Off,Normal,25.3,642.7
+Rivian,,Wireless,4WD,NMCA,2015.0,23.0,8.0,86.2,684.0,3259.0,0.459,Performance,20.5,Max Heat,,-148.5,6.0,295.0,Max,Normal,43.8,678.4
+BMW,Sports Car,DC Fast Charge,RWD,Solid State,2019.0,87.0,2.0,90.2,72.0,2513.0,0.263,Performance,17.8,Max Cool,112.3,,1.0,237.0,Medium,Off-Road,7.0,108.3
+,,Supercharger,4WD,NMCA,2018.0,37.0,3.0,90.2,505.0,2611.0,0.313,,,Max Heat,77.4,-311.7,5.0,132.0,Low,Chill,42.9,630.3
+Audi,Crossover,Level 1,4WD,NCA,,32.4,0.0,86.1,659.0,2103.0,0.419,Low Rolling Resistance,-14.0,Max Heat,118.0,,5.0,157.0,Medium,Eco,3.3,555.7
+BYD,Truck,Level 2,AWD,NMCA,2018.0,126.3,7.0,72.9,386.0,,0.392,Performance,10.7,Heating,111.4,-497.8,4.0,487.0,High,Normal,25.5,442.6
+BYD ,Hatchback,Wireless,FWD,Solid State,2018.0,,9.0,,378.0,2173.0,0.311,Low Rolling Resistance,-9.2,Max Cool,,328.2,6.0,239.0,Max,,15.3,131.4
+NIO,Sedan,Level 1,AWD,NMCA,,72.9,5.0,,616.0,3716.0,0.466,Standard,16.9,Cooling,126.1,-108.1,2.0,413.0,Medium,Eco,10.0,284.3
+tesla ,SUV,Level 1,AWD,,2017.0,104.0,9.0,61.9,353.0,1219.0,0.391,Standard,27.1,Cooling,74.5,-36.2,,87.0,Low,Eco,57.1,678.6
+Lucid,Crossover,Wireless,FWD,NMCA,2024.0,69.9,0.0,96.2,,3701.0,0.29,Performance,-15.3,Heating,24.6,265.9,3.0,298.0,,Eco,45.7,638.2
+VW,,Supercharger,AWD,Solid State,2015.0,72.7,0.0,71.4,451.0,3425.0,0.449,Low Rolling Resistance,32.5,Max Heat,75.8,213.6,5.0,68.0,Low,Eco,,376.0
+Tesla,SUV,DC Fast Charge,AWD,Solid State,2016.0,35.1,9.0,81.0,525.0,1649.0,0.216,Performance,10.9,Max Heat,92.7,-489.9,5.0,310.0,,Off-Road,,255.1
+Tesla,SUV,Level 1,4WD,LFP,2020.0,44.5,0.0,72.3,686.0,3297.0,,Low Rolling Resistance,-17.2,,,-362.9,,212.0,Max,Eco,9.3,517.4
+,Truck,,4WD,NMCA,,69.2,3.0,65.6,586.0,1366.0,,Low Rolling Resistance,,Cooling,73.1,242.4,6.0,299.0,Max,Normal,,619.0
+BYD,,Supercharger,RWD,NMC,2019.0,56.6,8.0,88.6,202.0,1209.0,,Performance,-14.6,None,46.7,,2.0,,High,Normal,,243.3
+Rivian,,Wireless,FWD,NMCA,2015.0,,0.0,81.6,435.0,2946.0,0.303,Standard,,Cooling,40.1,366.1,2.0,231.0,,Normal,,159.3
+Hyundai,Hatchback,Supercharger,RWD,NMC,2018.0,27.6,1.0,87.9,497.0,1676.0,0.455,Low Rolling Resistance,45.0,None,43.0,,5.0,,High,Off-Road,77.0,647.5
+Rivian,Sedan,Supercharger,RWD,NMCA,2023.0,110.7,,87.5,563.0,,0.482,Performance,29.3,Cooling,51.4,-498.9,,420.0,Low,Off-Road,29.7,459.8
+bmw,Sedan,Supercharger,AWD,LFP,2021.0,95.5,7.0,65.6,395.0,1397.0,0.382,Performance,,,,-225.1,1.0,107.0,High,Chill,,519.3
+Audi,Truck,,RWD,NCA,2018.0,93.5,8.0,93.2,188.0,3312.0,0.214,All-Terrain,-0.9,,117.1,93.4,1.0,,Medium,Normal,35.7,184.0
+,Hatchback,Level 2,4WD,LFP,2022.0,87.0,2.0,71.1,103.0,,0.417,,15.4,,,,3.0,390.0,Low,,,292.2
+Hyundai,Crossover,Level 1,AWD,LFP,2015.0,85.6,3.0,71.7,468.0,2628.0,0.317,Low Rolling Resistance,1.1,Cooling,49.9,-39.5,4.0,,Off,Normal,40.8,468.0
+Rivian,,Level 1,4WD,NMCA,,54.9,3.0,66.9,520.0,3215.0,0.458,,,Max Heat,31.8,119.6,2.0,317.0,Medium,,61.6,386.1
+Polestar,Sports Car,Level 2,,NCA,2021.0,52.7,9.0,74.8,472.0,3048.0,0.308,All-Terrain,12.8,Max Heat,95.9,-443.8,,,,Normal,78.4,157.8
+NIO,Crossover,DC Fast Charge,FWD,Solid State,2019.0,36.6,4.0,69.6,569.0,2382.0,0.251,Performance,-16.9,,95.2,171.1,2.0,85.0,High,,,599.2
+,Van,Level 2,AWD,,2024.0,126.9,9.0,62.9,172.0,2874.0,0.303,All-Terrain,25.4,,83.9,,2.0,118.0,Low,Sport,65.7,543.1
+HYUNDAI,Van,DC Fast Charge,FWD,Solid State,2022.0,,5.0,98.7,363.0,1998.0,0.471,Performance,,None,76.1,34.6,5.0,60.0,Low,Sport,51.6,481.9
+Lucid,Sports Car,,AWD,NCA,2017.0,110.7,8.0,75.9,529.0,2427.0,0.458,All-Terrain,39.3,Heating,111.5,,3.0,226.0,,Sport,22.4,261.6
+,Sedan,,FWD,LFP,2022.0,118.2,5.0,81.3,140.0,,0.354,,22.1,Max Heat,,124.8,,201.0,Medium,Normal,66.0,100.0
+Polestar,SUV,Level 2,4WD,Solid State,2019.0,,6.0,93.1,267.0,1588.0,0.372,Low Rolling Resistance,35.3,,102.6,-411.7,4.0,219.0,Low,Eco,,646.0
+BYD,Truck,Supercharger,RWD,Solid State,2016.0,66.2,7.0,85.2,303.0,2457.0,0.433,Performance,13.4,Max Cool,24.2,-31.0,3.0,350.0,High,Normal,30.9,117.9
+rivin,Sedan,DC Fast Charge,4WD,,2023.0,94.1,8.0,95.8,335.0,1966.0,,All-Terrain,1.5,Max Heat,54.8,414.9,5.0,296.0,Off,Eco,17.2,547.4
+Lucid,Crossover,Level 1,FWD,NMCA,2020.0,29.8,6.0,83.2,149.0,3455.0,0.454,Low Rolling Resistance,3.8,Max Heat,73.2,,2.0,297.0,Off,Off-Road,73.8,235.6
+Audi,Truck,Wireless,,,2023.0,44.7,7.0,70.1,76.0,3557.0,0.346,All-Terrain,6.1,,29.9,,1.0,330.0,High,Eco,60.2,636.0
+NIO,SUV,Wireless,4WD,,2024.0,45.0,8.0,92.2,555.0,2064.0,0.273,Standard,-9.6,Heating,82.4,198.0,2.0,354.0,,,,352.5
+Lucid,Sedan,,FWD,NMC,2015.0,102.4,1.0,88.8,608.0,,0.411,All-Terrain,-3.4,Max Cool,50.4,-265.7,4.0,419.0,Max,Chill,3.8,430.5
+Polestar,,Level 2,AWD,,2017.0,99.8,0.0,85.8,549.0,2748.0,0.404,Low Rolling Resistance,-11.8,Heating,31.2,-314.1,3.0,339.0,Off,,38.9,92.6
+Audi,Hatchback,Wireless,AWD,NCA,2018.0,95.9,3.0,,671.0,3645.0,0.218,Low Rolling Resistance,10.8,Max Cool,38.0,71.4,4.0,260.0,Max,Normal,29.9,312.7
+,Hatchback,Supercharger,RWD,NMC,2016.0,75.3,0.0,71.5,229.0,2270.0,0.42,Performance,,Heating,118.9,382.3,5.0,256.0,Low,Eco,26.4,463.4
+Polestar,,,RWD,LFP,2015.0,92.9,7.0,62.8,486.0,1571.0,0.439,Low Rolling Resistance,32.5,None,84.7,293.9,3.0,369.0,Low,Normal,65.2,288.5
+VW,Truck,Level 2,FWD,LFP,2023.0,,3.0,82.0,462.0,3471.0,0.404,Standard,-6.4,Heating,,,6.0,215.0,Max,Normal,20.9,5764.86328165706
+hyundai,SUV,Level 2,4WD,NMCA,2018.0,108.1,0.0,65.4,514.0,1342.0,0.202,All-Terrain,18.0,None,50.5,,5.0,383.0,Off,Off-Road,36.9,575.2
+,Sports Car,Level 2,AWD,LFP,2018.0,113.9,3.0,84.4,238.0,1278.0,0.34,All-Terrain,32.7,Cooling,,-53.1,1.0,209.0,Max,Sport,36.9,109.9
+POLESTAR,,Level 2,4WD,NMC,2022.0,44.9,1.0,81.4,86.0,1569.0,0.282,Performance,1.2,Max Cool,23.1,-229.1,5.0,17.0,Medium,Sport,42.9,547.4
+Rivian,Crossover,,RWD,Solid State,2023.0,22.6,7.0,67.3,167.0,2457.0,0.248,All-Terrain,-9.2,Max Heat,,-466.9,5.0,229.0,Medium,Chill,70.3,364.6
+VW,Hatchback,DC Fast Charge,RWD,NMCA,2015.0,54.0,3.0,80.7,462.0,,0.308,Low Rolling Resistance,,Max Heat,107.8,383.3,4.0,131.0,Max,Normal,68.5,338.4
+rivin,Sedan,DC Fast Charge,AWD,LFP,,,6.0,,,,0.34,Low Rolling Resistance,4.7,Max Heat,124.2,-409.1,5.0,463.0,Max,Chill,19.7,623.4
+Hyundai,Crossover,DC Fast Charge,FWD,NMCA,2018.0,114.4,5.0,81.3,211.0,1243.0,0.479,Standard,40.4,Max Heat,50.3,,6.0,496.0,Medium,Sport,54.2,526.4
+BYD,Hatchback,,AWD,NCA,2017.0,111.6,8.0,84.8,486.0,,0.239,,15.0,Max Heat,60.4,425.1,4.0,451.0,Medium,Off-Road,,117.5
+Rivian,Sports Car,Level 1,4WD,NMC,2024.0,88.4,,68.4,263.0,2863.0,0.226,,1.9,Max Heat,71.5,-79.9,4.0,,Max,Off-Road,41.7,546.0
+NIO ,Truck,DC Fast Charge,AWD,LFP,2021.0,92.2,1.0,90.7,517.0,2267.0,0.209,All-Terrain,25.6,None,114.3,417.1,6.0,388.0,High,Chill,70.5,593.6
+Audi,Van,DC Fast Charge,4WD,NMCA,,,1.0,82.7,271.0,2171.0,0.392,Low Rolling Resistance,43.1,Heating,59.4,-465.4,3.0,427.0,High,Normal,32.0,528.3
+Audi,Sports Car,Level 2,FWD,NCA,2022.0,,7.0,,52.0,1747.0,0.342,Standard,30.9,Heating,96.2,59.6,3.0,,Off,Normal,,323.7
+Polestar,Crossover,Supercharger,4WD,NMCA,,102.1,9.0,85.7,220.0,3478.0,,All-Terrain,18.6,None,,-29.4,,202.0,Off,Chill,32.4,520.2
+VW,Crossover,Supercharger,FWD,NMCA,2016.0,125.8,3.0,96.4,,3469.0,,,17.8,None,,358.3,4.0,53.0,Off,Eco,,508.7
+Audi,Sedan,DC Fast Charge,RWD,NMC,2024.0,104.7,8.0,66.8,471.0,2807.0,0.475,All-Terrain,-13.6,Cooling,78.4,,1.0,,Low,Sport,,279.5
+,Hatchback,,AWD,NCA,2021.0,39.6,4.0,77.8,352.0,2025.0,0.497,,33.6,,44.8,14.1,2.0,247.0,Low,,14.8,449.6
+Audi,Truck,Supercharger,RWD,,2023.0,27.5,2.0,88.8,449.0,2857.0,0.269,All-Terrain,11.3,,,78.9,4.0,463.0,Low,Chill,51.8,496.8
+lucid,Hatchback,,,Solid State,2018.0,28.0,5.0,99.2,530.0,1301.0,0.45,Performance,16.2,Max Cool,,-260.4,5.0,316.0,High,Chill,16.1,141.8
+Lucid,Truck,Level 2,RWD,NMC,,58.7,1.0,95.3,265.0,2038.0,,Performance,4.3,Max Cool,34.6,-19.1,3.0,450.0,High,Chill,25.4,512.1
+Tesla,Van,Level 2,RWD,NMCA,2023.0,59.3,6.0,77.2,556.0,1541.0,0.362,Standard,29.3,Max Heat,51.1,-441.3,3.0,485.0,High,Normal,53.9,618.4
+,Crossover,Wireless,RWD,LFP,,107.6,9.0,91.7,286.0,1270.0,0.467,All-Terrain,43.7,Max Cool,105.7,12.5,,183.0,Medium,Chill,68.4,400.9
+BYD,Crossover,Level 1,FWD,NMC,2024.0,,0.0,83.3,647.0,2767.0,,Low Rolling Resistance,,,52.4,-173.2,3.0,457.0,,Normal,19.8,184.0
+VW,Hatchback,DC Fast Charge,FWD,NCA,,30.8,4.0,91.1,494.0,3323.0,0.367,Performance,-2.2,Max Cool,27.7,146.5,6.0,233.0,,,59.7,329.9
+Polestar,Truck,,4WD,NMCA,2017.0,64.8,0.0,100.0,460.0,2486.0,0.484,Low Rolling Resistance,19.7,,119.4,363.1,4.0,218.0,Max,,66.1,574.7
+Lucid,SUV,Level 1,AWD,NMC,2018.0,128.0,,62.3,176.0,,0.487,Standard,-17.8,,49.1,331.9,5.0,299.0,Low,Chill,18.0,203.2
+BMW,Crossover,Level 2,FWD,NCA,,118.3,6.0,83.9,364.0,3092.0,0.449,Performance,-6.8,Heating,,226.4,3.0,,Medium,Off-Road,56.3,494.5
+nio,,DC Fast Charge,FWD,NMC,2016.0,120.6,6.0,71.6,502.0,1972.0,0.302,,12.3,None,105.1,271.0,4.0,69.0,High,Off-Road,74.3,517.6
+Rivian,Van,Supercharger,RWD,Solid State,2024.0,79.7,1.0,83.1,449.0,1260.0,0.275,Performance,-3.7,Max Cool,87.5,71.9,1.0,231.0,Low,Sport,39.5,230.0
+rivian,Crossover,DC Fast Charge,RWD,NCA,2016.0,76.0,6.0,61.2,420.0,1337.0,,,-17.7,,50.4,120.8,5.0,211.0,Off,Normal,53.9,291.8
+lucid,Van,Level 2,FWD,NMC,2024.0,66.0,8.0,91.8,574.0,2974.0,0.424,Performance,2.2,Max Cool,65.6,276.0,,2.0,,Sport,73.0,138.0
+Tesla,Truck,Level 2,RWD,Solid State,2019.0,24.7,3.0,95.8,74.0,1526.0,0.395,,-7.6,Heating,109.7,43.4,1.0,466.0,High,Off-Road,73.5,456.4
+BYD,Van,Wireless,RWD,NCA,2020.0,54.0,8.0,76.2,133.0,1378.0,0.449,,13.0,None,104.7,361.6,,389.0,Max,Sport,46.2,569.7
+Polestar,Crossover,Level 2,AWD,Solid State,2024.0,71.8,2.0,90.2,117.0,2063.0,0.22,Low Rolling Resistance,21.1,Heating,104.1,,5.0,208.0,Medium,Sport,48.5,618.7
+tesla ,Hatchback,Level 1,RWD,NCA,2021.0,108.2,4.0,81.6,570.0,,0.39,All-Terrain,26.8,Max Cool,109.5,380.2,4.0,105.0,Max,Normal,66.0,310.3
+Audi,Sedan,,RWD,NMCA,,25.8,,67.4,198.0,,0.352,Low Rolling Resistance,,,33.9,349.7,1.0,246.0,Max,Normal,,661.7
+,Truck,Supercharger,FWD,NMC,2019.0,120.8,1.0,90.0,552.0,2172.0,0.305,All-Terrain,,Max Heat,37.1,-39.6,5.0,241.0,Max,Sport,19.8,521.8
+Polestar,Truck,,AWD,,2023.0,89.6,3.0,65.0,314.0,1515.0,0.446,Low Rolling Resistance,26.6,Max Cool,28.5,187.1,5.0,104.0,Off,Eco,12.7,528.5
+VW,Sports Car,Supercharger,4WD,NMCA,2018.0,98.8,,77.0,694.0,2271.0,0.391,All-Terrain,1.8,Heating,,-180.1,6.0,492.0,Max,Normal,41.3,158.6
+NIO,Van,Level 1,FWD,NCA,2024.0,34.1,,86.3,,3244.0,,All-Terrain,44.0,Max Cool,94.1,122.0,6.0,,Low,Normal,15.9,212.2
+NIO,Sedan,Level 1,AWD,Solid State,2018.0,123.0,2.0,78.3,315.0,3779.0,0.347,Low Rolling Resistance,15.8,Max Cool,102.3,99.3,6.0,86.0,High,Eco,35.9,642.0
+NIO ,Sedan,Supercharger,AWD,LFP,2018.0,46.1,,71.0,,3339.0,0.205,Performance,3.9,Cooling,84.1,-51.6,1.0,,Medium,Chill,1.3,295.1
+Rivian,SUV,Level 2,AWD,NMCA,2021.0,95.1,0.0,84.4,418.0,,0.425,Low Rolling Resistance,30.7,Max Heat,32.1,60.2,5.0,176.0,Low,Off-Road,77.2,172.2
+Tesla,Sedan,,4WD,LFP,2016.0,46.6,,76.8,80.0,,0.232,Performance,13.0,Max Heat,23.5,-20.2,1.0,86.0,,Normal,42.3,521.7
+VW,Crossover,Supercharger,AWD,NMCA,2022.0,92.9,6.0,97.1,446.0,2031.0,,Performance,29.0,Max Heat,40.3,374.3,6.0,,Medium,Normal,,264.3
+rivin,Van,DC Fast Charge,AWD,NMC,2021.0,78.8,4.0,93.7,518.0,,0.249,All-Terrain,-0.4,Max Cool,23.0,88.9,5.0,75.0,,,20.5,500.5
+,SUV,Level 1,RWD,Solid State,2017.0,93.1,7.0,99.1,188.0,1665.0,0.231,All-Terrain,4.6,Max Cool,34.8,33.1,1.0,121.0,Off,Off-Road,51.5,660.2
+VW,SUV,,,NCA,2023.0,66.9,,94.9,111.0,2474.0,,Performance,4.2,Cooling,57.9,291.5,5.0,382.0,,Sport,19.4,135.4
+BMW,Hatchback,Wireless,FWD,Solid State,2022.0,75.8,1.0,70.4,676.0,3882.0,0.409,,2.6,None,128.8,77.7,2.0,119.0,Max,,4.5,417.6
+Lucid,SUV,DC Fast Charge,,LFP,2023.0,129.6,3.0,75.7,310.0,2485.0,0.496,Low Rolling Resistance,38.0,Max Cool,101.1,217.4,6.0,385.0,High,Off-Road,,314.4
+NIO,,Supercharger,4WD,NMCA,2023.0,80.2,7.0,83.1,557.0,1555.0,,,42.3,Cooling,105.0,-380.1,2.0,166.0,Low,Normal,53.4,699.8
+VW,Crossover,Level 2,AWD,LFP,2019.0,100.4,5.0,,507.0,2127.0,0.498,Standard,28.0,None,68.8,-196.6,6.0,496.0,Medium,Off-Road,74.9,696.2
+,,DC Fast Charge,FWD,,2018.0,114.3,8.0,,80.0,3165.0,0.294,All-Terrain,38.1,Max Cool,51.8,65.0,4.0,404.0,Off,,10.3,544.1
+Audi,SUV,Wireless,RWD,Solid State,2017.0,110.9,5.0,86.8,193.0,3589.0,0.242,All-Terrain,,Max Heat,101.2,,3.0,375.0,Off,Sport,34.4,132.2
+BYD,Hatchback,Level 1,AWD,Solid State,2021.0,,,61.6,558.0,3378.0,0.425,All-Terrain,-17.7,Max Cool,90.8,111.9,2.0,422.0,Medium,Chill,18.0,264.2
+Lucid,SUV,Supercharger,AWD,NCA,2022.0,99.3,8.0,75.2,570.0,1561.0,0.428,All-Terrain,11.2,Max Cool,78.5,107.5,,,High,Off-Road,,131.3
+,Hatchback,Level 1,,NMCA,2017.0,59.9,0.0,84.1,191.0,2334.0,0.388,Standard,-10.4,Cooling,,208.6,6.0,289.0,Max,Off-Road,61.4,87.9
+VW,Crossover,Wireless,4WD,NMC,2019.0,35.5,3.0,85.0,688.0,2290.0,0.216,Low Rolling Resistance,-4.5,Cooling,45.8,,1.0,0.0,Low,Off-Road,38.8,369.5
+Hyundai,Truck,Supercharger,AWD,Solid State,2021.0,77.9,9.0,77.5,,2238.0,0.353,,5.9,Max Heat,,,6.0,255.0,,Normal,,209.5
+VW,Van,Level 1,FWD,NCA,2023.0,69.3,1.0,74.9,331.0,1592.0,0.364,,20.4,,63.0,319.3,2.0,26.0,Medium,Eco,77.6,150.9
+BMW,,,4WD,NCA,2017.0,81.9,6.0,79.7,305.0,2209.0,0.475,Performance,-0.5,None,64.6,402.4,6.0,324.0,Off,Normal,58.8,466.0
+,Sedan,Level 2,,LFP,2017.0,,,97.6,59.0,3017.0,0.44,All-Terrain,3.7,Max Cool,67.6,308.6,3.0,293.0,,Chill,53.6,457.6
+vw,Truck,DC Fast Charge,AWD,LFP,2018.0,40.7,1.0,67.3,113.0,3153.0,0.395,Performance,,Heating,116.7,375.0,6.0,244.0,Off,,9.3,199.5
+Polestar,Sedan,Supercharger,,NMCA,2016.0,,0.0,60.8,,3583.0,0.343,,31.2,None,,-434.1,5.0,498.0,,Sport,51.4,257.2
+polestar,,Level 2,,,2021.0,77.7,7.0,96.2,350.0,,0.26,Low Rolling Resistance,20.1,Cooling,70.5,,1.0,195.0,Low,Eco,,200.4
+,Sports Car,DC Fast Charge,AWD,NMC,,59.2,9.0,,127.0,3212.0,0.219,Performance,-12.6,Cooling,,-316.1,,315.0,High,Normal,60.2,220.2
+Tesla,SUV,Level 2,4WD,Solid State,2023.0,91.6,1.0,63.7,,3838.0,0.412,All-Terrain,29.5,Max Cool,,-15.3,6.0,328.0,Medium,Chill,63.6,347.4
+BMW,Van,Supercharger,4WD,LFP,,120.9,9.0,83.8,,1832.0,0.481,,26.8,,,183.9,6.0,63.0,Low,Chill,,620.1
+tesla ,Sedan,Supercharger,FWD,NCA,,59.2,3.0,83.0,537.0,2467.0,0.317,All-Terrain,10.0,Heating,28.9,-452.4,2.0,135.0,High,Sport,63.2,542.1
+BMW,Crossover,Supercharger,,LFP,2020.0,122.5,,94.5,,1755.0,0.481,All-Terrain,-16.6,Heating,51.0,-209.3,6.0,27.0,High,Off-Road,38.0,206.0
+,Truck,,RWD,NCA,2019.0,94.9,0.0,62.8,,1867.0,0.468,Standard,5.8,Max Heat,84.3,-321.5,3.0,,High,Eco,45.0,117.4
+,Hatchback,Supercharger,AWD,NCA,2020.0,56.5,5.0,61.8,159.0,1762.0,0.328,All-Terrain,36.0,,75.6,-27.8,1.0,,Max,Off-Road,59.2,353.0
+BYD ,Sedan,Level 1,AWD,LFP,2016.0,47.5,6.0,90.8,291.0,1778.0,,Performance,-2.0,Heating,,-11.1,1.0,,High,Chill,20.0,113.9
+tesla ,Crossover,DC Fast Charge,4WD,NCA,2017.0,125.0,4.0,80.5,237.0,3016.0,0.211,Low Rolling Resistance,-16.0,Cooling,,215.7,2.0,436.0,Off,Eco,74.7,392.9
+,Truck,Wireless,4WD,NMCA,2021.0,103.5,,88.1,173.0,2793.0,0.22,All-Terrain,40.4,Max Cool,42.4,,2.0,29.0,,Off-Road,,530.6
+BYD,Hatchback,Level 2,4WD,Solid State,,31.3,3.0,,284.0,1841.0,,Standard,14.0,Max Heat,,118.9,2.0,0.0,Medium,Normal,45.9,604.6
+Audi,Sedan,Level 1,AWD,Solid State,2018.0,28.2,1.0,85.2,417.0,2654.0,0.298,Standard,-3.1,Max Heat,110.3,-122.1,1.0,154.0,Off,Chill,60.8,214.0
+NIO ,Sports Car,Wireless,RWD,LFP,2022.0,,,71.4,683.0,2950.0,0.351,Low Rolling Resistance,6.2,Max Cool,129.6,-79.8,6.0,460.0,,Eco,44.5,105.3
+NIO,Hatchback,Supercharger,4WD,LFP,2021.0,53.2,1.0,71.7,427.0,,0.488,Standard,,None,55.9,,,28.0,High,Chill,65.4,554.9
+Lucid,Crossover,Level 1,,Solid State,2017.0,57.1,9.0,90.9,589.0,,0.412,All-Terrain,2.5,Cooling,42.0,335.8,3.0,,Medium,Eco,,394.8
+NIO,Hatchback,DC Fast Charge,4WD,NMC,2015.0,,7.0,62.9,322.0,3408.0,0.384,All-Terrain,28.7,Heating,60.0,,2.0,382.0,Medium,Chill,44.0,215.7
+NIO ,Sports Car,DC Fast Charge,RWD,Solid State,2024.0,92.2,1.0,73.0,491.0,2996.0,0.303,Low Rolling Resistance,-14.2,Max Heat,36.2,,,215.0,Max,Sport,47.0,372.4
+Tesla,Sports Car,DC Fast Charge,4WD,,,51.6,5.0,,169.0,2252.0,0.245,Standard,34.4,Cooling,78.8,-23.7,3.0,287.0,High,Off-Road,64.7,126.5
+BYD,Truck,Wireless,,,2017.0,42.9,7.0,81.1,340.0,,0.281,Standard,-0.4,Max Heat,,-281.9,2.0,383.0,Off,Normal,,447.5
+Hyundai,Truck,Level 1,,LFP,,105.9,1.0,,544.0,2027.0,0.401,Performance,27.8,Max Heat,53.2,-38.6,5.0,,,,36.3,131.8
+BYD,Sports Car,DC Fast Charge,4WD,LFP,2024.0,118.6,8.0,77.7,210.0,1389.0,0.237,All-Terrain,42.6,Max Cool,113.0,-64.5,6.0,352.0,Medium,Normal,25.7,106.7
+byd,SUV,,AWD,NMCA,2018.0,100.3,1.0,92.2,163.0,3319.0,0.352,All-Terrain,-6.4,Max Cool,120.3,-492.1,,264.0,Max,Off-Road,30.6,629.0
+Lucid,Sports Car,,,NMC,2019.0,120.6,9.0,88.8,405.0,3500.0,0.315,,-8.3,,76.7,-34.9,3.0,95.0,Off,Chill,17.4,92.3
+Hyundai,Sedan,Supercharger,AWD,Solid State,2018.0,118.2,3.0,96.5,175.0,3431.0,0.497,Standard,28.9,None,,101.8,,462.0,Max,Sport,47.3,350.8
+Rivian,Hatchback,Level 1,AWD,NMCA,2017.0,121.2,1.0,80.0,682.0,2222.0,0.291,Standard,42.9,Heating,114.7,-278.0,5.0,48.0,High,Normal,61.2,354.3
+AUDI,Sports Car,Supercharger,RWD,Solid State,,,,65.8,572.0,3168.0,0.418,Low Rolling Resistance,-6.9,,79.9,161.8,2.0,,Low,,45.6,467.6
+rivian,Sedan,Wireless,4WD,LFP,2024.0,37.8,1.0,66.6,464.0,1686.0,0.202,Performance,,Heating,,-142.6,3.0,178.0,,Off-Road,18.6,171.2
+rivin,Sports Car,Level 2,RWD,NMC,2016.0,69.8,0.0,69.1,331.0,3487.0,0.281,Performance,15.5,None,76.6,154.1,4.0,178.0,,Chill,72.3,376.5
+VW,Sports Car,Supercharger,FWD,,2016.0,129.6,8.0,92.0,370.0,2045.0,0.357,All-Terrain,,Heating,61.0,-439.6,6.0,409.0,,Chill,47.8,162.4
+AUDI,SUV,Supercharger,4WD,,2019.0,100.1,7.0,74.6,115.0,2062.0,0.407,Performance,-10.2,None,51.6,-106.5,5.0,179.0,Max,,53.0,275.2
+NIO,Hatchback,Level 2,4WD,,2019.0,103.1,,75.3,359.0,,0.294,Performance,,None,31.8,,5.0,84.0,,Chill,47.2,325.2
+Polestar,Van,Wireless,4WD,NMC,2015.0,,7.0,90.8,303.0,1903.0,0.339,Low Rolling Resistance,,Max Cool,57.6,-351.1,,252.0,Off,Chill,,179.4
+Hyundai,Van,Wireless,,NMC,2022.0,38.4,8.0,61.6,599.0,,0.263,Performance,,None,112.1,,,439.0,High,Off-Road,14.9,301.2
+Tesla,Crossover,Wireless,FWD,NMC,,84.4,0.0,94.1,53.0,2147.0,0.409,Standard,34.0,None,54.6,350.0,3.0,498.0,Medium,Sport,74.9,250.1
+BMW,,Wireless,4WD,NMC,2023.0,47.2,0.0,91.6,425.0,3446.0,0.325,,7.4,Max Heat,54.0,137.8,,490.0,High,Eco,,6300.916650425509
+BYD,Crossover,Level 1,4WD,Solid State,2016.0,118.2,7.0,82.0,482.0,1267.0,0.202,,11.2,,,449.1,5.0,,Low,,11.9,448.8
+bmw,Truck,Supercharger,4WD,NMCA,2020.0,79.9,0.0,94.9,281.0,3563.0,0.296,Performance,10.3,None,126.1,397.3,3.0,98.0,Off,Off-Road,12.6,911.9956358614311
+Tesla,Truck,Supercharger,RWD,,2020.0,103.1,,,312.0,,0.256,Low Rolling Resistance,1.9,Max Cool,74.8,,4.0,197.0,,Eco,25.2,124.4
+,Truck,DC Fast Charge,FWD,NCA,2024.0,78.6,0.0,91.3,486.0,2962.0,,Standard,12.5,,101.4,135.1,3.0,304.0,,Chill,56.7,88.7
+Rivian,Crossover,Supercharger,4WD,Solid State,2024.0,,0.0,63.7,374.0,2981.0,0.486,Low Rolling Resistance,38.6,Cooling,82.4,269.2,4.0,244.0,High,Normal,26.6,630.7
+NIO ,Crossover,Supercharger,4WD,NMCA,2016.0,124.1,3.0,83.8,,2653.0,0.5,All-Terrain,-8.0,Heating,121.9,446.7,,40.0,Off,Off-Road,46.5,80.1
+VW,Van,Supercharger,FWD,Solid State,2015.0,92.8,1.0,66.6,,3306.0,0.408,,-2.4,Max Heat,124.8,-188.7,3.0,222.0,Off,Normal,,660.5
+Audi,SUV,,,LFP,2020.0,48.4,9.0,73.6,,3448.0,0.437,All-Terrain,-18.0,Cooling,,-1.7,,,Off,Chill,69.0,327.1
+Lucid,Crossover,Level 1,FWD,,2016.0,126.9,0.0,94.5,422.0,1523.0,0.295,All-Terrain,-11.6,Max Heat,83.5,-292.4,,24.0,High,Normal,,415.5
+Audi,Crossover,Level 2,FWD,NMCA,2024.0,128.3,5.0,68.2,230.0,3999.0,0.453,Performance,20.4,Heating,,-353.5,2.0,248.0,Low,Normal,70.4,179.4
+VW,Truck,Wireless,AWD,NMCA,,84.0,4.0,72.6,582.0,1209.0,0.421,Low Rolling Resistance,-0.0,Max Heat,87.8,-300.3,2.0,365.0,Off,Chill,1.5,581.6
+BYD,Sports Car,Level 1,FWD,NMC,2016.0,20.0,8.0,63.4,649.0,1665.0,0.388,Low Rolling Resistance,32.9,None,71.1,-163.9,3.0,,Low,Sport,56.6,552.1
+Hyundai,Sedan,Level 2,FWD,LFP,2019.0,44.3,9.0,96.4,,3644.0,0.456,All-Terrain,44.8,Cooling,97.6,-53.6,,212.0,High,,10.0,151.6
+Rivian,Truck,,FWD,NMC,2016.0,,5.0,90.5,526.0,,0.498,Standard,42.2,,,387.7,1.0,103.0,Max,Off-Road,48.1,310.7
+Tesla,Hatchback,DC Fast Charge,AWD,NMC,2016.0,25.7,4.0,90.2,182.0,2651.0,0.33,All-Terrain,24.2,None,125.0,-436.7,6.0,352.0,Medium,,24.6,5344.760307239587
+Hyundai,SUV,Level 1,AWD,NMCA,2020.0,,8.0,98.3,597.0,2895.0,,Performance,-10.0,None,25.0,139.4,1.0,,High,Chill,56.1,188.5
+RIVIAN,Sports Car,Level 2,RWD,,2023.0,81.2,6.0,89.1,532.0,2077.0,0.314,Standard,-4.5,Heating,82.9,,1.0,143.0,Medium,Normal,79.2,333.3
+Lucid,Hatchback,Level 1,FWD,NMCA,2020.0,40.4,8.0,65.8,595.0,2502.0,0.393,Performance,-16.5,Max Heat,21.0,-30.0,1.0,,Low,Sport,72.7,313.5
+BYD,SUV,Supercharger,RWD,LFP,,117.9,7.0,68.7,516.0,2325.0,,Low Rolling Resistance,39.1,Cooling,100.1,133.9,4.0,,Max,,76.8,531.2
+Rivian,Sports Car,Supercharger,AWD,NMCA,2019.0,67.3,8.0,76.5,538.0,3862.0,,Standard,6.9,Heating,53.5,-128.3,1.0,,Medium,Sport,20.4,294.7
+,Crossover,Supercharger,,LFP,2021.0,59.4,0.0,73.8,636.0,3933.0,0.242,Performance,-10.0,Heating,65.3,-442.2,1.0,,Medium,Sport,35.6,257.0
+Audi,Hatchback,Supercharger,FWD,NMCA,2020.0,48.7,1.0,80.2,286.0,2777.0,0.347,Low Rolling Resistance,-17.5,Max Heat,23.3,,6.0,165.0,Max,Eco,14.3,266.3
+Tesla,Sports Car,Level 2,4WD,NCA,2024.0,21.6,5.0,91.6,178.0,2075.0,0.319,Low Rolling Resistance,37.4,Max Heat,,,1.0,13.0,Low,Eco,,522.3
+Rivian,Crossover,Level 2,4WD,Solid State,2015.0,,8.0,65.7,50.0,3543.0,0.349,Low Rolling Resistance,31.1,Max Heat,30.5,-381.0,3.0,332.0,,Off-Road,27.7,323.4
+Lucid,,Level 2,4WD,NCA,2021.0,42.9,6.0,68.5,348.0,1420.0,,,11.6,None,53.6,,4.0,268.0,Medium,Normal,3.4,591.0
+Lucid,SUV,Wireless,FWD,LFP,2018.0,93.4,,,573.0,1935.0,0.359,Low Rolling Resistance,18.4,None,51.7,-312.6,,59.0,Medium,Sport,57.9,166.2
+Polestar,Sedan,DC Fast Charge,4WD,Solid State,2019.0,,8.0,77.2,432.0,3054.0,0.392,Low Rolling Resistance,19.2,Cooling,114.9,-242.4,4.0,228.0,Low,Chill,33.3,589.2
+Hyundai,Van,Wireless,AWD,NMC,2017.0,79.5,2.0,89.3,,2555.0,0.46,Standard,21.4,,28.9,201.5,4.0,218.0,Low,Sport,57.2,102.7
+VW,Crossover,Level 1,4WD,NCA,2018.0,30.2,6.0,69.0,679.0,3895.0,0.336,Low Rolling Resistance,-0.0,None,,,5.0,359.0,Off,Off-Road,52.9,186.0
+VW,Sports Car,DC Fast Charge,,Solid State,2023.0,80.2,5.0,,613.0,3106.0,0.248,Standard,-19.2,Heating,108.1,-340.7,,251.0,High,Sport,,554.0
+Hyundai,SUV,Supercharger,FWD,LFP,2015.0,35.1,3.0,99.1,383.0,3735.0,0.208,Low Rolling Resistance,-3.4,Heating,55.9,-335.0,2.0,3.0,High,Eco,10.3,381.1
+Polestar,Hatchback,Supercharger,FWD,NMCA,2020.0,26.7,9.0,94.0,487.0,3283.0,0.284,,-3.9,Max Heat,26.3,152.6,1.0,377.0,Max,Chill,21.7,332.0
+Hyundai,,DC Fast Charge,4WD,NMC,2019.0,94.7,6.0,88.2,151.0,3297.0,0.48,Standard,37.3,None,119.3,-455.2,1.0,352.0,Max,,17.9,445.4
+,Crossover,,RWD,NMC,2018.0,129.8,6.0,90.6,482.0,3884.0,0.385,Low Rolling Resistance,4.6,None,52.9,361.9,3.0,261.0,Low,Sport,49.5,345.6
+TESLA,Hatchback,Wireless,AWD,NMC,2015.0,,,86.5,283.0,1943.0,0.303,Performance,42.2,Max Heat,78.6,,4.0,434.0,High,Normal,71.6,270.8
+LUCID,,Level 2,AWD,NMCA,2022.0,49.3,6.0,79.9,85.0,3342.0,0.401,Low Rolling Resistance,-13.2,Max Heat,100.6,-57.3,4.0,277.0,,Chill,67.5,474.8
+Rivian,Sports Car,Level 2,4WD,Solid State,2024.0,113.3,5.0,95.1,450.0,1822.0,0.473,All-Terrain,-14.3,Max Heat,109.5,-179.8,6.0,,Off,Sport,13.9,110.7
+NIO,Sedan,Wireless,FWD,NMC,,,9.0,87.9,137.0,2740.0,,,37.3,Max Cool,,-223.4,6.0,188.0,Max,Chill,79.2,559.0
+BMW,Sedan,Supercharger,AWD,Solid State,2022.0,,4.0,89.8,385.0,,0.203,Standard,-2.1,Heating,124.5,-122.6,5.0,78.0,,Eco,50.7,204.4
+Hyundai,Van,Level 2,,NMCA,2015.0,70.2,7.0,90.6,111.0,2903.0,0.317,All-Terrain,-15.1,None,57.0,-134.3,5.0,470.0,Low,Eco,,597.7
+hyundai,Hatchback,Supercharger,FWD,NCA,2019.0,121.2,9.0,77.3,675.0,1466.0,,All-Terrain,25.9,,41.9,-161.6,4.0,455.0,Max,Eco,30.9,183.4
+NIO,Sports Car,Supercharger,,Solid State,2016.0,109.8,2.0,70.5,147.0,2607.0,0.314,Standard,36.3,Heating,95.6,-150.3,1.0,123.0,Low,Sport,46.9,608.3
+NIO ,Truck,Supercharger,AWD,,,104.6,4.0,,479.0,1875.0,0.245,Standard,2.5,Heating,98.1,457.2,1.0,36.0,High,Off-Road,,132.5
+VW,Hatchback,Wireless,RWD,NCA,2018.0,124.7,1.0,72.7,677.0,2736.0,0.275,,21.0,Max Heat,44.0,-261.1,2.0,66.0,High,Off-Road,37.4,334.4
+VW,SUV,Level 2,AWD,,2016.0,33.2,7.0,90.7,573.0,1632.0,0.274,,15.3,Heating,73.1,-289.4,5.0,405.0,,Sport,9.6,682.4
+Lucid,,Level 1,4WD,NMCA,2019.0,124.7,7.0,71.9,591.0,3357.0,0.317,Standard,36.5,Cooling,71.2,148.0,4.0,180.0,Medium,Chill,6.3,459.3
+Lucid,Van,Level 1,FWD,NMC,2020.0,91.1,3.0,85.7,541.0,2478.0,0.21,,-1.4,Heating,,-322.3,1.0,217.0,Low,Off-Road,63.7,644.5
+BMW,,Wireless,AWD,NMCA,2017.0,52.2,,,129.0,2105.0,,Standard,,Heating,90.5,-145.6,,68.0,High,Eco,71.2,244.3
+LUCID,Crossover,Wireless,,LFP,2016.0,85.9,3.0,61.5,,2192.0,0.352,Standard,11.8,Max Cool,84.1,219.0,,191.0,Low,Sport,49.8,472.2
+VW,Truck,DC Fast Charge,FWD,Solid State,2020.0,126.8,5.0,,528.0,3396.0,0.494,Low Rolling Resistance,44.3,Max Heat,117.6,,2.0,74.0,Low,Sport,,597.4
+VW,Sports Car,Wireless,4WD,,2019.0,,0.0,72.6,135.0,1812.0,0.386,,27.5,Heating,74.8,42.8,3.0,278.0,Medium,Eco,55.7,341.7
+BYD,Hatchback,Wireless,,NMCA,,125.9,1.0,75.2,450.0,1235.0,0.293,Performance,10.1,Max Heat,35.3,-183.9,5.0,107.0,Off,,47.8,413.7
+Hyundai,SUV,Level 1,FWD,NMC,,55.1,7.0,99.0,320.0,3045.0,0.296,Performance,18.6,Max Heat,30.6,-107.3,3.0,179.0,,,73.7,347.1
+NIO,Truck,Level 1,4WD,NCA,2017.0,67.4,8.0,67.3,,2666.0,,Standard,-19.9,Max Cool,100.5,-327.7,1.0,18.0,Low,Chill,52.6,537.7
+BYD,Hatchback,Level 1,,Solid State,2020.0,129.3,3.0,92.5,104.0,2643.0,,Standard,2.5,Heating,29.8,36.1,,188.0,Low,Normal,24.9,578.7
+Lucid,Van,DC Fast Charge,AWD,LFP,2017.0,,7.0,,149.0,3764.0,0.444,Low Rolling Resistance,21.1,,,-477.4,4.0,27.0,Medium,Chill,50.3,458.1
+TESLA,Hatchback,DC Fast Charge,AWD,NMCA,2023.0,67.2,0.0,93.3,340.0,3627.0,0.217,,-18.7,Cooling,75.8,-379.1,5.0,213.0,Max,Eco,34.2,359.4
+NIO,,DC Fast Charge,FWD,LFP,2021.0,99.0,7.0,98.4,,3908.0,0.323,All-Terrain,39.4,Heating,124.4,425.3,6.0,162.0,Max,Normal,74.2,682.9
+Audi,Sedan,,,,2024.0,45.3,8.0,64.4,,,0.395,Performance,8.4,Max Heat,,345.7,1.0,421.0,Max,Sport,30.3,571.1
+VW,Sports Car,,AWD,,,55.5,5.0,93.7,70.0,1905.0,0.462,All-Terrain,34.2,Max Cool,69.3,202.3,3.0,357.0,Off,Sport,7.6,610.2
+lucid,Hatchback,DC Fast Charge,FWD,LFP,2021.0,91.7,7.0,81.7,,2781.0,0.347,Low Rolling Resistance,7.2,Cooling,82.2,-485.8,1.0,339.0,,Chill,69.4,631.6
+Hyundai,Hatchback,Wireless,FWD,Solid State,2019.0,116.3,2.0,,547.0,2445.0,0.455,All-Terrain,,Max Heat,36.5,-431.0,6.0,183.0,Medium,Normal,69.5,418.3
+Hyundai,Sports Car,Wireless,FWD,NMC,2015.0,66.3,0.0,97.2,603.0,2552.0,0.341,Low Rolling Resistance,-15.9,None,43.1,352.3,,312.0,Medium,Eco,34.6,343.6
+BYD,Sports Car,Supercharger,,NCA,2024.0,123.6,3.0,79.3,273.0,3618.0,0.232,All-Terrain,7.6,Max Heat,,-1.9,2.0,,Low,,43.5,197.4
+Lucid,SUV,Level 2,AWD,,2018.0,59.5,0.0,,513.0,2015.0,0.208,All-Terrain,-12.1,Heating,43.5,,5.0,75.0,Max,Sport,74.9,481.3
+BMW,,Level 1,FWD,,2016.0,25.4,6.0,,587.0,1957.0,0.321,Low Rolling Resistance,40.4,None,128.5,-304.1,1.0,412.0,Max,Eco,70.3,91.3
+VW,Sedan,Wireless,4WD,,2017.0,,3.0,85.1,238.0,3902.0,,Performance,28.7,Cooling,76.9,258.5,2.0,400.0,Max,Normal,61.4,84.8
+VW,SUV,Supercharger,,LFP,2023.0,108.6,0.0,68.9,376.0,3032.0,,Low Rolling Resistance,25.0,Heating,68.5,-292.5,5.0,370.0,Medium,,25.6,276.5
+BYD,Sedan,DC Fast Charge,4WD,NMCA,2019.0,28.0,4.0,72.8,655.0,3210.0,0.405,All-Terrain,-14.9,Cooling,86.4,372.8,3.0,84.0,Medium,,24.3,248.3
+Audi,SUV,Wireless,4WD,,2016.0,104.7,6.0,90.6,238.0,1805.0,0.317,Low Rolling Resistance,39.0,Max Heat,104.6,249.9,6.0,358.0,Off,Eco,15.2,454.1
+Hyundai,Van,Level 1,FWD,NMC,2022.0,87.8,4.0,,57.0,,0.319,Low Rolling Resistance,12.5,Cooling,98.5,252.3,5.0,353.0,Low,Chill,,479.8
+BMW,Sports Car,Level 1,FWD,NCA,2019.0,107.5,6.0,70.2,462.0,,0.483,All-Terrain,4.2,Max Heat,101.5,-499.7,,189.0,Medium,Chill,33.7,253.3
+NIO,Truck,Wireless,FWD,NMC,2024.0,,4.0,90.5,648.0,1670.0,0.355,All-Terrain,-1.0,Cooling,129.2,55.2,5.0,430.0,Off,Sport,,182.0
+VW,Sedan,DC Fast Charge,AWD,NMCA,2021.0,37.4,4.0,,291.0,1877.0,0.469,,2.2,Cooling,21.3,-157.4,,13.0,Max,Off-Road,56.7,183.5
+Audi,Truck,Supercharger,FWD,NCA,,26.1,3.0,86.6,496.0,1849.0,,Standard,,Max Heat,71.1,,5.0,328.0,Low,Eco,51.8,527.4
+Tesla,Hatchback,Level 2,4WD,NMC,,,7.0,73.5,93.0,,0.406,Low Rolling Resistance,18.0,Max Cool,108.0,-27.5,6.0,,Max,Eco,78.9,162.1
+VW,Sedan,DC Fast Charge,RWD,NCA,2017.0,32.1,1.0,65.2,520.0,3880.0,0.284,Low Rolling Resistance,-5.9,Cooling,45.7,149.4,1.0,100.0,Low,Normal,70.3,557.6
+BYD,Sports Car,Level 2,FWD,LFP,2022.0,39.1,0.0,,118.0,,0.49,Performance,30.9,Cooling,34.5,-255.0,4.0,280.0,Max,Off-Road,24.6,92.6
+Audi,Truck,DC Fast Charge,4WD,NMC,2024.0,97.2,5.0,78.4,71.0,1859.0,0.404,All-Terrain,20.7,Cooling,113.7,-142.7,6.0,114.0,Off,,,399.9
+Rivian,SUV,Wireless,FWD,LFP,2024.0,37.3,1.0,,161.0,3881.0,0.364,Performance,-3.5,Heating,95.1,-380.1,4.0,,Low,Sport,58.5,655.0
+Hyundai,Sedan,,4WD,NMC,,123.9,8.0,88.9,618.0,3214.0,0.266,Performance,12.9,,92.5,313.9,,404.0,Medium,Off-Road,26.1,104.6
+BYD,Van,DC Fast Charge,4WD,LFP,2021.0,33.2,1.0,84.9,467.0,1983.0,0.344,Standard,,Max Cool,39.2,,2.0,,Medium,Normal,20.4,361.1
+Audi,Van,Level 2,RWD,,,129.0,2.0,74.5,143.0,2436.0,0.296,Standard,-4.4,None,117.4,-418.3,2.0,464.0,,Chill,47.5,623.3
+Audi,,Wireless,RWD,NCA,2021.0,98.3,0.0,99.5,454.0,1797.0,0.269,Standard,-3.5,Heating,69.3,,6.0,343.0,Off,Sport,19.0,373.6
+Audi,Sedan,Level 1,AWD,LFP,2022.0,,,89.1,,,0.352,Low Rolling Resistance,,,104.9,115.8,1.0,476.0,Off,Off-Road,36.7,669.6
+NIO,Sports Car,,FWD,,2018.0,63.6,9.0,,296.0,3136.0,0.46,Low Rolling Resistance,23.2,Cooling,23.4,95.7,5.0,83.0,Off,Chill,4.2,400.5
+NIO ,Crossover,Supercharger,FWD,NMCA,2024.0,100.7,1.0,61.4,81.0,2757.0,0.283,Low Rolling Resistance,32.1,,50.3,176.8,6.0,142.0,Off,Eco,79.6,695.8
+Rivian,,Level 1,4WD,NMCA,2020.0,57.3,3.0,83.2,,2441.0,,Performance,-5.2,Heating,29.8,,2.0,132.0,Medium,,,123.0
+lucid,SUV,Wireless,AWD,NCA,2022.0,76.7,3.0,93.4,55.0,1927.0,0.377,,23.1,None,,270.6,2.0,287.0,Off,Chill,39.3,325.6
+BMW,Truck,DC Fast Charge,FWD,NMCA,2019.0,34.0,1.0,75.2,365.0,1799.0,0.306,Low Rolling Resistance,35.4,Cooling,83.8,421.0,2.0,108.0,Medium,Eco,20.5,504.4
+BYD ,SUV,Level 1,FWD,NMCA,2016.0,41.8,1.0,97.6,442.0,2850.0,0.25,,3.2,Max Cool,85.9,115.9,6.0,,High,Off-Road,59.7,360.7
+POLESTAR,Sedan,Level 2,RWD,LFP,2022.0,79.4,2.0,90.7,,2588.0,0.324,Standard,-2.8,None,67.8,-298.1,,43.0,Off,,70.6,272.0
+NIO,SUV,Level 2,AWD,NMCA,2015.0,,9.0,96.9,563.0,1205.0,0.425,Standard,-18.5,Max Heat,97.3,74.8,2.0,308.0,Off,Eco,12.9,488.5
+,Sedan,Supercharger,RWD,NCA,,78.9,8.0,74.7,118.0,1612.0,0.37,Low Rolling Resistance,41.8,None,85.8,360.9,5.0,36.0,Medium,Sport,6.9,153.5
+byd,,DC Fast Charge,FWD,NMCA,2019.0,72.1,2.0,76.8,401.0,3409.0,0.278,Low Rolling Resistance,14.4,Cooling,88.3,-449.4,1.0,481.0,High,Sport,29.5,84.9
+Tesla,Truck,Level 2,AWD,,2016.0,76.7,7.0,77.4,73.0,3924.0,0.304,Low Rolling Resistance,,Max Heat,47.2,,2.0,202.0,Low,Chill,61.2,101.7
+VW,Van,Level 2,RWD,NMCA,2015.0,126.8,4.0,,272.0,3109.0,0.304,Low Rolling Resistance,26.3,None,97.8,141.4,4.0,,Off,Eco,28.8,266.7
+BMW,Sports Car,Level 2,4WD,Solid State,2021.0,43.3,4.0,61.7,233.0,1526.0,0.288,Low Rolling Resistance,2.6,None,73.4,466.0,,22.0,Low,Sport,10.1,239.7
+Lucid,Truck,Level 1,,,2020.0,63.0,0.0,65.2,683.0,2286.0,0.306,Standard,,Max Cool,46.9,-211.1,1.0,463.0,Max,Sport,7.4,678.6
+Audi,Sports Car,DC Fast Charge,FWD,Solid State,2018.0,30.7,6.0,65.2,,1244.0,0.406,,27.5,Cooling,28.8,174.6,,,Max,Sport,,647.7
+Tesla,SUV,Level 1,4WD,NMCA,2022.0,111.1,7.0,,649.0,,0.421,Performance,24.0,Max Cool,103.0,267.2,,132.0,Max,Chill,69.2,163.1
+NIO,Crossover,,AWD,NMCA,2019.0,115.2,,,,2066.0,0.355,All-Terrain,,Cooling,126.1,16.6,,125.0,Off,Off-Road,68.7,582.5
+Lucid,Crossover,DC Fast Charge,RWD,NCA,2019.0,,7.0,85.2,523.0,3071.0,0.481,Standard,,Max Heat,83.1,-263.6,,,Off,Sport,77.0,211.2
+NIO,,Wireless,FWD,NMC,,22.3,0.0,73.5,281.0,1246.0,0.439,Standard,28.0,Max Cool,37.4,446.0,1.0,268.0,Max,Sport,27.9,277.0
+Lucid,Sports Car,Level 2,FWD,NMCA,2022.0,80.2,5.0,92.1,388.0,,0.463,All-Terrain,-1.2,None,125.4,-244.5,2.0,175.0,Off,Chill,16.3,698.6
+Lucid,,Level 2,,NCA,2017.0,95.8,3.0,79.5,531.0,,0.311,Low Rolling Resistance,7.2,Max Cool,22.3,-208.5,4.0,171.0,High,Off-Road,72.0,477.4
+rivin,Sedan,DC Fast Charge,FWD,NMC,2016.0,40.2,8.0,83.6,,2666.0,0.228,All-Terrain,26.4,Max Cool,,152.5,2.0,115.0,Medium,Eco,27.4,136.5
+Polestar,Sedan,,4WD,Solid State,2022.0,107.4,3.0,64.3,692.0,2941.0,0.23,,-6.0,Heating,105.6,256.7,6.0,211.0,Medium,Off-Road,75.1,681.3
+NIO,Van,DC Fast Charge,4WD,NCA,2020.0,105.0,9.0,68.4,236.0,2583.0,0.437,,30.6,Max Heat,33.1,-373.9,3.0,287.0,,Chill,4.0,471.4
+Lucid,,Wireless,FWD,NMC,2022.0,38.3,3.0,72.6,310.0,1544.0,,Standard,3.8,Max Cool,43.2,265.3,2.0,466.0,Medium,Eco,19.0,136.3
+BYD,Truck,DC Fast Charge,AWD,LFP,2020.0,110.4,3.0,88.7,612.0,2650.0,0.271,All-Terrain,9.8,Cooling,,377.3,4.0,120.0,Off,Off-Road,39.9,568.5
+BMW,Sports Car,DC Fast Charge,FWD,NMCA,2024.0,123.8,1.0,69.3,619.0,3544.0,0.492,All-Terrain,,Max Cool,72.2,217.2,6.0,84.0,Medium,Chill,57.9,2224.5924913642525
+NIO ,,Level 2,AWD,NMC,2020.0,118.3,4.0,,388.0,1213.0,0.211,,-12.8,Max Heat,29.1,353.4,5.0,142.0,Off,Off-Road,6.4,645.8
+,Sedan,DC Fast Charge,FWD,NMCA,2021.0,114.5,8.0,87.5,,3351.0,0.321,All-Terrain,2.7,Max Cool,95.7,,6.0,467.0,Low,Sport,,660.0
+Lucid,SUV,Wireless,RWD,NMCA,,118.0,6.0,84.5,419.0,1665.0,0.492,Low Rolling Resistance,-10.5,None,100.8,,3.0,50.0,Max,Sport,,454.2
+VW,,Level 2,,NCA,2017.0,79.8,1.0,78.8,176.0,,,All-Terrain,-8.8,Cooling,97.9,-358.1,5.0,401.0,Max,Normal,60.5,315.3
+,Hatchback,Level 2,FWD,Solid State,2015.0,,1.0,70.0,369.0,2511.0,0.426,Low Rolling Resistance,22.2,,48.3,-331.0,4.0,260.0,Off,Off-Road,40.4,675.0
+Rivian,Crossover,DC Fast Charge,RWD,NMC,2023.0,31.8,9.0,61.2,270.0,3271.0,0.49,All-Terrain,-5.3,Cooling,126.3,-448.5,5.0,365.0,Low,Normal,7.7,579.8
+rivian,Sports Car,Level 1,FWD,,2023.0,45.5,1.0,81.6,,2671.0,0.222,Performance,-12.9,Max Heat,96.0,-30.2,2.0,216.0,Max,Sport,8.1,542.8
+BYD,Truck,,FWD,,2022.0,127.1,3.0,67.5,528.0,2527.0,0.218,,,Max Cool,105.2,51.6,,499.0,Low,Eco,68.6,368.0
+VW,Sports Car,Supercharger,4WD,NMC,2017.0,41.6,7.0,76.4,169.0,3349.0,0.471,Standard,14.6,Max Heat,96.2,-152.2,,173.0,Medium,Chill,68.7,345.5
+Hyundai,Sports Car,DC Fast Charge,,,2021.0,54.6,1.0,66.2,672.0,1755.0,0.277,Low Rolling Resistance,14.1,Cooling,83.5,,3.0,44.0,Medium,Sport,38.3,692.1
+Tesla,Sedan,Level 1,4WD,,2016.0,127.8,1.0,86.6,159.0,,0.2,All-Terrain,-10.0,Max Cool,115.2,-497.2,2.0,325.0,Low,Sport,13.0,581.6
+Polestar,Van,Level 1,AWD,NMC,2017.0,37.8,4.0,62.5,548.0,3872.0,0.203,,4.0,Max Heat,106.2,,2.0,,Medium,Sport,61.1,117.5
+NIO,Hatchback,Level 1,AWD,Solid State,2017.0,78.3,2.0,,586.0,3443.0,0.445,Standard,,Cooling,95.7,259.6,2.0,99.0,Off,Eco,46.6,707.217409744712
+polestar,SUV,Supercharger,AWD,Solid State,,42.3,1.0,92.8,381.0,3840.0,0.374,All-Terrain,22.9,Heating,,467.9,1.0,381.0,High,Chill,69.1,484.1
+nio,Sedan,Level 1,RWD,Solid State,2016.0,77.1,5.0,70.6,,,0.212,,9.0,None,129.6,-482.1,5.0,123.0,Off,Off-Road,47.9,416.1
+BYD,Van,Wireless,FWD,LFP,2023.0,88.6,,79.7,397.0,1760.0,,Performance,4.7,Heating,88.2,-371.4,,420.0,High,Eco,39.1,488.6
+Tesla,SUV,Level 2,4WD,NCA,2015.0,,0.0,87.0,166.0,2059.0,0.442,All-Terrain,12.4,,,112.2,3.0,496.0,Medium,Sport,22.3,413.2
+NIO,Crossover,Level 1,FWD,NMCA,2015.0,,6.0,,,1330.0,0.279,Low Rolling Resistance,39.6,Max Cool,124.5,-62.2,2.0,305.0,Low,Sport,24.8,202.1
+polestar,Sedan,DC Fast Charge,4WD,LFP,2016.0,67.8,8.0,84.5,203.0,,0.339,Low Rolling Resistance,,Max Cool,91.8,12.4,1.0,,,,71.8,89.9
+BYD ,Truck,Wireless,AWD,NCA,2023.0,124.6,0.0,63.9,124.0,2180.0,0.233,Standard,-12.5,Max Heat,70.9,5.0,5.0,133.0,High,Sport,25.6,644.1
+Polestar,Sports Car,DC Fast Charge,AWD,NMC,2020.0,126.7,7.0,98.9,142.0,3854.0,0.353,All-Terrain,26.5,Max Cool,,-293.7,4.0,338.0,Max,Normal,19.1,503.6
+VW,Crossover,Level 1,AWD,NCA,2021.0,92.2,0.0,97.0,187.0,3810.0,0.405,All-Terrain,5.0,Max Heat,121.7,-364.3,,72.0,Low,Off-Road,73.1,233.9
+NIO,Crossover,Wireless,RWD,Solid State,2017.0,,2.0,80.9,,2825.0,0.26,Low Rolling Resistance,,Cooling,78.2,385.0,6.0,300.0,Medium,Sport,3.5,6121.759863536167
+Lucid,SUV,,4WD,NMCA,2024.0,108.0,,,588.0,2740.0,,All-Terrain,35.2,Max Cool,94.5,358.4,4.0,380.0,High,Normal,35.0,431.1
+NIO ,Sports Car,DC Fast Charge,AWD,LFP,,39.8,9.0,,699.0,1797.0,0.377,Low Rolling Resistance,34.5,Heating,68.2,-205.3,1.0,83.0,Max,Normal,36.3,226.4
+,Hatchback,Level 2,4WD,NMC,2015.0,38.3,7.0,63.5,307.0,,0.207,All-Terrain,,None,,-464.7,6.0,353.0,,Eco,57.1,536.0
+Lucid,Sedan,Supercharger,AWD,Solid State,2015.0,75.9,8.0,93.5,493.0,1447.0,0.339,Performance,-1.3,Heating,58.0,-348.8,5.0,88.0,Low,Sport,34.3,280.2
+,SUV,,4WD,LFP,2017.0,119.6,6.0,81.6,404.0,,0.248,Performance,8.5,None,72.5,150.7,1.0,402.0,Medium,Chill,73.9,387.6
+,,,FWD,NMC,2022.0,20.6,,72.6,57.0,3475.0,0.254,Standard,34.8,Max Heat,118.2,-222.6,1.0,292.0,Max,Normal,0.3,4403.006100945806
+Polestar,Van,DC Fast Charge,,NMC,2020.0,20.5,0.0,96.2,359.0,,0.284,,14.3,Cooling,51.0,304.4,5.0,101.0,High,Off-Road,71.4,2011.2825308112463
+BMW,Crossover,Level 1,AWD,LFP,2021.0,55.1,8.0,,693.0,2323.0,0.414,Standard,-19.0,Heating,51.1,-305.6,3.0,100.0,Off,Eco,58.0,537.0
+Polestar,Sedan,,AWD,NCA,2020.0,,8.0,93.0,586.0,,0.25,,25.5,Max Heat,36.1,,3.0,400.0,Low,Off-Road,,104.5
+NIO,Truck,Supercharger,RWD,NCA,2017.0,64.7,7.0,82.3,261.0,3007.0,0.214,Standard,-12.1,Max Heat,117.0,-273.8,6.0,54.0,,,20.1,290.9
+Hyundai,Truck,Level 2,4WD,,2017.0,,5.0,90.1,679.0,2475.0,0.427,Standard,33.1,Cooling,97.3,,4.0,408.0,Max,Off-Road,70.2,86.1
+Rivian,Van,,4WD,NCA,2024.0,,4.0,61.0,,2279.0,0.212,Standard,-15.0,Heating,116.1,,5.0,66.0,Low,Normal,49.5,2043.5715120193736
+BYD,SUV,Supercharger,,NCA,2024.0,21.0,0.0,66.7,289.0,3089.0,,All-Terrain,-12.0,Cooling,37.9,,1.0,,High,Sport,71.7,114.3
+Rivian,Van,Level 2,RWD,NMC,,99.0,5.0,83.6,227.0,2800.0,0.355,Standard,44.1,Max Heat,120.5,,4.0,34.0,Off,Eco,22.2,185.4
+HYUNDAI,Sedan,Supercharger,AWD,,2017.0,126.5,,98.5,251.0,3250.0,0.443,Performance,14.7,Max Cool,37.4,-357.3,3.0,379.0,Medium,Sport,20.9,112.1
+Hyundai,Truck,Level 2,,NMC,2015.0,,2.0,,,1300.0,0.203,Standard,0.5,,47.4,386.0,4.0,40.0,Medium,Off-Road,24.3,298.1
+Hyundai,,DC Fast Charge,4WD,NMCA,2023.0,21.3,0.0,98.8,276.0,2140.0,0.222,All-Terrain,,,116.6,-360.2,1.0,416.0,Off,Sport,54.8,353.4
+VW,Van,Level 2,FWD,NMCA,2021.0,80.0,9.0,62.4,274.0,3027.0,,Standard,22.2,None,67.9,72.6,1.0,32.0,Low,Sport,74.9,524.0
+byd,,,FWD,Solid State,2016.0,92.8,4.0,98.6,274.0,1682.0,0.349,All-Terrain,39.3,Max Heat,50.4,386.1,3.0,203.0,High,Eco,14.5,518.5
+BMW,,DC Fast Charge,RWD,NMCA,2022.0,,0.0,76.3,460.0,3212.0,0.32,Performance,-7.0,Heating,87.8,-389.6,3.0,91.0,Medium,Chill,31.1,479.5
+tesla,Truck,Level 2,RWD,NMC,2021.0,91.6,8.0,82.5,80.0,3937.0,0.244,Low Rolling Resistance,35.2,None,28.8,306.8,2.0,,Max,Chill,19.5,398.0
+,,Level 2,FWD,NCA,,119.8,7.0,60.2,190.0,3263.0,0.234,Low Rolling Resistance,-5.2,,21.5,-411.6,6.0,472.0,High,Normal,40.0,301.6
+,Truck,Wireless,FWD,NMC,2018.0,95.6,6.0,61.4,214.0,3065.0,0.236,Low Rolling Resistance,-6.4,Heating,124.4,106.6,5.0,,Low,Normal,22.1,294.8
+Rivian,Sports Car,Level 1,4WD,LFP,2022.0,78.1,4.0,98.8,513.0,3451.0,0.427,Performance,37.5,Cooling,101.6,-476.8,6.0,24.0,Off,Chill,78.7,590.1
+Rivian,Sedan,Supercharger,AWD,NMC,2022.0,,,90.1,107.0,1790.0,0.366,Performance,-5.3,Heating,35.8,338.4,2.0,400.0,Medium,Normal,76.5,622.1
+Rivian,SUV,Wireless,,NCA,,65.7,,89.6,118.0,1663.0,0.416,All-Terrain,16.2,Heating,112.4,-145.3,3.0,225.0,Low,Normal,48.5,413.8
+Polestar,Hatchback,DC Fast Charge,4WD,Solid State,2018.0,96.6,0.0,88.5,487.0,3317.0,0.423,,-17.7,Cooling,102.0,108.4,3.0,364.0,Medium,Eco,72.7,223.7
+,Crossover,Wireless,FWD,NMCA,,39.6,9.0,83.0,172.0,,0.301,Low Rolling Resistance,-14.3,Heating,124.4,-26.7,4.0,487.0,Medium,Chill,75.6,474.2
+BMW,,Level 1,,,,79.9,7.0,71.8,190.0,3367.0,0.409,Performance,-18.0,Max Heat,96.8,367.1,,389.0,Medium,Eco,43.8,323.0
+BMW,Hatchback,Supercharger,RWD,LFP,2024.0,23.1,,97.0,562.0,,0.295,Low Rolling Resistance,-3.3,Max Heat,23.9,-6.1,4.0,215.0,Off,,22.2,141.4
+Rivian,Crossover,Wireless,,NMCA,2015.0,55.2,7.0,77.5,376.0,2606.0,,Low Rolling Resistance,2.6,None,109.3,496.5,,174.0,Off,Sport,78.0,551.7
+Polestar,SUV,Level 2,AWD,NCA,2020.0,32.7,,87.0,355.0,2199.0,0.239,Low Rolling Resistance,-3.3,Cooling,47.4,497.9,4.0,100.0,Medium,,24.8,506.8
+VW,Sports Car,Supercharger,AWD,Solid State,2021.0,103.6,3.0,99.7,111.0,3089.0,0.301,All-Terrain,19.8,None,113.1,247.3,,225.0,High,Normal,26.3,507.6
+Lucid,Sports Car,Supercharger,FWD,NCA,2023.0,,,72.4,675.0,3611.0,0.283,All-Terrain,11.4,Max Heat,107.2,323.1,5.0,189.0,Medium,Off-Road,5.8,173.4
+Lucid,Sedan,Wireless,AWD,Solid State,2021.0,104.7,9.0,91.4,152.0,3398.0,0.262,,39.4,Max Cool,74.2,-277.9,2.0,452.0,Max,Eco,21.9,339.9
+BYD,Van,DC Fast Charge,AWD,LFP,2018.0,39.7,9.0,78.7,683.0,3865.0,0.436,Low Rolling Resistance,-17.0,Heating,62.7,-251.2,5.0,38.0,Low,,,318.8
+Audi,Truck,Supercharger,4WD,NMCA,2016.0,122.4,1.0,66.0,457.0,2609.0,,Low Rolling Resistance,-11.3,Max Heat,54.1,-139.1,6.0,87.0,Off,Eco,54.0,294.9
+NIO,Crossover,Level 2,RWD,NMC,2021.0,95.6,7.0,91.1,206.0,3547.0,0.477,Low Rolling Resistance,-5.7,Cooling,61.6,,,471.0,Max,Off-Road,,258.1
+Rivian,Sports Car,,4WD,LFP,2017.0,64.0,5.0,82.6,644.0,2668.0,0.248,All-Terrain,-19.6,None,111.0,-437.0,3.0,192.0,Max,Chill,6.0,299.5
+Audi,Sports Car,Supercharger,AWD,NMCA,2023.0,128.8,,62.7,55.0,,0.479,Performance,30.0,Heating,120.6,,2.0,452.0,,Sport,32.5,349.4
+,Sedan,Level 2,AWD,NMC,2021.0,99.2,2.0,88.6,393.0,2184.0,0.285,Standard,25.3,Max Cool,,-246.8,3.0,0.0,Medium,Eco,,657.4
+,Crossover,Level 1,FWD,NMCA,2023.0,39.4,0.0,92.0,351.0,2306.0,0.242,All-Terrain,6.9,Max Cool,116.8,,2.0,,High,Sport,22.5,672.0
+NIO,SUV,Level 2,AWD,,2021.0,52.4,2.0,98.1,191.0,3010.0,0.294,Performance,,Cooling,80.7,-446.4,2.0,48.0,Low,,35.9,327.6
+VW,,Wireless,4WD,NMCA,2023.0,54.3,0.0,69.6,557.0,2823.0,0.472,Performance,35.7,None,102.8,113.8,1.0,465.0,High,Sport,68.5,385.4
+,Crossover,Wireless,FWD,NMCA,2018.0,64.0,6.0,93.0,604.0,3457.0,0.408,Low Rolling Resistance,-11.5,Heating,40.2,-449.5,,386.0,Low,Sport,54.5,671.9
+Polestar,Sports Car,Supercharger,4WD,Solid State,2017.0,75.9,0.0,69.8,309.0,3190.0,0.464,All-Terrain,24.1,Max Heat,94.5,-138.0,1.0,,Low,Normal,28.5,227.9
+VW,Crossover,Supercharger,AWD,LFP,2018.0,59.2,6.0,83.3,365.0,3994.0,0.314,Performance,43.4,Cooling,47.0,,4.0,214.0,Low,Normal,58.7,575.0
+audi,Van,Wireless,RWD,LFP,2024.0,39.1,3.0,61.0,507.0,2556.0,0.489,Standard,,None,53.2,382.0,4.0,65.0,Low,Sport,53.4,674.3
+tesla ,Truck,Supercharger,4WD,NMC,2023.0,92.4,0.0,97.3,396.0,2586.0,0.219,Performance,,None,109.7,-261.3,1.0,,,Eco,,267.2
+,Truck,Supercharger,AWD,Solid State,,96.2,1.0,,570.0,1705.0,0.274,All-Terrain,-9.4,Heating,49.7,,5.0,115.0,Max,Chill,39.0,308.3
+VW,Van,Level 2,4WD,Solid State,2016.0,38.9,0.0,,308.0,3391.0,0.293,Low Rolling Resistance,34.0,Max Heat,89.8,133.2,2.0,86.0,High,,64.6,602.7
+Audi,Sedan,Level 1,FWD,NCA,2015.0,56.6,9.0,100.0,365.0,2445.0,0.438,Low Rolling Resistance,18.2,None,60.5,,6.0,294.0,Medium,Chill,35.3,6628.093924460704
+hyundai,Van,,FWD,NMC,2017.0,,2.0,93.2,576.0,,0.331,Standard,33.3,Max Heat,119.5,-486.8,2.0,232.0,Max,Sport,36.7,248.5
+Rivian,Sports Car,Level 1,RWD,NCA,2015.0,50.0,1.0,65.8,639.0,3224.0,0.251,Low Rolling Resistance,23.4,Cooling,,,5.0,11.0,Off,Chill,,663.4
+NIO,Sedan,DC Fast Charge,,NMC,2015.0,80.2,0.0,64.7,512.0,2188.0,0.221,Performance,,Cooling,65.0,364.6,,41.0,,Sport,3.0,246.4
+NIO,,DC Fast Charge,FWD,NCA,2024.0,56.9,7.0,77.1,192.0,,0.278,Standard,-1.7,,83.7,174.1,,438.0,Off,Chill,24.8,681.1
+,Sedan,Level 1,4WD,NMC,2022.0,54.7,7.0,75.6,507.0,2630.0,0.404,Low Rolling Resistance,17.5,Heating,74.1,,6.0,313.0,Low,,,608.0
+NIO,,Wireless,AWD,NMCA,2024.0,112.0,4.0,70.8,349.0,1678.0,0.343,All-Terrain,40.6,Max Cool,55.6,430.7,1.0,167.0,High,Chill,14.3,217.0
+Polestar,Crossover,Wireless,FWD,NMC,2023.0,52.3,0.0,80.8,558.0,2654.0,,Standard,-7.8,None,72.2,355.3,5.0,193.0,High,Chill,37.6,621.3
+BYD,Crossover,DC Fast Charge,FWD,,2017.0,78.6,,,276.0,1386.0,0.432,All-Terrain,12.1,None,45.3,475.2,2.0,176.0,Medium,,42.5,211.4
+Audi,Crossover,Supercharger,RWD,NMCA,2018.0,59.5,2.0,79.2,627.0,2091.0,0.452,Standard,40.8,None,112.0,244.5,4.0,459.0,High,,55.6,289.0
+BMW,Sedan,Supercharger,4WD,Solid State,2020.0,40.6,7.0,73.6,89.0,2430.0,0.398,Performance,-4.1,Max Cool,112.6,453.3,1.0,,Low,Sport,25.5,1732.3138970225557
+HYUNDAI,SUV,,FWD,Solid State,,114.7,3.0,63.0,294.0,1479.0,0.215,All-Terrain,5.1,Cooling,,-478.6,6.0,202.0,High,Sport,53.6,367.0
+audi,Sedan,Level 1,,Solid State,2023.0,120.0,,96.0,479.0,2786.0,0.387,All-Terrain,,Cooling,52.1,-237.2,6.0,62.0,Off,,47.6,152.0
+BMW,Van,Supercharger,RWD,Solid State,2024.0,69.9,5.0,89.6,545.0,1782.0,0.418,Performance,-11.0,Max Cool,129.9,-386.3,3.0,469.0,Max,,18.1,236.6
+VW,,DC Fast Charge,RWD,NMCA,2020.0,59.9,6.0,80.3,409.0,1843.0,0.394,Standard,29.3,Max Cool,83.7,-97.5,6.0,411.0,Low,Off-Road,,680.6
+Audi,Crossover,,FWD,NMCA,2020.0,108.5,5.0,61.9,458.0,2663.0,0.306,Standard,1.8,,85.7,304.4,4.0,45.0,High,Eco,39.7,255.3
+Hyundai,Sports Car,Level 2,4WD,Solid State,2018.0,70.4,,64.5,346.0,1463.0,0.224,Low Rolling Resistance,9.3,Cooling,20.5,99.8,1.0,279.0,High,Sport,41.4,231.4
+AUDI,Sports Car,,4WD,LFP,2016.0,48.9,7.0,84.7,329.0,1562.0,0.5,,0.5,None,93.9,-453.3,3.0,142.0,Max,Normal,14.4,591.5
+Rivian,,Level 2,FWD,LFP,,107.9,5.0,77.0,582.0,1255.0,,,23.4,Max Heat,59.7,-93.7,6.0,425.0,High,Off-Road,66.0,459.7
+Tesla,Hatchback,Supercharger,RWD,NCA,2024.0,60.5,3.0,84.5,401.0,1913.0,,,37.2,None,119.1,,3.0,23.0,,Off-Road,43.8,280.1
+BMW,Truck,Wireless,,LFP,2016.0,123.4,5.0,75.4,587.0,1320.0,0.443,All-Terrain,-0.8,Heating,,-266.7,5.0,,,Chill,53.5,241.7
+,SUV,Level 1,AWD,LFP,2021.0,119.1,2.0,84.6,601.0,2377.0,0.274,,18.1,Max Heat,,445.6,3.0,434.0,High,Chill,22.9,273.4
+NIO,Sedan,Level 1,FWD,Solid State,2022.0,25.7,,89.1,582.0,2621.0,,Standard,30.0,None,59.4,-25.2,1.0,29.0,Low,Off-Road,75.2,354.7
+BMW,Sports Car,,4WD,NMCA,2015.0,71.0,7.0,60.6,340.0,2408.0,0.247,Low Rolling Resistance,-17.7,Cooling,59.9,,5.0,,Low,,0.1,614.8
+NIO,Van,DC Fast Charge,AWD,NMCA,2019.0,76.1,0.0,84.1,371.0,3930.0,0.332,Performance,-12.8,Cooling,73.1,13.8,6.0,416.0,Low,Eco,57.0,545.9
+NIO,,DC Fast Charge,,NMCA,2021.0,41.3,4.0,85.3,510.0,1408.0,0.324,Performance,19.9,Max Heat,93.4,214.9,2.0,454.0,Off,Off-Road,19.1,195.1
+NIO,,Level 2,FWD,Solid State,,96.9,8.0,73.9,321.0,2333.0,0.315,All-Terrain,,Cooling,86.1,-377.3,1.0,471.0,Medium,Eco,47.6,663.3
+,SUV,DC Fast Charge,AWD,NMCA,2024.0,90.1,9.0,90.1,255.0,1628.0,0.495,Low Rolling Resistance,-6.9,Max Cool,25.3,450.4,5.0,,Medium,Chill,,403.2
+Polestar,Crossover,DC Fast Charge,RWD,NMC,2023.0,80.3,0.0,87.4,680.0,1626.0,0.358,Performance,3.6,Max Heat,99.8,407.5,4.0,238.0,High,Eco,74.2,641.8
+VW,Van,DC Fast Charge,RWD,NMC,,52.4,,91.4,69.0,2459.0,0.492,All-Terrain,28.2,,125.8,181.9,5.0,405.0,High,Normal,69.5,343.0
+RIVIAN,SUV,Level 1,AWD,Solid State,2022.0,51.5,2.0,72.7,,,,Standard,39.9,Max Cool,50.8,,3.0,122.0,High,Sport,40.3,162.5
+NIO,Crossover,Level 2,RWD,,2023.0,25.5,,71.6,285.0,1590.0,0.307,Performance,37.7,,128.1,116.0,1.0,414.0,,,59.0,385.9
+BYD,SUV,,FWD,NMC,,120.5,6.0,96.8,212.0,3960.0,,All-Terrain,-19.0,None,49.9,-96.7,5.0,279.0,Medium,Sport,29.4,600.3
+bmw,Sedan,,RWD,NMC,2016.0,72.9,4.0,67.6,512.0,1400.0,0.259,All-Terrain,43.7,Cooling,125.3,469.2,2.0,143.0,Off,Sport,22.1,605.7
+Audi,Sports Car,Wireless,,LFP,2021.0,127.6,8.0,72.3,452.0,3063.0,0.465,,11.2,Heating,73.4,-142.1,2.0,,Low,,40.2,111.4
+Tesla,Hatchback,Supercharger,AWD,NMCA,2016.0,70.9,5.0,96.7,356.0,2703.0,0.383,Low Rolling Resistance,35.6,Heating,123.2,-437.8,,378.0,Off,Off-Road,40.0,1542.8989453180832
+BMW,Crossover,,FWD,NCA,2018.0,75.6,7.0,,256.0,3836.0,0.312,Performance,-18.3,Cooling,24.9,-290.1,6.0,16.0,Max,Eco,69.9,454.0
+Audi,Sedan,Level 1,RWD,NMC,,49.6,,93.6,298.0,,0.335,Standard,-8.3,Cooling,57.8,113.7,6.0,180.0,High,,12.1,457.7
+bmw,SUV,Level 1,AWD,NCA,2016.0,33.8,1.0,71.6,628.0,2895.0,0.479,All-Terrain,-4.6,None,97.5,-28.9,3.0,,Medium,Chill,7.3,282.1
+BMW,Van,Level 1,RWD,NCA,2017.0,127.3,2.0,74.5,576.0,2626.0,0.473,Standard,-5.5,,41.7,-452.8,3.0,359.0,Max,Off-Road,,503.3
+Polestar,SUV,,RWD,NCA,2016.0,107.7,8.0,96.5,,,0.263,Low Rolling Resistance,-10.1,Heating,79.4,-481.7,4.0,325.0,High,Sport,13.9,293.4
+lucid,Hatchback,DC Fast Charge,,NMC,2016.0,,0.0,70.5,661.0,1492.0,0.361,All-Terrain,30.2,Heating,23.1,-171.6,4.0,93.0,Off,Off-Road,52.9,538.7
+LUCID,Truck,DC Fast Charge,4WD,NCA,2023.0,127.2,7.0,94.2,698.0,3754.0,0.478,Low Rolling Resistance,3.4,Max Cool,,370.0,2.0,233.0,Medium,Chill,48.6,679.8
+BYD,,DC Fast Charge,4WD,,,56.1,9.0,94.7,170.0,3290.0,0.491,Performance,30.1,Max Heat,27.2,-443.5,2.0,107.0,,Chill,,431.2
+VW,Hatchback,DC Fast Charge,FWD,LFP,2020.0,79.8,2.0,,671.0,1231.0,0.226,,14.9,Max Cool,,47.9,,135.0,Low,Normal,39.2,1658.5097086344485
+Hyundai,,Level 2,AWD,NMC,2016.0,44.9,6.0,90.9,218.0,,0.362,Standard,-14.6,Max Cool,29.6,77.3,2.0,39.0,High,Eco,8.2,250.9
+,Sedan,Level 1,FWD,,2021.0,47.0,6.0,80.0,515.0,1397.0,0.203,Performance,7.2,Heating,,,6.0,133.0,High,Eco,4.6,119.3
+Hyundai,Truck,Wireless,FWD,,2024.0,22.6,8.0,82.2,636.0,,0.444,Performance,,Cooling,67.0,212.9,4.0,,Max,,56.8,393.1
+VW,SUV,Wireless,4WD,NMCA,2023.0,100.6,,97.6,262.0,2753.0,,All-Terrain,32.1,Cooling,56.6,-429.1,2.0,352.0,,Off-Road,75.4,678.3
+tesla ,Crossover,Level 2,AWD,NMCA,2020.0,50.6,,86.7,598.0,2287.0,,All-Terrain,32.6,,28.7,292.4,4.0,466.0,Off,Eco,27.5,593.2
+BYD ,,Level 2,AWD,LFP,2018.0,119.2,6.0,73.7,609.0,,0.207,Low Rolling Resistance,15.8,Heating,102.1,91.5,6.0,235.0,Off,,33.4,603.7
+Audi,,,AWD,NMCA,2017.0,124.6,3.0,68.9,386.0,1297.0,0.232,All-Terrain,43.0,Heating,46.3,67.4,1.0,460.0,Max,Off-Road,,582.4
+BMW,Crossover,,AWD,NMCA,2023.0,130.0,6.0,90.5,419.0,3684.0,0.385,Performance,37.4,,103.4,-400.2,6.0,463.0,Off,,75.0,654.3
+Rivian,Hatchback,Wireless,4WD,NMC,2015.0,,5.0,97.3,667.0,3141.0,0.294,Low Rolling Resistance,5.8,None,65.9,372.2,5.0,,Medium,,20.4,471.9
+BMW,Sedan,Level 2,AWD,Solid State,2023.0,104.9,3.0,98.6,78.0,2252.0,0.275,All-Terrain,11.9,Max Cool,56.3,,5.0,,Low,Sport,74.8,478.8
+Lucid,Crossover,DC Fast Charge,4WD,NMC,2022.0,79.1,4.0,89.8,306.0,,0.364,Standard,-3.1,Heating,102.7,431.7,1.0,104.0,Low,Off-Road,37.1,163.7
+,Crossover,Supercharger,AWD,NMC,2017.0,,2.0,83.8,325.0,2078.0,0.346,Performance,,Heating,43.9,239.8,5.0,222.0,Off,Off-Road,76.0,215.2
+Audi,Van,DC Fast Charge,4WD,LFP,2016.0,30.3,,71.0,692.0,1540.0,0.402,All-Terrain,43.8,Max Heat,22.5,,1.0,237.0,Medium,Off-Road,55.5,553.6
+Polestar,Hatchback,Supercharger,AWD,NMCA,,76.2,6.0,79.4,197.0,3856.0,0.435,Performance,40.3,,,121.4,6.0,114.0,Medium,Sport,41.8,589.6
+VW,,DC Fast Charge,FWD,,2018.0,101.2,7.0,85.6,544.0,2171.0,0.443,Performance,-11.7,Max Cool,,-417.1,6.0,427.0,High,Chill,17.4,398.1
+Tesla,Sports Car,Level 1,FWD,NMC,2019.0,42.4,,99.2,370.0,2586.0,0.423,Standard,15.6,Cooling,35.8,49.6,1.0,124.0,High,Chill,78.3,680.5
+Audi,Sports Car,DC Fast Charge,4WD,,2023.0,,,69.5,599.0,2264.0,0.497,,4.7,,93.9,260.1,4.0,333.0,Max,Normal,41.9,397.2
+rivin,Crossover,Wireless,4WD,NCA,2016.0,22.2,5.0,92.4,474.0,2401.0,0.275,Low Rolling Resistance,30.4,,64.2,196.0,3.0,,Low,Off-Road,29.3,351.4
+BMW,,,4WD,NMC,2022.0,95.0,5.0,86.8,88.0,2378.0,0.292,Standard,0.6,Heating,88.4,-21.8,5.0,11.0,Max,Off-Road,22.1,310.1
+Tesla,Van,Level 1,,LFP,,,4.0,83.7,182.0,1522.0,0.261,Low Rolling Resistance,-11.2,Heating,27.2,-485.4,3.0,284.0,Off,Chill,8.8,691.4
+BMW,Crossover,Supercharger,FWD,NMCA,,50.3,8.0,82.6,435.0,,0.23,Performance,39.5,Max Cool,,344.9,4.0,262.0,Low,Sport,12.4,643.5
+Polestar,Crossover,DC Fast Charge,FWD,Solid State,,118.0,7.0,80.7,498.0,1497.0,,Standard,-7.0,Max Heat,72.0,-477.4,3.0,55.0,Medium,Normal,70.9,262.8
+hyundai,,Supercharger,FWD,NMC,2020.0,77.8,4.0,78.9,125.0,3945.0,0.398,All-Terrain,-1.6,Heating,,490.9,3.0,253.0,Low,Eco,42.9,675.2
+BMW,,Wireless,AWD,NMC,2016.0,65.0,9.0,89.6,414.0,2074.0,0.414,Performance,1.8,Max Cool,27.3,15.5,2.0,198.0,Max,Eco,5.6,539.7
+VW,Hatchback,Supercharger,RWD,NCA,2017.0,24.0,6.0,93.4,677.0,,0.307,Low Rolling Resistance,-7.6,Max Cool,118.9,,6.0,312.0,Max,,22.3,193.1
+,Hatchback,DC Fast Charge,,NMCA,2022.0,20.7,4.0,82.0,561.0,2441.0,0.242,All-Terrain,29.0,Heating,122.0,439.6,,260.0,High,Chill,13.2,204.0
+,SUV,Level 2,RWD,NMCA,2018.0,37.2,6.0,,672.0,,0.304,Performance,25.8,,99.7,430.6,6.0,,Medium,Off-Road,36.7,124.7
+,Hatchback,Level 1,4WD,Solid State,2020.0,81.5,2.0,94.6,338.0,2318.0,0.401,All-Terrain,26.8,None,94.5,,4.0,307.0,,Eco,12.1,217.8
+VW,Truck,,AWD,NMC,2021.0,122.6,7.0,63.7,666.0,,0.385,Low Rolling Resistance,17.8,Heating,127.6,261.5,2.0,312.0,Medium,Eco,8.2,242.5
+polestar,Truck,,4WD,LFP,2022.0,,2.0,97.3,646.0,2925.0,0.372,Performance,30.3,Cooling,67.5,-35.8,2.0,,Medium,,8.2,603.9
+BMW,Sports Car,Supercharger,4WD,NCA,2018.0,116.6,3.0,97.3,418.0,2139.0,0.49,Performance,9.2,None,70.8,-232.6,6.0,20.0,Off,Chill,61.2,626.4
+Rivian,Hatchback,DC Fast Charge,RWD,Solid State,2023.0,76.9,,76.9,246.0,1410.0,0.354,Performance,9.3,Max Heat,92.8,-301.1,2.0,,Medium,,75.1,175.1
+Lucid,Hatchback,Wireless,RWD,,2023.0,126.1,2.0,,296.0,3549.0,0.492,Low Rolling Resistance,-18.6,None,125.0,-273.6,,274.0,,Sport,49.0,212.5
+Lucid,,Supercharger,RWD,NMCA,2021.0,,9.0,95.6,419.0,3170.0,0.244,All-Terrain,-1.9,None,97.9,468.8,5.0,226.0,Off,Eco,6.9,337.8
+BYD,Sedan,Supercharger,AWD,NMCA,,,,91.0,554.0,,0.29,All-Terrain,-9.3,Max Heat,75.4,308.4,6.0,157.0,,Off-Road,,606.3
+Tesla,,DC Fast Charge,RWD,NMC,2015.0,119.5,1.0,66.5,349.0,1593.0,0.344,Performance,31.5,Heating,36.7,421.3,6.0,314.0,,Chill,19.8,292.1
+VW,,Level 1,RWD,,2023.0,102.7,2.0,87.1,77.0,2597.0,0.247,Standard,41.1,Cooling,78.9,241.3,3.0,127.0,Max,Off-Road,,85.4
+,SUV,Supercharger,,,2024.0,119.7,5.0,,252.0,2260.0,,Performance,1.2,Max Cool,128.7,9.7,3.0,399.0,High,Off-Road,23.7,674.1
+VW,SUV,DC Fast Charge,4WD,NMC,2023.0,,,84.3,310.0,,0.304,Standard,20.2,Cooling,24.6,412.9,1.0,128.0,High,Sport,62.2,238.8
+VW,SUV,Wireless,4WD,,2015.0,113.0,0.0,,83.0,3619.0,0.241,All-Terrain,-2.7,Max Cool,77.8,206.2,5.0,,Off,Off-Road,34.4,675.5
+TESLA,Hatchback,Level 1,RWD,LFP,2020.0,126.9,5.0,65.8,,1898.0,0.292,Low Rolling Resistance,-9.7,Heating,,213.0,6.0,314.0,,,27.6,471.7
+Hyundai,Crossover,Level 1,AWD,,2024.0,,7.0,96.3,317.0,,,Standard,-4.9,Cooling,116.5,151.2,6.0,339.0,Low,Sport,54.4,270.8
+,SUV,Wireless,4WD,LFP,,68.1,5.0,87.7,438.0,1687.0,0.394,Standard,-0.6,Max Heat,57.9,283.8,5.0,270.0,Off,Chill,,301.9
+bmw,SUV,Level 2,AWD,NMC,2021.0,28.2,5.0,71.2,132.0,2154.0,,Low Rolling Resistance,5.0,None,68.1,,,257.0,High,Normal,56.7,484.1
+Audi,Sports Car,Supercharger,AWD,NMCA,2021.0,87.6,4.0,63.0,589.0,2459.0,0.383,All-Terrain,33.1,Heating,124.3,206.7,2.0,474.0,Max,Eco,61.6,401.1
+Tesla,Sedan,DC Fast Charge,FWD,Solid State,2022.0,70.3,9.0,78.6,235.0,1434.0,0.334,Performance,27.6,Cooling,53.0,,3.0,,Low,,59.6,422.5
+Audi,Van,,FWD,NMC,2015.0,52.0,0.0,84.8,645.0,,0.229,,28.7,Max Heat,107.3,,4.0,293.0,Max,Eco,6.6,621.4
+BYD,Sedan,Level 1,4WD,NMCA,2024.0,84.3,0.0,66.2,469.0,1505.0,,Standard,39.3,Max Cool,75.2,-419.0,,74.0,High,Eco,45.8,365.0
+Tesla,Hatchback,Level 2,AWD,Solid State,2021.0,56.5,6.0,98.7,80.0,2492.0,0.251,Standard,38.9,,77.2,-327.0,,413.0,,Chill,67.9,204.5
+BYD,Van,Level 2,FWD,LFP,2018.0,82.5,8.0,64.7,401.0,1544.0,,Standard,-17.3,Max Heat,29.1,365.6,1.0,73.0,Off,Normal,61.6,636.4
+VW,Van,Level 1,4WD,,2020.0,118.6,3.0,77.1,410.0,3677.0,0.339,Standard,-19.6,Heating,74.0,220.7,3.0,210.0,Low,Eco,41.0,535.1
+RIVIAN,Sports Car,,AWD,NCA,2021.0,56.5,3.0,89.6,177.0,2705.0,0.203,Performance,-11.7,Max Cool,71.5,238.2,5.0,186.0,Off,Sport,54.9,356.5
+,Sports Car,,,NMC,2024.0,30.1,9.0,61.7,,1213.0,0.392,Low Rolling Resistance,32.3,,129.5,303.6,3.0,274.0,Max,Eco,,679.2
+,,Wireless,FWD,Solid State,2020.0,89.9,9.0,73.9,424.0,2023.0,0.379,Performance,15.2,Heating,92.9,94.3,2.0,85.0,Off,Off-Road,37.4,222.1
+Polestar,Truck,,,LFP,,35.2,3.0,96.6,238.0,3229.0,,All-Terrain,7.3,,,410.4,2.0,77.0,Off,,22.9,323.7
+,Hatchback,DC Fast Charge,FWD,NCA,2023.0,86.2,,75.9,533.0,,,Standard,,Max Cool,100.8,-394.7,1.0,356.0,Max,Sport,65.9,295.6
+BYD,Van,Level 1,4WD,NCA,2020.0,31.5,8.0,,411.0,2003.0,0.211,,,Max Cool,92.4,49.7,4.0,277.0,Medium,Sport,39.7,540.2
+Polestar,Sports Car,Level 1,AWD,NCA,2021.0,61.5,9.0,98.0,224.0,,,Standard,,Cooling,99.3,-116.5,1.0,,High,,3.3,464.1
+Polestar,Sports Car,DC Fast Charge,RWD,NMC,2019.0,100.2,7.0,84.0,509.0,2078.0,,,19.8,Cooling,120.5,,6.0,396.0,Max,,61.8,699.2
+BMW,,,,,2017.0,95.4,6.0,89.1,309.0,2497.0,0.287,Performance,,,48.4,401.7,1.0,359.0,Low,Chill,27.6,463.5
+,Hatchback,Supercharger,RWD,Solid State,2021.0,44.2,8.0,75.0,423.0,3552.0,0.322,All-Terrain,,Max Cool,105.4,-25.7,,198.0,Medium,,72.7,680.8
+Lucid,Van,Wireless,4WD,NMCA,2024.0,29.5,1.0,65.7,570.0,3740.0,0.232,Performance,-14.5,Max Cool,32.0,320.2,4.0,247.0,Medium,Chill,64.8,89.8
+NIO,Van,DC Fast Charge,RWD,LFP,2021.0,101.7,4.0,89.9,486.0,1218.0,0.455,Low Rolling Resistance,-1.9,Cooling,115.9,173.6,5.0,277.0,,,,200.8
+VW,Hatchback,Level 1,,NCA,2015.0,39.5,1.0,80.2,226.0,1826.0,,Low Rolling Resistance,,Max Heat,89.6,-333.1,,,Max,Chill,48.3,184.8
+VW,Crossover,Level 2,AWD,Solid State,2024.0,58.5,7.0,,259.0,3611.0,0.43,Standard,,Heating,101.2,342.0,5.0,496.0,Max,Eco,49.4,204.0
+BYD ,SUV,DC Fast Charge,RWD,NCA,2020.0,98.7,7.0,63.6,74.0,,0.236,Low Rolling Resistance,-9.0,Max Heat,62.9,-60.0,4.0,258.0,High,,47.0,173.7
+VW,Truck,,FWD,NMCA,2021.0,,1.0,65.7,354.0,1971.0,,Standard,-0.1,,21.5,-460.3,6.0,110.0,Low,Sport,,116.4
+Polestar,SUV,Supercharger,4WD,NMC,,57.3,9.0,77.0,,3482.0,0.287,All-Terrain,-3.6,Cooling,45.9,-238.7,3.0,94.0,Off,Off-Road,48.3,369.1
+Tesla,,Level 2,RWD,NCA,2019.0,72.1,8.0,80.5,,1679.0,,Standard,14.6,Cooling,79.6,321.9,3.0,31.0,Medium,Eco,37.9,692.0
+Lucid,Van,,,,2016.0,120.8,5.0,83.5,193.0,3923.0,0.354,All-Terrain,18.4,Cooling,95.1,-362.5,5.0,338.0,,Chill,47.9,269.2
+Audi,,Level 1,AWD,NMC,2020.0,103.7,5.0,77.4,346.0,2252.0,0.259,,0.8,Heating,58.7,-376.1,3.0,,Medium,Chill,11.7,478.9
+Audi,Sports Car,DC Fast Charge,,NMCA,2021.0,33.3,2.0,,484.0,1698.0,0.308,Low Rolling Resistance,-8.6,Cooling,41.2,-186.4,,,Medium,,67.1,161.2
+AUDI,Van,Level 2,,NMC,2023.0,68.6,3.0,68.8,625.0,1338.0,0.408,,31.2,Max Heat,43.9,-470.8,,251.0,High,Normal,44.7,486.5
+Hyundai,Sports Car,Level 1,RWD,NMC,2018.0,40.8,3.0,70.0,325.0,2430.0,0.225,All-Terrain,23.1,Max Cool,76.6,-469.4,6.0,343.0,,Sport,25.8,655.5
+Lucid,Hatchback,DC Fast Charge,4WD,NMCA,,102.6,1.0,93.8,110.0,2586.0,0.365,All-Terrain,,Max Cool,110.9,300.2,3.0,128.0,Medium,Off-Road,20.6,443.4
+POLESTAR,Sedan,Level 1,4WD,LFP,2015.0,85.9,,71.5,55.0,3664.0,0.34,Low Rolling Resistance,,Heating,44.3,-389.8,,357.0,Max,Off-Road,56.9,629.1
+Tesla,Hatchback,Supercharger,RWD,NMCA,2019.0,25.7,5.0,87.7,469.0,1681.0,0.308,Standard,43.8,,54.1,-122.1,5.0,367.0,Max,Off-Road,,334.9
+BYD,,Level 1,,NCA,2022.0,97.1,8.0,,358.0,2378.0,0.395,,,None,,-328.8,5.0,160.0,,Off-Road,77.4,548.3
+,,Level 1,RWD,,2017.0,65.5,7.0,93.5,,1386.0,0.416,Performance,-0.3,None,74.8,-323.1,2.0,,Max,Sport,25.2,596.8
+Audi,Hatchback,Level 1,AWD,Solid State,2022.0,,9.0,98.2,565.0,3245.0,,Performance,23.9,Cooling,70.8,-168.7,,249.0,Max,Sport,3.9,639.4
+NIO,Truck,Level 2,AWD,Solid State,2018.0,51.2,8.0,72.4,143.0,1675.0,0.257,Performance,16.9,Max Cool,65.7,-263.8,3.0,151.0,Medium,Chill,50.6,204.1
+Audi,SUV,DC Fast Charge,RWD,,2016.0,119.3,3.0,62.5,132.0,3838.0,0.307,Performance,,Cooling,27.4,-236.4,,445.0,High,Sport,,593.9
+Tesla,Hatchback,Supercharger,FWD,,2024.0,45.3,,80.2,417.0,3232.0,,Performance,-17.9,None,126.8,162.8,6.0,368.0,High,Sport,29.2,308.2
+Rivian,Van,DC Fast Charge,FWD,NMCA,2018.0,28.8,5.0,84.5,369.0,3228.0,0.47,Low Rolling Resistance,,Heating,62.7,106.7,,212.0,Off,Chill,12.9,86.8
+Polestar,Van,Wireless,4WD,,2020.0,116.7,5.0,71.4,,2023.0,0.216,All-Terrain,18.8,Max Cool,65.6,-378.4,1.0,33.0,Medium,Sport,23.0,115.7
+BYD,Truck,Level 2,FWD,,2018.0,79.1,8.0,99.1,442.0,3404.0,0.339,All-Terrain,34.8,,94.9,444.5,6.0,28.0,Max,Chill,11.2,190.2
+Audi,SUV,Level 2,RWD,Solid State,,72.2,3.0,78.3,437.0,1799.0,,Standard,-6.8,Max Heat,113.5,-276.2,3.0,260.0,Off,Sport,31.0,693.2
+,,DC Fast Charge,AWD,NMCA,2020.0,39.7,1.0,94.0,157.0,,0.304,Standard,-19.3,Max Cool,82.1,,,47.0,Max,Normal,59.1,267.4
+Polestar,Van,Level 2,FWD,Solid State,2022.0,20.1,8.0,82.6,695.0,2559.0,0.223,Low Rolling Resistance,37.3,Max Cool,123.3,429.0,3.0,191.0,Off,Sport,27.4,102.4
+Tesla,Hatchback,Level 2,AWD,,2024.0,120.9,2.0,63.5,344.0,2025.0,0.22,Low Rolling Resistance,6.9,Heating,125.2,-182.2,6.0,74.0,Off,Sport,,150.1
+Tesla,SUV,Level 1,FWD,NMCA,2019.0,,8.0,71.9,382.0,2577.0,,All-Terrain,22.1,,59.9,-123.5,3.0,4.0,Off,Normal,63.0,680.0
+,Crossover,Wireless,RWD,Solid State,2023.0,,6.0,93.9,617.0,1508.0,0.412,Performance,-18.0,Cooling,,-433.7,2.0,415.0,Off,,60.0,196.0
+RIVIAN,Hatchback,Supercharger,RWD,NMC,2019.0,73.6,1.0,70.6,610.0,2038.0,0.202,,14.1,None,107.5,-225.4,2.0,389.0,Low,Normal,11.4,150.0
+NIO,Sedan,Level 1,FWD,,2024.0,81.0,2.0,89.4,,3689.0,0.382,Low Rolling Resistance,-19.1,Max Cool,35.1,-464.9,1.0,250.0,High,Normal,74.3,232.3
+BMW,,Supercharger,AWD,NCA,2020.0,43.0,4.0,98.1,617.0,3151.0,0.247,All-Terrain,27.2,None,27.2,375.5,6.0,70.0,Medium,Off-Road,38.7,166.2
+,SUV,Wireless,AWD,NCA,2020.0,79.3,9.0,80.2,242.0,3704.0,0.339,Standard,-7.9,Cooling,104.1,,1.0,38.0,Low,Chill,13.3,200.6
+Hyundai,Hatchback,Level 2,4WD,NMCA,2021.0,109.8,6.0,66.0,543.0,3210.0,0.28,,9.7,Cooling,96.1,,4.0,,Max,Sport,69.0,451.7
+Tesla,SUV,Wireless,,NMC,2022.0,,9.0,,499.0,1446.0,0.41,Standard,-13.9,Max Heat,46.1,-260.0,2.0,464.0,Medium,Eco,70.7,670.7616576703001
+Tesla,Crossover,Wireless,AWD,LFP,2024.0,50.3,0.0,97.1,679.0,2182.0,0.252,All-Terrain,12.9,Heating,32.5,-37.1,6.0,44.0,Max,Normal,38.0,286.2
+BMW,Truck,DC Fast Charge,RWD,LFP,,,7.0,83.5,265.0,1555.0,0.437,Standard,11.2,Cooling,22.4,-91.6,1.0,435.0,Medium,Sport,69.1,512.0
+Hyundai,Sports Car,Level 1,4WD,LFP,2022.0,30.5,0.0,60.7,463.0,,0.406,Standard,25.4,Max Heat,108.4,-218.3,1.0,182.0,High,Chill,37.7,198.9
+Rivian,Sedan,Level 2,FWD,Solid State,2019.0,,,82.2,213.0,2620.0,0.335,Low Rolling Resistance,17.0,Cooling,,-95.0,2.0,99.0,,,14.7,124.2
+NIO,Truck,,4WD,Solid State,2018.0,95.0,1.0,99.3,92.0,1337.0,0.274,Performance,-12.4,Heating,75.4,299.3,3.0,481.0,,,4.3,287.1
+,Truck,Wireless,AWD,NCA,2016.0,68.3,8.0,71.4,598.0,2166.0,0.258,Low Rolling Resistance,5.9,Heating,56.3,-159.6,2.0,384.0,High,Sport,12.2,267.0
+Hyundai,Crossover,Level 2,AWD,NMC,2015.0,96.1,2.0,,186.0,2889.0,0.473,Low Rolling Resistance,-8.5,Heating,71.6,138.2,2.0,214.0,,Eco,,331.9
+Polestar,Truck,Level 1,AWD,LFP,,29.8,7.0,89.1,,1450.0,0.29,Standard,41.4,Max Heat,106.6,487.0,2.0,135.0,Max,Sport,3.2,120.9
+Hyundai,SUV,Level 1,AWD,LFP,2021.0,,1.0,64.0,627.0,,0.322,Performance,13.9,None,124.1,-234.8,3.0,200.0,High,Eco,21.4,451.6
+Polestar,,Level 2,AWD,LFP,2023.0,113.4,5.0,72.2,281.0,2575.0,0.422,All-Terrain,30.7,None,,209.3,2.0,333.0,,Normal,66.1,421.6
+NIO,Sedan,Wireless,,Solid State,,87.1,9.0,83.7,,2576.0,0.325,Low Rolling Resistance,,Heating,112.3,,,85.0,High,Sport,0.5,317.5
+lucid,Truck,,AWD,,2018.0,,,71.0,377.0,3758.0,0.412,Standard,7.5,Max Cool,,-335.6,3.0,183.0,,Eco,,148.1
+Lucid,Hatchback,Supercharger,4WD,Solid State,2016.0,25.7,7.0,66.3,313.0,2355.0,0.262,Low Rolling Resistance,43.9,Max Heat,93.8,43.6,2.0,279.0,Max,Normal,67.4,208.4
+POLESTAR,Van,Wireless,AWD,LFP,2020.0,26.1,7.0,85.9,139.0,3830.0,0.212,Performance,43.5,None,123.3,-146.9,1.0,475.0,Max,Off-Road,,563.5
+BYD,SUV,Supercharger,4WD,,2015.0,97.9,4.0,63.1,419.0,2370.0,0.321,All-Terrain,-0.1,Cooling,,405.0,4.0,135.0,Medium,Normal,55.2,477.3
+BYD ,Sports Car,Level 2,AWD,NMC,2017.0,,,,224.0,,,Low Rolling Resistance,8.0,Max Heat,,153.9,3.0,28.0,Max,Chill,14.9,3378.06420718552
+BYD,SUV,DC Fast Charge,AWD,Solid State,2019.0,107.6,1.0,92.4,344.0,2141.0,0.41,,30.9,Heating,86.5,182.5,4.0,251.0,High,Off-Road,65.3,239.4
+bmw,Truck,DC Fast Charge,FWD,Solid State,2022.0,116.0,5.0,67.2,505.0,3189.0,0.209,Performance,34.7,Max Heat,58.3,95.0,6.0,72.0,Max,Chill,5.7,659.6
+Tesla,SUV,Level 1,4WD,NMC,2021.0,43.8,4.0,60.3,647.0,2699.0,0.491,Standard,35.7,Max Cool,,-150.4,,,High,Off-Road,9.9,87.3
+polestar,Sedan,,,Solid State,2021.0,110.0,9.0,94.8,371.0,,0.28,Performance,26.2,Max Heat,96.9,-388.1,1.0,425.0,Off,Eco,8.2,129.7
+,Sedan,Level 2,AWD,NMC,2021.0,100.9,5.0,93.7,585.0,2426.0,0.38,Low Rolling Resistance,20.5,Cooling,80.5,494.5,6.0,393.0,Off,Chill,66.2,249.3
+NIO,Hatchback,Wireless,AWD,NMC,2017.0,114.2,8.0,99.6,464.0,2397.0,0.457,,-8.0,,104.2,,1.0,,Off,Off-Road,10.6,284.1
+Polestar,Van,Level 1,FWD,LFP,2024.0,70.4,5.0,71.9,151.0,3992.0,0.406,All-Terrain,34.4,Heating,66.5,-80.4,3.0,,Medium,Eco,75.6,184.6
+VW,Truck,Level 2,FWD,Solid State,2015.0,53.1,6.0,99.0,562.0,2322.0,0.31,All-Terrain,27.8,Max Heat,35.1,-497.8,4.0,313.0,Max,Sport,25.1,253.0
+RIVIAN,Sedan,,4WD,NMCA,2021.0,109.2,6.0,80.4,681.0,2437.0,0.222,All-Terrain,28.1,Cooling,123.1,-99.5,1.0,353.0,Low,Eco,5.0,661.0
+Hyundai,Hatchback,Level 2,4WD,NCA,2020.0,92.5,,94.7,542.0,2781.0,0.346,All-Terrain,,Heating,,-65.3,2.0,,Off,Eco,,270.1
+POLESTAR,Sedan,Supercharger,FWD,NMCA,2018.0,41.7,5.0,71.2,421.0,,0.421,Standard,1.0,Heating,79.5,-223.3,2.0,109.0,Low,Normal,39.0,544.4
+Tesla,Truck,Supercharger,,,,73.3,,77.0,681.0,2344.0,0.253,Low Rolling Resistance,-8.5,Cooling,38.6,-230.4,4.0,462.0,Off,Off-Road,62.4,135.5
+NIO,Hatchback,Level 1,,NMCA,2019.0,42.8,4.0,61.0,,3646.0,,All-Terrain,,None,89.5,,,,Max,Chill,27.7,156.6
+Lucid,Crossover,Supercharger,FWD,LFP,2021.0,,4.0,65.5,350.0,3621.0,0.493,,1.6,None,21.6,-237.7,5.0,451.0,High,,,642.5
+Polestar,Sports Car,Supercharger,AWD,NMC,2018.0,91.1,6.0,98.7,,1453.0,,Performance,34.1,Heating,83.7,335.8,6.0,475.0,Medium,Normal,68.8,467.3
+BMW,Crossover,Wireless,AWD,NMC,,91.6,5.0,99.5,74.0,2998.0,,Standard,-19.3,Max Heat,,463.3,,491.0,High,Sport,72.6,515.5
+NIO,,Level 2,4WD,,2019.0,78.9,9.0,,502.0,1684.0,,Low Rolling Resistance,19.6,Cooling,82.2,392.0,4.0,492.0,Max,Chill,27.2,317.1
+tesla ,SUV,DC Fast Charge,AWD,Solid State,2020.0,41.0,6.0,77.5,666.0,2126.0,0.229,Low Rolling Resistance,20.6,Cooling,20.7,227.3,1.0,451.0,Max,Off-Road,52.0,438.7
+Audi,Truck,Supercharger,FWD,NCA,2016.0,71.7,0.0,77.7,658.0,2994.0,0.471,Low Rolling Resistance,21.4,Heating,,140.8,5.0,252.0,Off,Chill,3.4,348.4
+Polestar,Van,Supercharger,FWD,NMC,,116.2,0.0,61.5,649.0,2995.0,0.35,All-Terrain,31.0,Cooling,82.9,,4.0,202.0,,Chill,47.8,351.5
+Hyundai,SUV,Wireless,AWD,Solid State,2018.0,39.4,,91.9,205.0,2470.0,,Performance,-17.0,None,118.8,,3.0,,Off,Off-Road,33.6,375.5
+,,DC Fast Charge,FWD,NMC,2021.0,86.8,6.0,64.2,146.0,,0.302,All-Terrain,,Max Heat,38.6,474.1,6.0,363.0,Low,Normal,54.9,527.7
+,Sedan,Supercharger,AWD,NCA,2021.0,53.3,5.0,90.6,306.0,3658.0,0.243,Performance,-15.6,Max Cool,56.1,168.2,4.0,407.0,High,Sport,,548.1
+Tesla,SUV,,,Solid State,2017.0,106.0,3.0,63.5,252.0,3553.0,0.205,All-Terrain,13.7,Max Heat,108.5,,5.0,379.0,Max,,12.2,648.3
+,Truck,DC Fast Charge,AWD,,2022.0,54.4,7.0,79.5,416.0,3539.0,,Performance,40.1,,78.4,187.6,5.0,,Off,Chill,24.6,673.2
+BYD,Sports Car,Level 2,RWD,NMCA,2022.0,90.6,2.0,95.7,132.0,3002.0,0.434,Standard,11.3,Max Cool,32.5,294.1,,197.0,High,Sport,30.5,651.4
+hyundai,Van,Wireless,RWD,NMC,2019.0,83.2,,,318.0,2724.0,0.39,Performance,20.3,Cooling,47.6,-439.7,1.0,126.0,,Chill,78.0,305.4
+polestar,Sports Car,Level 1,FWD,NCA,2023.0,82.0,4.0,89.4,601.0,2968.0,0.41,All-Terrain,8.0,,90.5,-182.3,2.0,481.0,Medium,Normal,72.0,415.3
+tesla,Crossover,Wireless,RWD,NMCA,2023.0,42.2,2.0,83.6,507.0,1294.0,0.476,Low Rolling Resistance,,Max Cool,34.0,,4.0,68.0,,Off-Road,61.7,519.7
+Rivian,SUV,Level 1,4WD,Solid State,2021.0,24.8,4.0,80.2,393.0,2735.0,0.285,Performance,-10.3,Cooling,123.9,331.8,3.0,,,Chill,1.7,307.2
+byd,,Wireless,RWD,Solid State,2018.0,124.4,9.0,70.3,332.0,2484.0,0.408,Low Rolling Resistance,28.1,None,114.1,169.0,1.0,484.0,,Sport,18.4,566.8
+Polestar,Hatchback,Level 2,AWD,NMC,2024.0,,7.0,73.8,204.0,3192.0,0.27,Standard,17.6,None,67.9,-306.9,,399.0,Off,Off-Road,,243.7
+Rivian,,Wireless,FWD,NMC,2024.0,25.8,4.0,71.7,483.0,,0.278,,-13.2,None,114.4,,4.0,297.0,,Sport,,424.1
+Audi,Sedan,Level 2,,NMCA,,47.5,9.0,,567.0,1260.0,0.229,Standard,20.7,Heating,47.8,462.4,3.0,229.0,High,,61.4,518.9
+BYD,Crossover,Wireless,AWD,NMCA,2022.0,42.8,8.0,83.0,479.0,2838.0,0.409,All-Terrain,,Cooling,106.4,-223.1,6.0,144.0,Max,,47.4,236.9
+Lucid,Truck,Level 2,AWD,LFP,2023.0,102.1,,71.9,164.0,2971.0,0.397,Low Rolling Resistance,24.8,Cooling,48.0,467.9,4.0,,Off,Off-Road,23.6,7158.274911968852
+Tesla,SUV,Level 1,AWD,Solid State,2017.0,79.5,7.0,64.6,411.0,3266.0,0.351,Low Rolling Resistance,13.4,,89.3,216.2,,77.0,,Chill,5.2,162.5
+Polestar,Truck,,4WD,LFP,2016.0,109.5,0.0,,356.0,2150.0,0.282,Low Rolling Resistance,35.5,,,-137.6,6.0,424.0,Max,,22.9,552.0
+Audi,Sports Car,DC Fast Charge,,NCA,,27.0,4.0,69.2,235.0,1719.0,0.35,Standard,11.3,Max Cool,33.6,-51.6,6.0,491.0,,Normal,62.4,562.1
+Polestar,Sports Car,,AWD,NCA,2015.0,98.8,0.0,66.8,440.0,2862.0,0.291,Low Rolling Resistance,12.7,Max Cool,98.2,352.2,2.0,181.0,Low,,31.3,545.0
+Hyundai,Hatchback,DC Fast Charge,,NMC,,125.6,9.0,76.7,443.0,3636.0,0.333,Low Rolling Resistance,10.0,None,130.0,248.6,6.0,154.0,Medium,Eco,6.7,355.2
+BMW,Van,Supercharger,FWD,NCA,,125.0,3.0,74.8,655.0,1623.0,,Performance,15.8,Heating,88.8,245.1,2.0,245.0,Medium,Off-Road,3.6,93.4
+BMW,Truck,Level 1,,NMCA,,109.8,8.0,99.5,,3083.0,0.49,Low Rolling Resistance,24.1,,36.0,150.2,1.0,438.0,Max,Sport,9.4,393.3
+Audi,Sedan,,FWD,LFP,2015.0,60.5,6.0,62.0,150.0,1378.0,0.359,Standard,29.7,Max Cool,102.5,,3.0,132.0,Max,Eco,,669.2
+Rivian,Truck,Level 2,4WD,NMC,2021.0,,7.0,75.2,112.0,3992.0,0.494,All-Terrain,-12.6,Cooling,61.0,335.5,6.0,142.0,,Normal,4.8,195.6
+Lucid,Crossover,Supercharger,RWD,LFP,2019.0,83.5,3.0,,514.0,2203.0,0.316,,,,115.6,410.7,6.0,244.0,High,Normal,78.2,214.6
+BMW,SUV,DC Fast Charge,AWD,Solid State,2021.0,113.8,3.0,68.4,,,,All-Terrain,22.3,Max Cool,124.5,246.8,5.0,154.0,Medium,Chill,36.7,354.1
+Hyundai,Sedan,Level 2,4WD,NCA,2016.0,31.5,9.0,79.1,639.0,,0.33,,37.1,Max Heat,119.2,257.9,3.0,54.0,Low,Sport,32.7,131.7
+BYD,SUV,Wireless,4WD,Solid State,2021.0,56.2,9.0,86.7,,3785.0,0.239,All-Terrain,-12.7,Heating,109.0,450.1,4.0,104.0,Low,Normal,70.4,272.3
+BMW,,,FWD,NMCA,2016.0,127.7,7.0,96.6,619.0,2679.0,0.446,Low Rolling Resistance,29.2,Cooling,118.0,,5.0,290.0,,Chill,3.6,283.8
+Rivian,Hatchback,Level 1,FWD,,2020.0,94.8,9.0,99.7,652.0,3418.0,,Performance,24.1,Max Cool,91.9,153.3,4.0,121.0,Low,Chill,2.7,380.0
+NIO,Sedan,Wireless,RWD,LFP,2019.0,117.7,7.0,,389.0,,,All-Terrain,2.0,Cooling,23.6,-50.2,3.0,275.0,Off,Chill,36.0,181.9
+NIO,Sedan,Wireless,FWD,LFP,2023.0,118.2,7.0,68.4,568.0,2332.0,0.312,Low Rolling Resistance,1.9,Max Cool,,326.4,5.0,291.0,High,Sport,21.4,563.1
+Polestar,Van,Level 1,FWD,NMC,2017.0,86.8,0.0,94.8,698.0,3844.0,0.441,Performance,,Max Heat,124.9,-29.0,1.0,148.0,High,,40.8,613.3
+,Van,Supercharger,RWD,Solid State,2021.0,,8.0,71.9,501.0,3070.0,0.467,,34.1,Max Heat,,141.3,1.0,62.0,High,,62.6,532.2
+BMW,Sedan,DC Fast Charge,RWD,NMCA,2018.0,104.2,5.0,85.4,419.0,2226.0,0.495,,,Max Heat,91.5,197.7,2.0,329.0,Off,Off-Road,78.7,315.4
+Lucid,Sedan,Level 2,FWD,NCA,2017.0,114.1,1.0,87.6,371.0,,0.227,Performance,31.8,Max Heat,36.6,-404.4,5.0,291.0,High,Normal,76.5,540.5
+Audi,Sports Car,Supercharger,4WD,Solid State,2015.0,25.3,6.0,88.7,169.0,2216.0,,All-Terrain,,Heating,110.2,,4.0,79.0,Low,Sport,,312.4
+BMW,Van,Level 2,RWD,,2015.0,65.3,,97.5,367.0,2553.0,0.455,All-Terrain,-3.3,Cooling,44.1,460.4,2.0,28.0,High,Normal,,194.7
+,,Level 1,4WD,NMCA,2023.0,44.8,4.0,79.1,641.0,2128.0,0.332,Low Rolling Resistance,3.1,,128.9,208.9,3.0,215.0,Max,Off-Road,27.3,294.1
+BYD,Hatchback,Wireless,FWD,LFP,2020.0,112.0,5.0,96.5,279.0,2021.0,0.419,All-Terrain,32.2,Max Heat,27.1,185.8,5.0,204.0,Medium,,14.2,89.0
+VW,Hatchback,Wireless,RWD,NCA,2019.0,63.6,3.0,70.0,487.0,2549.0,0.317,All-Terrain,-2.6,Heating,116.2,12.2,2.0,,Low,Chill,47.0,282.1
+VW,Hatchback,Wireless,AWD,NMC,,106.2,6.0,,161.0,2015.0,0.458,,7.7,Cooling,116.5,-344.0,6.0,268.0,Max,Off-Road,62.8,424.6
+,Crossover,Supercharger,RWD,,2020.0,62.1,3.0,83.7,,2091.0,0.452,Low Rolling Resistance,15.3,Max Cool,52.5,144.2,1.0,299.0,,Sport,66.6,490.9
+Lucid,Sedan,Wireless,4WD,LFP,2023.0,86.6,9.0,61.7,239.0,2572.0,0.423,All-Terrain,-16.4,Cooling,74.0,-37.1,,,Medium,Chill,6.6,505.2
+BYD,Truck,Level 2,RWD,Solid State,2018.0,79.9,,94.3,292.0,1648.0,0.436,Performance,-15.7,Cooling,,,4.0,370.0,,Normal,11.3,311.4
+Rivian,Truck,Level 2,AWD,,,46.5,,87.5,451.0,3674.0,,,-15.0,Max Cool,87.6,159.1,1.0,312.0,Max,Off-Road,2.6,531.0
+NIO,Crossover,DC Fast Charge,4WD,NMC,2018.0,116.1,2.0,95.0,349.0,3748.0,0.396,Low Rolling Resistance,4.6,,28.6,134.0,3.0,121.0,High,Sport,25.9,603.3
+Lucid,Sports Car,Wireless,RWD,LFP,2019.0,130.0,1.0,85.8,,1387.0,0.427,All-Terrain,6.2,Max Heat,22.5,290.2,1.0,12.0,Max,Normal,56.9,237.5
+Tesla,Sedan,Level 2,4WD,NMCA,2018.0,60.7,6.0,99.2,282.0,2256.0,0.205,All-Terrain,-2.9,Max Heat,,76.0,5.0,,,Sport,29.0,683.2
+Hyundai,Sedan,Supercharger,FWD,Solid State,2017.0,21.9,5.0,75.3,321.0,1204.0,0.44,Performance,-5.0,Max Heat,80.0,452.3,5.0,,Low,Sport,10.5,286.5
+NIO ,Hatchback,DC Fast Charge,AWD,NMCA,2016.0,98.8,1.0,84.8,572.0,1281.0,0.306,All-Terrain,-13.0,,79.5,212.8,3.0,92.0,Medium,Off-Road,3.8,563.6
+,Sedan,DC Fast Charge,,NMC,2021.0,53.0,6.0,98.5,586.0,,0.459,All-Terrain,5.9,,103.8,293.8,3.0,147.0,Medium,Off-Road,75.8,421.6
+Polestar,Hatchback,Supercharger,AWD,NMCA,2017.0,77.8,2.0,96.7,,1307.0,,Performance,-14.9,Max Heat,123.9,,,255.0,Medium,Sport,73.4,265.0
+Rivian,Van,DC Fast Charge,FWD,LFP,2020.0,32.7,2.0,94.8,615.0,1205.0,0.233,Standard,25.0,Heating,54.2,-486.4,2.0,185.0,Off,Off-Road,49.9,118.7
+Lucid,Crossover,Level 2,AWD,NMC,2017.0,110.6,4.0,67.6,448.0,3845.0,0.202,,41.0,,67.5,-113.8,4.0,195.0,Max,Normal,35.4,689.6
+Hyundai,Hatchback,Supercharger,4WD,NCA,2017.0,,9.0,,220.0,3479.0,0.382,Performance,-4.3,None,92.8,232.2,2.0,348.0,High,Eco,17.0,693.8
+Lucid,Sports Car,Level 2,AWD,Solid State,2024.0,86.8,1.0,62.2,668.0,,0.302,All-Terrain,,Cooling,,420.8,3.0,,Medium,Chill,24.4,343.1
+Polestar,SUV,Level 1,,,2017.0,75.3,1.0,,446.0,2363.0,0.324,Low Rolling Resistance,,Max Cool,108.9,236.3,6.0,20.0,,Chill,76.2,491.4
+Lucid,Sedan,,4WD,NMCA,2022.0,111.4,1.0,97.6,468.0,2045.0,0.488,Low Rolling Resistance,,Cooling,25.9,,5.0,345.0,Medium,Sport,48.1,561.7
+Tesla,Crossover,Supercharger,4WD,NMCA,,50.8,,87.4,293.0,3588.0,0.4,All-Terrain,32.9,Heating,124.6,,4.0,486.0,Max,Eco,55.4,175.0
+Hyundai,Sports Car,DC Fast Charge,AWD,NCA,2019.0,90.6,6.0,69.4,,3021.0,0.478,All-Terrain,-10.0,None,122.6,20.7,3.0,144.0,Medium,Off-Road,45.3,506.9
+,Van,Supercharger,AWD,Solid State,2015.0,81.6,0.0,80.7,247.0,2083.0,0.403,Performance,27.1,Max Cool,99.2,-462.5,5.0,154.0,Medium,Normal,52.7,390.0
+VW,SUV,Wireless,AWD,NCA,2021.0,37.9,5.0,66.1,84.0,3662.0,0.417,Standard,22.7,Cooling,25.3,-200.6,6.0,369.0,Medium,Normal,74.7,249.1
+Polestar,Van,Supercharger,4WD,LFP,2020.0,,,,566.0,3878.0,0.499,All-Terrain,20.9,None,62.5,110.4,6.0,379.0,Off,Sport,,103.0
+Hyundai,SUV,Level 2,4WD,Solid State,2023.0,41.9,8.0,70.5,119.0,,0.261,Low Rolling Resistance,-4.5,Heating,127.3,-375.8,3.0,53.0,Max,Off-Road,18.0,527.5
+NIO,SUV,Level 1,RWD,Solid State,2022.0,31.9,7.0,65.4,198.0,1833.0,0.486,Performance,39.9,Cooling,,378.7,5.0,135.0,Off,Sport,,259.4
+,Crossover,Supercharger,RWD,NMC,2024.0,23.7,5.0,61.4,143.0,1675.0,0.323,Performance,8.8,Heating,42.3,-140.7,4.0,169.0,Off,,13.4,334.0
+Rivian,,Level 1,RWD,Solid State,2016.0,,7.0,72.7,232.0,,0.418,All-Terrain,-12.1,Heating,56.6,-152.9,2.0,298.0,Low,Normal,4.1,388.9
+BYD,,Level 1,4WD,Solid State,2024.0,126.1,5.0,89.7,574.0,1660.0,0.407,Low Rolling Resistance,38.4,Heating,72.4,79.0,5.0,272.0,Low,Eco,0.1,525.7
+,Hatchback,DC Fast Charge,4WD,NMC,2019.0,50.6,4.0,,552.0,1292.0,0.376,,2.1,,31.9,304.7,5.0,241.0,Medium,Off-Road,35.9,150.3
+RIVIAN,,Level 2,FWD,NMC,2015.0,120.2,8.0,75.4,567.0,,,Standard,12.6,None,41.6,-115.9,5.0,295.0,Max,Eco,,581.4
+Hyundai,Sedan,Supercharger,,NMC,2018.0,86.1,9.0,93.8,342.0,3739.0,0.379,All-Terrain,-17.9,Heating,84.7,55.4,,282.0,Off,Eco,34.0,189.7
+Audi,Van,Level 2,FWD,,2017.0,63.3,1.0,80.4,477.0,1597.0,0.459,Performance,,Max Heat,35.9,,4.0,,High,Chill,33.0,593.8
+VW,Sedan,DC Fast Charge,AWD,NMC,2022.0,48.5,2.0,96.2,644.0,,0.455,Low Rolling Resistance,-18.7,Max Cool,106.1,-184.4,3.0,148.0,Low,Eco,2.0,197.1
+VW,Crossover,Supercharger,RWD,NMCA,2019.0,25.3,7.0,97.0,374.0,3538.0,0.229,Performance,16.6,Max Cool,,-224.8,3.0,,Max,Off-Road,23.3,373.6
+Hyundai,Truck,Wireless,RWD,NMCA,2015.0,46.2,2.0,96.7,575.0,3117.0,0.436,,-6.9,Max Cool,122.6,-244.2,4.0,120.0,Max,,,212.9
+rivin,SUV,Level 2,RWD,Solid State,2017.0,26.3,3.0,89.9,651.0,3723.0,,,30.8,,63.7,,4.0,199.0,Low,Eco,20.8,565.6
+,Truck,Level 2,RWD,NCA,2019.0,33.0,5.0,,98.0,3901.0,0.488,All-Terrain,22.3,Max Cool,,-405.5,4.0,254.0,Medium,Off-Road,29.2,585.3
+BMW,Sports Car,,AWD,NMCA,2020.0,,4.0,,478.0,1934.0,0.395,All-Terrain,17.5,Max Cool,68.2,-262.0,1.0,431.0,Off,Sport,10.8,385.3
+Audi,Hatchback,Level 2,FWD,NCA,2016.0,72.3,7.0,99.1,,2184.0,0.302,All-Terrain,16.8,Max Heat,68.8,-371.5,6.0,95.0,High,Eco,55.0,406.7
+BYD,,Wireless,AWD,NCA,,57.5,9.0,83.9,473.0,2463.0,0.345,Performance,3.2,Heating,83.7,-120.4,2.0,144.0,High,Eco,62.8,462.9
+VW,Crossover,DC Fast Charge,RWD,LFP,2022.0,103.2,3.0,71.3,454.0,1809.0,0.249,All-Terrain,0.3,Heating,96.7,356.4,5.0,347.0,Medium,Eco,,247.5
+bmw,Truck,Supercharger,RWD,NMC,2021.0,85.3,3.0,87.3,232.0,,0.369,,,Heating,108.5,324.5,2.0,207.0,,Off-Road,0.3,439.6
+VW,Sports Car,Level 1,FWD,Solid State,2024.0,,3.0,84.8,666.0,2037.0,0.347,,25.7,Cooling,127.7,179.7,,282.0,Low,Normal,0.7,454.9
+,Van,Wireless,FWD,NMCA,2024.0,75.3,0.0,83.2,60.0,2840.0,0.402,All-Terrain,,Cooling,53.1,422.0,3.0,309.0,Off,Off-Road,,114.9
+BYD,Crossover,,4WD,Solid State,2021.0,52.8,6.0,91.8,91.0,2919.0,0.22,All-Terrain,2.4,Max Heat,122.5,321.2,,405.0,Off,Chill,,5244.512884109373
+Polestar,Sedan,Level 1,4WD,NMC,2022.0,92.4,0.0,74.7,113.0,3892.0,0.282,Low Rolling Resistance,44.3,Max Cool,124.8,-195.2,6.0,390.0,Max,Eco,59.0,545.0
+Tesla,Van,Level 1,4WD,LFP,2015.0,120.4,,,597.0,3368.0,0.26,All-Terrain,-14.3,,64.9,271.3,4.0,354.0,Medium,Off-Road,5.0,645.6
+rivin,Crossover,Level 2,AWD,LFP,2018.0,28.1,8.0,,449.0,2846.0,,Performance,39.8,Max Heat,93.8,409.0,5.0,33.0,Off,Eco,54.5,169.1
+Hyundai,Crossover,Level 2,FWD,Solid State,,39.6,3.0,88.8,631.0,2678.0,0.212,Standard,42.7,Heating,67.1,-19.8,4.0,,High,Off-Road,46.4,133.1
+Polestar,Hatchback,Supercharger,4WD,NMC,2022.0,80.0,1.0,75.4,388.0,1871.0,0.323,Standard,,Heating,99.2,113.5,6.0,473.0,Medium,Off-Road,61.9,560.0
+Lucid,Crossover,DC Fast Charge,RWD,Solid State,,48.3,2.0,72.2,204.0,2458.0,0.352,,,Max Cool,93.8,484.2,3.0,252.0,High,Chill,15.8,332.0
+NIO,Hatchback,Level 2,4WD,LFP,2022.0,127.7,8.0,97.7,,3341.0,0.432,Performance,38.2,None,33.6,228.7,3.0,374.0,,Off-Road,58.2,576.1
+,Hatchback,DC Fast Charge,FWD,,,30.9,6.0,86.9,,1934.0,0.443,Low Rolling Resistance,-2.9,Cooling,123.7,179.8,4.0,105.0,Off,Eco,50.3,429.4
+NIO,Crossover,Level 1,FWD,NCA,2023.0,,9.0,66.5,565.0,2060.0,0.284,All-Terrain,20.9,,70.2,420.5,6.0,483.0,Medium,Chill,71.7,330.8
+Audi,Truck,Wireless,AWD,NMC,2018.0,36.0,,98.9,642.0,1553.0,0.339,All-Terrain,-15.8,Heating,62.1,179.7,4.0,,High,Off-Road,71.1,250.9
+NIO,Van,Level 2,4WD,NMC,2022.0,42.6,2.0,74.9,559.0,3129.0,,Low Rolling Resistance,29.9,,,-106.8,1.0,307.0,Low,Off-Road,50.7,445.8
+Hyundai,Truck,,4WD,,2023.0,75.7,6.0,85.1,557.0,2476.0,,Low Rolling Resistance,-5.0,,45.0,-235.8,4.0,361.0,Medium,Sport,47.7,221.5
+,Truck,Level 2,4WD,,2021.0,75.4,,89.3,507.0,3905.0,0.367,Standard,-3.7,Max Heat,,-471.7,1.0,206.0,Low,Chill,9.3,314.3
+tesla,SUV,Level 1,RWD,NMC,2020.0,,8.0,63.1,482.0,1415.0,0.386,Low Rolling Resistance,12.0,,36.1,-118.7,,82.0,Off,Off-Road,20.5,283.2
+,Hatchback,Level 2,,LFP,2016.0,47.2,4.0,95.5,551.0,2159.0,0.495,Performance,37.6,Heating,129.1,-474.4,5.0,305.0,Low,Chill,,187.9
+Audi,Crossover,Wireless,,,2023.0,91.9,,96.7,175.0,2633.0,,Performance,4.7,None,58.7,459.2,2.0,58.0,Max,Eco,74.8,168.2
+Polestar,SUV,Level 2,4WD,NMCA,2022.0,104.1,6.0,95.0,571.0,1837.0,0.322,All-Terrain,10.6,Heating,27.9,-229.5,4.0,239.0,Max,Chill,39.1,677.0
+BYD,SUV,Supercharger,4WD,Solid State,2018.0,97.1,1.0,84.6,570.0,1476.0,0.368,Standard,36.0,,,382.3,,254.0,High,,63.0,197.3
+VW,,,,NMCA,2017.0,106.2,4.0,72.3,371.0,,0.247,All-Terrain,4.2,Max Heat,103.2,404.4,2.0,88.0,Low,Chill,45.8,152.7
+TESLA,Hatchback,Wireless,RWD,Solid State,,,5.0,65.6,601.0,3122.0,0.425,,43.0,Heating,75.8,-384.7,,256.0,Max,Eco,36.4,490.9
+,Truck,Level 1,RWD,Solid State,2019.0,64.4,6.0,68.5,632.0,,0.329,All-Terrain,7.5,None,101.9,145.1,4.0,406.0,High,,37.6,496.3
+BMW,SUV,Level 2,FWD,NMC,2017.0,97.1,9.0,69.2,,1783.0,,All-Terrain,-7.0,Max Heat,77.9,,2.0,430.0,Off,,51.6,1618.1115757461814
+Rivian,Sedan,Supercharger,AWD,NCA,2016.0,29.4,9.0,,449.0,2715.0,0.439,Standard,,Max Heat,110.6,-403.7,1.0,236.0,Max,,9.1,281.4
+BMW,,Level 1,,,2017.0,58.6,8.0,,537.0,1835.0,0.292,,30.2,None,79.5,-490.2,5.0,,Low,Sport,58.6,624.4
+BYD,,DC Fast Charge,4WD,LFP,2016.0,24.3,4.0,90.5,247.0,3199.0,0.253,Performance,18.3,Cooling,28.6,184.4,2.0,428.0,Medium,Chill,14.1,659.9
+rivian,Sports Car,Level 1,FWD,NMCA,2019.0,36.1,,80.2,359.0,2978.0,0.313,Standard,-17.7,Cooling,112.0,-339.2,6.0,207.0,High,,33.2,278.3
+BMW,SUV,Supercharger,4WD,LFP,2015.0,50.7,,89.0,553.0,,0.303,All-Terrain,42.1,Max Heat,80.2,11.8,4.0,,Off,Off-Road,77.4,354.1
+Tesla,Hatchback,,RWD,NCA,,36.4,9.0,98.7,180.0,1372.0,0.361,Performance,-0.8,None,105.1,-52.6,3.0,149.0,Low,Sport,49.2,695.4
+,Hatchback,,FWD,Solid State,2016.0,115.0,1.0,73.4,100.0,3460.0,0.437,Low Rolling Resistance,23.1,None,121.0,,2.0,472.0,Max,Normal,75.9,489.9
+,,Supercharger,FWD,LFP,2022.0,129.7,8.0,73.2,,2042.0,0.469,Low Rolling Resistance,,None,80.0,-398.5,5.0,122.0,High,Eco,67.8,641.4
+Audi,SUV,Supercharger,AWD,NCA,2017.0,53.7,4.0,71.3,,,,Low Rolling Resistance,-7.8,Cooling,99.8,-47.1,5.0,278.0,High,Off-Road,43.9,6134.618466982431
+NIO,Sports Car,Level 1,RWD,NCA,2016.0,101.9,8.0,61.2,546.0,2141.0,0.392,Performance,-14.9,Max Cool,63.8,204.4,2.0,190.0,Max,Normal,0.3,411.1
+Hyundai,Sedan,Wireless,RWD,Solid State,2022.0,32.9,2.0,66.5,381.0,2245.0,0.307,Standard,41.4,Heating,72.9,474.9,3.0,312.0,Off,Normal,,589.9
+NIO,SUV,Level 2,RWD,LFP,2015.0,31.1,1.0,,560.0,3098.0,0.458,Low Rolling Resistance,-2.3,None,105.3,-99.6,2.0,,Low,Eco,8.2,300.1
+,Hatchback,Level 1,FWD,NMCA,2023.0,,5.0,73.6,,2395.0,0.459,Low Rolling Resistance,2.5,None,49.4,71.5,3.0,186.0,Off,Sport,0.6,454.1
+BMW,Van,Level 1,4WD,,2022.0,113.1,8.0,79.0,172.0,1996.0,0.237,Standard,43.6,Max Cool,107.2,165.2,3.0,196.0,Medium,Normal,74.6,257.5
+VW,SUV,Level 1,FWD,NMC,2018.0,123.1,,,441.0,1977.0,0.494,,-5.5,Max Heat,,202.9,5.0,26.0,Low,Chill,2.0,142.9
+,Van,Level 2,4WD,LFP,2016.0,46.8,,84.1,370.0,2272.0,0.441,All-Terrain,42.1,Max Cool,105.6,170.7,4.0,,Off,Normal,29.0,220.9
+BMW,Van,Level 2,4WD,Solid State,2022.0,71.0,2.0,86.4,296.0,2909.0,0.406,All-Terrain,17.4,Max Cool,71.4,-303.4,,170.0,Low,Off-Road,52.6,5667.751818664761
+Hyundai,Truck,,RWD,NMC,2017.0,,0.0,60.3,229.0,3355.0,,Low Rolling Resistance,-3.2,Max Heat,,20.6,,350.0,High,Chill,40.4,453.7
+VW,Van,Level 2,FWD,Solid State,2017.0,44.3,4.0,89.1,631.0,3476.0,0.423,Low Rolling Resistance,1.5,Max Cool,24.6,423.2,6.0,484.0,Max,,,193.3
+Lucid,Crossover,,,LFP,2017.0,87.3,9.0,73.6,455.0,2004.0,0.276,,40.6,Cooling,79.5,,1.0,197.0,Off,Off-Road,44.8,327.9
+,Van,Level 2,RWD,NCA,,118.3,0.0,69.2,446.0,2403.0,0.316,Performance,-16.9,Heating,58.5,-63.8,4.0,260.0,Medium,Sport,26.5,301.7
+HYUNDAI,Sedan,Level 1,AWD,NMCA,2015.0,,,62.7,469.0,3618.0,,,13.3,Max Heat,42.3,-118.6,2.0,,High,Chill,14.4,534.6
+Hyundai,SUV,Supercharger,4WD,,2024.0,86.9,,64.7,263.0,2362.0,0.475,Performance,,Max Heat,44.4,123.2,2.0,136.0,Low,Off-Road,15.6,281.7
+Audi,Crossover,Supercharger,4WD,LFP,2017.0,124.1,3.0,67.8,675.0,1965.0,0.421,Low Rolling Resistance,-13.4,None,112.1,,6.0,37.0,Off,Off-Road,8.0,329.5
+BYD,SUV,Supercharger,4WD,NMC,,50.9,6.0,84.6,474.0,3485.0,0.221,Low Rolling Resistance,37.3,Max Cool,,,2.0,154.0,Off,,40.2,351.6
+VW,Sports Car,DC Fast Charge,AWD,NCA,2020.0,73.3,3.0,66.0,,,0.239,All-Terrain,,Max Cool,108.4,-116.8,3.0,71.0,Off,Eco,45.9,686.0
+RIVIAN,,Level 1,,NCA,2016.0,50.0,9.0,75.5,128.0,3880.0,0.463,Low Rolling Resistance,43.1,,82.5,146.7,2.0,141.0,Low,,73.1,486.0
+BYD,,Supercharger,RWD,LFP,2020.0,38.3,1.0,83.2,279.0,3281.0,0.346,All-Terrain,,Max Heat,65.0,310.1,,,Medium,Normal,,482.2
+Polestar,Crossover,Wireless,RWD,LFP,2024.0,81.7,9.0,71.0,401.0,2347.0,0.204,Performance,0.9,Cooling,97.2,343.5,1.0,336.0,,Sport,62.0,514.2
+nio,Sports Car,Level 1,4WD,Solid State,2024.0,86.5,3.0,73.5,422.0,1347.0,0.29,Low Rolling Resistance,1.3,Cooling,126.1,442.6,,88.0,,Chill,44.0,159.9
+NIO,Hatchback,Level 2,4WD,,2016.0,112.5,,72.4,367.0,,0.378,All-Terrain,-1.2,,95.2,-228.1,3.0,,High,Chill,72.1,190.1
+polestar,Hatchback,Supercharger,AWD,Solid State,,108.9,0.0,85.0,,,0.342,Performance,21.8,,106.1,-131.8,6.0,,Max,Eco,,349.9
+Audi,Sports Car,Wireless,,Solid State,2015.0,80.1,6.0,,,1437.0,0.477,All-Terrain,-6.8,Max Cool,,,6.0,372.0,Low,Chill,75.9,350.1
+rivin,Hatchback,Level 2,,NMC,2021.0,91.4,3.0,,272.0,2196.0,0.384,Performance,26.6,None,69.9,54.4,2.0,322.0,Low,Sport,8.2,197.4
+BYD,Sedan,Wireless,RWD,NCA,2015.0,125.8,9.0,90.8,394.0,3992.0,0.203,Performance,2.2,Max Heat,83.3,-88.7,4.0,357.0,High,Off-Road,73.1,193.2
+,Truck,Wireless,FWD,,2021.0,,,66.8,304.0,2805.0,0.267,Low Rolling Resistance,37.9,Heating,,-434.0,6.0,434.0,Low,Sport,26.8,355.5
+Audi,Crossover,Level 2,FWD,NMC,,107.8,7.0,73.1,273.0,1438.0,0.359,Standard,,Max Cool,21.5,366.3,2.0,249.0,Off,Normal,75.0,582.5
+,,,AWD,,2023.0,72.6,4.0,75.3,216.0,2977.0,,Low Rolling Resistance,24.9,Cooling,100.6,,3.0,438.0,,Sport,,620.2
+Rivian,Hatchback,DC Fast Charge,,Solid State,2023.0,40.5,4.0,99.2,,2732.0,0.434,All-Terrain,2.5,,72.9,65.6,,204.0,Medium,Chill,48.8,429.7
+Polestar,Hatchback,Level 1,AWD,,2017.0,,3.0,89.2,582.0,2713.0,0.332,All-Terrain,2.5,Max Cool,59.1,132.7,1.0,337.0,Off,Eco,54.8,374.4
+,Van,Level 1,4WD,LFP,2018.0,40.7,9.0,97.5,414.0,2725.0,0.238,Performance,19.7,Max Heat,27.0,-243.4,,437.0,Max,Eco,38.3,89.3
+Lucid,,Level 1,FWD,NMC,,,3.0,76.9,378.0,,0.378,Performance,42.3,Max Cool,98.0,,2.0,290.0,,Normal,12.3,474.2
+Hyundai,Truck,DC Fast Charge,FWD,Solid State,2019.0,48.2,4.0,,154.0,,,Standard,14.4,Max Heat,29.2,448.8,5.0,185.0,Low,Sport,1.8,619.1
+Polestar,Crossover,Wireless,4WD,Solid State,,23.6,4.0,68.3,,3065.0,0.347,Standard,5.3,Cooling,39.8,-142.2,3.0,158.0,Max,Chill,55.8,566.8
+VW,SUV,,RWD,NMCA,2018.0,,3.0,84.5,404.0,,0.25,All-Terrain,0.2,Cooling,39.4,309.9,2.0,230.0,Medium,Eco,3.3,531.3
+Audi,Hatchback,,4WD,NMC,2021.0,36.0,1.0,80.7,629.0,2476.0,0.204,All-Terrain,31.0,Cooling,116.8,-326.3,,409.0,Low,Normal,74.0,377.5
+audi,Van,Wireless,4WD,NMC,2020.0,48.0,3.0,60.3,295.0,2238.0,0.464,,44.9,Cooling,111.4,425.2,3.0,319.0,Off,Off-Road,60.2,92.6
+Rivian,,Wireless,AWD,,2022.0,,,73.5,640.0,3088.0,0.345,All-Terrain,20.8,,98.3,185.7,3.0,474.0,High,Eco,68.5,558.6
+Polestar,Truck,Level 1,FWD,,2018.0,107.7,4.0,76.6,157.0,3342.0,,All-Terrain,-17.0,Cooling,70.9,-432.0,6.0,206.0,Low,Off-Road,20.0,564.0
+tesla ,Van,Supercharger,,LFP,2017.0,116.5,1.0,96.7,169.0,3477.0,0.224,,44.8,,94.8,,2.0,16.0,High,Normal,76.3,177.3
+VW,SUV,Level 1,4WD,NMC,2015.0,93.1,2.0,91.7,250.0,1215.0,0.473,Standard,,,44.6,390.0,6.0,405.0,Max,Sport,71.2,501.4
+Polestar,SUV,DC Fast Charge,4WD,NMC,2018.0,127.8,7.0,,535.0,2698.0,0.311,Low Rolling Resistance,,Cooling,116.3,,4.0,273.0,Off,,59.4,252.4
+,Crossover,Wireless,FWD,Solid State,2022.0,109.0,1.0,,456.0,2898.0,0.475,All-Terrain,14.7,None,123.7,-316.9,4.0,348.0,Max,Normal,61.4,498.0
+Audi,Sedan,Level 1,RWD,NMCA,,66.6,9.0,84.2,383.0,3881.0,0.258,Low Rolling Resistance,30.7,None,121.5,-260.6,,,Max,Sport,32.2,378.9
+Rivian,,Level 1,,Solid State,2015.0,111.5,2.0,80.5,,2092.0,0.486,Low Rolling Resistance,,,123.1,-146.3,4.0,427.0,Medium,Off-Road,20.8,515.2
+BYD,Truck,Supercharger,RWD,LFP,2022.0,124.8,0.0,86.1,440.0,2136.0,0.219,All-Terrain,17.5,Cooling,84.1,337.5,5.0,430.0,,Normal,49.2,651.0
+Polestar,Crossover,Level 2,RWD,NMCA,2019.0,118.5,,68.2,120.0,2577.0,0.407,All-Terrain,35.7,,121.9,-446.1,,9.0,Off,Sport,,697.2
+BYD,SUV,Level 1,4WD,LFP,2020.0,82.4,6.0,63.9,367.0,3372.0,0.334,All-Terrain,28.7,Heating,,-142.7,,214.0,High,,22.0,369.2
+BYD,Hatchback,DC Fast Charge,4WD,NMCA,2024.0,,7.0,78.1,276.0,3188.0,,Standard,15.1,Max Cool,70.5,164.6,6.0,90.0,High,Sport,71.6,201.1
+Audi,Sports Car,,4WD,NCA,2021.0,106.6,4.0,80.3,691.0,1213.0,0.418,Performance,29.9,None,119.3,-145.8,2.0,166.0,,Sport,12.5,694.7
+,Truck,Level 2,AWD,NCA,2022.0,,5.0,77.7,467.0,2179.0,,Low Rolling Resistance,,,,-489.8,1.0,285.0,Medium,Sport,52.2,512.1
+Polestar,Sports Car,Wireless,RWD,NMC,2015.0,40.6,4.0,71.8,538.0,3631.0,0.276,Standard,28.3,Max Cool,114.5,-299.8,3.0,443.0,Max,Sport,69.1,331.5
+Rivian,Van,Level 2,,,2016.0,50.4,3.0,62.3,527.0,1974.0,0.484,Low Rolling Resistance,15.1,Max Cool,72.1,-253.2,1.0,338.0,High,,0.2,512.0
+Tesla,Van,DC Fast Charge,AWD,,2016.0,,8.0,96.5,622.0,3883.0,0.365,All-Terrain,14.6,,,406.2,6.0,,High,Eco,17.9,2506.874171239734
+BYD,Sedan,DC Fast Charge,RWD,NMCA,2020.0,68.4,4.0,71.1,621.0,3030.0,0.393,Standard,,Cooling,70.1,-70.0,,131.0,Max,Eco,74.5,362.7
+,Sports Car,Wireless,FWD,LFP,2016.0,52.0,0.0,79.5,156.0,2680.0,0.284,,,Max Heat,73.4,,2.0,485.0,,Chill,27.5,103.9
+BYD,Hatchback,,AWD,Solid State,2019.0,35.8,,70.9,570.0,2526.0,,All-Terrain,23.0,None,,-117.7,4.0,239.0,Off,Chill,13.0,530.8
+NIO,Truck,Level 2,RWD,NMC,2018.0,107.9,5.0,62.5,556.0,1607.0,0.42,,33.1,Max Heat,62.8,-274.0,3.0,96.0,Off,Eco,3.3,291.3
+rivin,,Level 1,AWD,Solid State,,,7.0,,280.0,3160.0,0.447,Standard,-3.8,None,79.4,-139.4,3.0,201.0,Off,Chill,,97.1
+Audi,,Level 2,AWD,,2022.0,111.6,6.0,71.8,229.0,,0.266,All-Terrain,-4.6,,31.6,178.1,6.0,470.0,Low,Normal,65.0,508.2
+Polestar,Hatchback,Level 1,AWD,NMC,,129.2,7.0,84.7,306.0,2512.0,0.422,Performance,35.1,None,100.6,-263.4,5.0,105.0,Max,Off-Road,9.0,444.1
+Tesla,SUV,Level 2,RWD,,2019.0,31.4,9.0,,373.0,2934.0,0.394,All-Terrain,26.8,Heating,99.9,-80.7,6.0,472.0,Low,Sport,78.6,647.0
+VW,Crossover,Supercharger,FWD,NCA,2023.0,,6.0,,,1843.0,0.229,Low Rolling Resistance,25.9,Heating,59.8,-156.2,6.0,134.0,Medium,Sport,53.8,425.2
+Rivian,,Supercharger,AWD,NMCA,2019.0,71.7,1.0,96.3,283.0,3569.0,0.444,All-Terrain,40.9,,23.1,-131.6,6.0,211.0,Low,Chill,25.6,535.5
+Rivian,Crossover,DC Fast Charge,4WD,LFP,2015.0,72.5,6.0,98.2,,3179.0,0.375,Performance,16.2,Max Heat,,453.8,5.0,452.0,,Off-Road,43.9,364.7
+BMW,Van,Level 1,RWD,NMCA,2019.0,77.8,0.0,64.6,531.0,2028.0,0.392,Performance,-4.7,Cooling,39.3,172.6,5.0,261.0,Max,Normal,23.1,285.0
+NIO,,Level 2,FWD,NMC,2022.0,86.8,4.0,86.6,,2544.0,0.219,Standard,-2.4,Max Heat,98.0,-461.0,5.0,35.0,High,Chill,37.7,111.9
+BMW,Van,Supercharger,FWD,NMC,2023.0,,0.0,73.8,613.0,3177.0,0.477,Standard,35.1,Heating,,155.5,4.0,63.0,Low,Sport,33.8,220.3
+VW,Sports Car,DC Fast Charge,FWD,NCA,2017.0,58.7,5.0,99.0,503.0,1628.0,,All-Terrain,6.7,Cooling,88.2,-23.5,6.0,15.0,Off,Sport,46.1,520.4
+Audi,,DC Fast Charge,,Solid State,2022.0,57.8,0.0,86.8,617.0,1210.0,,Low Rolling Resistance,12.5,Max Cool,127.1,-276.5,1.0,161.0,Low,Sport,18.6,627.2
+Lucid,Van,Supercharger,RWD,NCA,2018.0,27.6,3.0,82.6,581.0,,0.419,All-Terrain,43.5,Max Cool,97.4,-476.4,1.0,,Max,Chill,,333.6
+NIO,Sedan,Supercharger,4WD,,2017.0,,9.0,79.2,201.0,3068.0,0.254,Performance,42.8,,,-331.8,2.0,,Max,Normal,42.8,397.4
+VW,Hatchback,Level 1,,LFP,2022.0,,6.0,84.0,,2180.0,0.242,,12.2,Cooling,120.0,-306.1,4.0,154.0,Low,Normal,4.6,311.6
+VW,Crossover,DC Fast Charge,4WD,NMC,2020.0,129.8,4.0,80.8,683.0,2640.0,0.326,Low Rolling Resistance,,,113.3,,4.0,38.0,High,Normal,35.8,298.2
+NIO,,Level 1,RWD,Solid State,2018.0,68.3,7.0,68.6,341.0,,0.317,All-Terrain,42.1,Max Heat,30.9,,1.0,107.0,Low,Eco,15.7,504.4
+rivian,Sedan,Level 2,,,2022.0,34.5,7.0,81.7,535.0,2172.0,,,4.6,Heating,118.5,-360.0,1.0,141.0,Off,,59.8,682.3
+NIO,Crossover,Supercharger,FWD,LFP,,33.2,5.0,82.8,499.0,1827.0,,All-Terrain,6.1,Cooling,64.9,-406.3,6.0,34.0,Low,,18.9,5678.312511899969
+bmw,Sports Car,Level 1,AWD,LFP,2015.0,61.8,8.0,82.6,,3255.0,0.253,Performance,3.9,Max Cool,48.7,432.0,6.0,135.0,High,Eco,68.3,180.9
+Lucid,Hatchback,Wireless,,NCA,2022.0,51.1,,96.0,,1414.0,0.383,Performance,,Cooling,85.0,350.7,2.0,480.0,,Sport,78.0,340.0
+VW,,Supercharger,4WD,Solid State,2020.0,67.5,4.0,63.9,312.0,3006.0,0.409,All-Terrain,-19.9,Cooling,100.1,70.1,5.0,260.0,Medium,Off-Road,17.0,389.1
+Lucid,Hatchback,Wireless,RWD,NCA,2017.0,48.1,0.0,66.6,453.0,3017.0,0.216,All-Terrain,-19.4,None,,,4.0,35.0,Medium,Eco,75.2,83.9
+BMW,Crossover,Wireless,FWD,NMC,,72.0,1.0,60.0,150.0,,0.225,Standard,42.5,Max Heat,,-464.7,6.0,137.0,Off,Chill,51.2,233.2
+BYD ,SUV,DC Fast Charge,AWD,LFP,,43.8,7.0,,298.0,3369.0,0.265,Performance,7.4,Heating,95.4,442.9,3.0,366.0,Off,,57.9,682.0
+NIO,Sports Car,,AWD,,,72.0,7.0,96.7,538.0,3282.0,0.479,All-Terrain,-12.4,Max Heat,81.8,309.9,,157.0,Off,Eco,21.6,325.9
+NIO,Van,,4WD,NMC,2015.0,57.6,,78.5,589.0,2430.0,0.482,Standard,10.5,Heating,60.9,-75.1,,329.0,Off,Off-Road,61.9,305.1
+BMW,,Supercharger,FWD,NCA,2024.0,75.1,8.0,72.9,358.0,1670.0,0.446,Low Rolling Resistance,33.1,,116.9,345.3,3.0,233.0,High,,2.1,248.6
+BYD,,DC Fast Charge,4WD,NMC,2015.0,91.4,0.0,99.0,642.0,3641.0,0.42,All-Terrain,43.6,Heating,,152.9,4.0,117.0,Medium,Eco,24.4,188.6
+BYD,Truck,Supercharger,FWD,,2016.0,,2.0,64.6,463.0,2797.0,0.274,All-Terrain,44.9,Heating,41.8,-210.2,4.0,405.0,Max,Eco,69.1,396.6
+lucid,SUV,,AWD,NMCA,2018.0,124.7,9.0,73.2,304.0,3012.0,0.493,Low Rolling Resistance,-13.3,Cooling,,-409.8,5.0,,Off,Eco,29.6,385.3
+NIO ,Truck,Level 2,RWD,,2015.0,65.0,3.0,83.0,586.0,2701.0,0.299,,,None,,-38.4,2.0,174.0,Max,Eco,73.8,584.6
+BYD,Sedan,Supercharger,4WD,,2018.0,75.4,8.0,78.9,478.0,,0.235,Performance,11.1,,48.9,63.7,5.0,120.0,Medium,Normal,77.0,537.3
+Lucid,Van,Supercharger,,LFP,,57.7,2.0,72.8,446.0,1213.0,0.385,Performance,,,78.2,112.4,5.0,207.0,High,Normal,41.8,532.6
+Rivian,Van,Supercharger,AWD,LFP,2023.0,20.6,8.0,66.8,691.0,3177.0,0.499,,-2.5,Max Cool,33.7,88.6,1.0,141.0,Max,Eco,23.2,120.0
+Rivian,Crossover,Level 2,FWD,Solid State,2017.0,77.7,9.0,86.4,271.0,3311.0,0.222,All-Terrain,7.9,Cooling,95.1,29.3,,,Max,Normal,40.7,649.1
+Lucid,Sedan,Supercharger,RWD,NMC,2015.0,87.5,6.0,99.5,132.0,1344.0,0.357,Performance,19.2,None,,42.1,1.0,482.0,Low,Eco,59.2,385.6
+,Van,DC Fast Charge,4WD,Solid State,2017.0,117.4,6.0,63.5,226.0,1215.0,0.405,Standard,42.1,Max Cool,48.2,203.2,3.0,243.0,Max,Sport,77.2,511.5
+NIO,Hatchback,Supercharger,AWD,LFP,2024.0,99.7,6.0,,141.0,2723.0,0.364,Low Rolling Resistance,13.3,Cooling,55.9,-26.1,6.0,477.0,,Eco,59.2,607.8
+Audi,,Level 1,AWD,NMCA,,94.0,7.0,80.7,278.0,,0.343,All-Terrain,44.1,None,52.7,203.6,1.0,231.0,Off,Chill,62.1,589.7
+tesla ,,Wireless,,LFP,,48.7,3.0,71.6,,3740.0,0.3,Performance,-15.9,Max Cool,88.6,-136.5,,275.0,,Chill,,344.8
+Hyundai,Sports Car,Level 2,AWD,LFP,2020.0,72.2,2.0,94.3,247.0,2362.0,0.496,,19.1,,34.0,266.5,4.0,209.0,High,Eco,44.2,600.5
+BYD,Van,Supercharger,FWD,NCA,2019.0,96.6,3.0,83.9,,2621.0,0.368,Standard,37.1,Heating,30.3,-462.6,1.0,39.0,Off,Eco,16.4,220.0
+polestar,Sedan,DC Fast Charge,4WD,LFP,2022.0,102.5,1.0,95.0,177.0,2434.0,0.318,Performance,17.3,Heating,50.7,297.6,5.0,172.0,,,66.9,661.3
+BYD ,Sedan,Wireless,FWD,NCA,2019.0,,9.0,61.9,62.0,3233.0,0.411,Performance,-15.1,Max Cool,116.8,,6.0,87.0,Low,Sport,,620.8
+Tesla,Van,,4WD,Solid State,2016.0,82.2,7.0,97.5,491.0,1579.0,0.422,Performance,12.6,,22.9,261.6,6.0,104.0,Low,Eco,6.6,469.2
+Tesla,SUV,Level 1,FWD,,2015.0,107.4,4.0,67.8,397.0,2695.0,0.327,Standard,23.8,Max Heat,27.7,451.3,5.0,234.0,Off,,40.0,99.0
+tesla,Sports Car,Supercharger,4WD,NMC,,83.6,5.0,67.4,507.0,2640.0,0.406,,39.8,Cooling,34.1,-61.1,4.0,126.0,Max,Sport,24.1,485.2
+POLESTAR,Hatchback,Level 2,AWD,NMCA,,70.5,1.0,86.1,235.0,,0.497,Standard,32.1,Max Cool,67.4,-93.1,1.0,394.0,Off,,64.7,171.4
+Lucid,Hatchback,DC Fast Charge,,NMCA,,101.9,5.0,88.9,221.0,1650.0,0.377,All-Terrain,32.7,Cooling,72.9,211.6,2.0,230.0,Max,Normal,22.4,454.4
+BYD,Crossover,Wireless,RWD,NCA,2024.0,,8.0,,693.0,3726.0,0.434,All-Terrain,42.8,Max Heat,101.8,52.1,2.0,444.0,Max,Chill,57.9,524.3
+BYD,Hatchback,Wireless,4WD,NMCA,2023.0,,1.0,91.0,503.0,2762.0,0.201,All-Terrain,,Max Cool,60.3,334.2,4.0,288.0,Off,Normal,25.0,645.1
+,Crossover,Wireless,FWD,NMC,2015.0,93.0,5.0,79.5,102.0,2960.0,0.35,Performance,17.2,Max Heat,27.7,-139.5,,455.0,Low,Normal,73.7,310.7
+NIO,Sports Car,Level 1,AWD,NCA,,116.6,,89.3,668.0,3006.0,0.473,All-Terrain,38.4,Cooling,111.3,-327.1,5.0,320.0,Medium,Chill,40.6,554.4
+VW,Hatchback,Level 2,RWD,LFP,2024.0,61.9,9.0,,557.0,2697.0,0.293,Standard,-19.1,Cooling,81.3,-18.9,5.0,,,Normal,41.0,126.3
+NIO,Truck,Wireless,RWD,NCA,2022.0,113.9,7.0,64.3,433.0,1474.0,0.362,Performance,44.0,Max Cool,70.8,-218.2,1.0,,Low,Normal,34.8,507.8
+Polestar,Crossover,DC Fast Charge,AWD,NMCA,2017.0,60.8,5.0,61.0,153.0,,0.321,Standard,25.6,Max Heat,28.8,,4.0,463.0,Max,Chill,43.8,514.6
+BYD,SUV,Level 1,RWD,NCA,2023.0,84.7,0.0,89.1,554.0,2528.0,0.347,All-Terrain,30.2,Max Heat,123.0,-376.5,4.0,142.0,,Normal,14.2,523.1
+,Crossover,DC Fast Charge,RWD,LFP,,126.3,4.0,,162.0,,0.237,Standard,40.9,Max Heat,66.9,368.4,3.0,106.0,Max,Chill,1.0,185.3
+NIO,Sedan,Level 1,AWD,NMC,2024.0,28.2,1.0,60.9,,,0.383,Low Rolling Resistance,-19.6,Max Cool,62.8,392.4,1.0,253.0,Max,Chill,3.4,445.3
+byd,Van,Supercharger,FWD,LFP,2022.0,,7.0,81.9,596.0,,,Performance,12.4,Max Heat,125.9,-188.5,3.0,362.0,Medium,Sport,52.5,104.0
+Rivian,,Wireless,FWD,NMC,2016.0,97.7,3.0,83.3,636.0,2097.0,0.427,Performance,-5.4,Max Heat,65.3,-307.1,2.0,190.0,Medium,Sport,,458.9
+Tesla,Truck,Wireless,AWD,NMC,2016.0,56.3,3.0,96.1,300.0,3592.0,0.232,Low Rolling Resistance,32.5,None,85.2,-484.9,2.0,35.0,Max,,69.9,317.9
+Polestar,Sedan,Supercharger,FWD,Solid State,2017.0,,8.0,75.9,593.0,,0.411,All-Terrain,24.3,Cooling,41.9,250.1,3.0,404.0,Off,Chill,61.8,651.0
+,Sports Car,Wireless,AWD,Solid State,2016.0,48.0,,77.2,59.0,3036.0,0.384,,37.5,Heating,128.7,-151.2,2.0,,High,Normal,39.8,361.9
+hyundai,Truck,DC Fast Charge,FWD,,2021.0,38.7,,85.2,,,,Low Rolling Resistance,24.8,Max Heat,51.7,-59.2,1.0,347.0,Low,Normal,57.2,96.5
+Hyundai,Crossover,Level 2,,NCA,2020.0,,7.0,74.0,371.0,2874.0,0.399,,30.2,Max Heat,127.0,337.4,2.0,212.0,Low,Eco,44.1,272.7
+BYD,Crossover,,RWD,Solid State,,74.8,5.0,90.3,439.0,2877.0,0.414,,-20.0,Max Cool,78.6,-192.8,6.0,115.0,Off,Eco,30.6,534.5
+BYD,Van,Level 1,4WD,NMC,2023.0,56.1,6.0,83.1,334.0,2013.0,0.397,Performance,4.8,Cooling,32.1,72.0,1.0,197.0,Medium,Off-Road,,510.9
+Polestar,SUV,DC Fast Charge,,LFP,2018.0,67.2,2.0,,99.0,1667.0,0.292,Low Rolling Resistance,-1.6,Cooling,31.1,-219.3,3.0,239.0,High,Normal,50.6,203.5
+,Sedan,Level 1,AWD,NCA,2019.0,37.7,5.0,81.8,87.0,1491.0,0.233,Performance,25.6,None,87.3,306.5,5.0,99.0,Low,Normal,62.5,391.9
+,Crossover,,4WD,LFP,2022.0,44.2,6.0,98.5,264.0,2566.0,0.201,Performance,,Max Cool,57.3,-77.0,4.0,202.0,Medium,Off-Road,40.2,154.5
+,,Wireless,,LFP,2023.0,26.6,1.0,80.6,294.0,2973.0,0.214,,5.1,,54.3,-237.5,5.0,431.0,Max,Eco,54.2,253.9
+BYD,Crossover,Level 1,FWD,,2022.0,51.0,7.0,62.1,379.0,3262.0,0.425,All-Terrain,43.6,Cooling,50.4,238.9,6.0,134.0,Off,Eco,,559.4
+,SUV,Level 2,4WD,Solid State,,125.6,3.0,69.7,511.0,1479.0,0.339,Performance,-18.6,Cooling,111.2,-310.5,2.0,166.0,Off,Off-Road,,231.5
+VW,,DC Fast Charge,RWD,LFP,2017.0,,8.0,76.2,378.0,2006.0,0.361,All-Terrain,3.8,Heating,22.9,-201.7,1.0,495.0,Max,,32.2,3243.3305508363887
+,Sports Car,Wireless,FWD,NMCA,2024.0,129.4,4.0,83.4,81.0,1788.0,,Performance,,Heating,46.4,-16.9,5.0,215.0,Max,Sport,19.7,260.5
+Tesla,,DC Fast Charge,4WD,,2018.0,77.2,0.0,83.4,319.0,2721.0,0.224,,30.6,Heating,94.2,257.3,3.0,288.0,Medium,Sport,63.6,117.2
+NIO,Van,Level 1,RWD,Solid State,,75.9,7.0,94.6,,3750.0,0.208,Low Rolling Resistance,12.2,Cooling,23.2,18.7,,249.0,High,Eco,10.4,376.2
+BYD,Crossover,DC Fast Charge,AWD,NMCA,,44.7,1.0,63.4,324.0,3065.0,0.237,Performance,36.3,Max Heat,89.7,-440.0,3.0,,Low,Normal,61.9,95.5
+Rivian,Crossover,Level 1,FWD,NCA,,92.9,3.0,93.8,566.0,3874.0,0.492,Low Rolling Resistance,11.5,Max Heat,70.1,252.7,3.0,329.0,Medium,Eco,31.2,552.5
+BMW,Hatchback,Level 1,AWD,NMCA,2022.0,109.6,8.0,72.8,292.0,2241.0,0.438,All-Terrain,-9.5,Max Cool,108.7,-482.5,4.0,334.0,High,Off-Road,,597.2
+Lucid,Sedan,,4WD,Solid State,2023.0,21.5,7.0,,599.0,2369.0,,Performance,20.5,Cooling,,103.7,2.0,,Max,Normal,3.2,493.3
+,Truck,DC Fast Charge,FWD,LFP,2023.0,106.4,9.0,,685.0,3018.0,0.345,Low Rolling Resistance,2.5,Heating,62.2,-394.1,1.0,,High,Eco,18.6,585.1
+BMW,Truck,Supercharger,RWD,NMC,,47.5,4.0,87.8,261.0,3819.0,0.484,Performance,-5.4,Max Heat,74.6,,4.0,,High,,14.4,491.3
+Tesla,,Supercharger,AWD,NMC,2015.0,,8.0,92.3,683.0,2227.0,0.367,Low Rolling Resistance,33.7,Cooling,50.9,137.0,2.0,156.0,Low,Normal,4.1,187.1
+Polestar,Van,Supercharger,FWD,NMCA,2016.0,,8.0,73.5,570.0,,0.245,,,Max Heat,81.9,-222.7,1.0,470.0,High,Eco,11.3,390.6
+BMW,Hatchback,Supercharger,RWD,,2016.0,58.6,5.0,96.3,491.0,3098.0,0.287,All-Terrain,13.1,None,108.7,489.3,3.0,191.0,Off,,28.7,149.4
+VW,Sedan,Level 1,,Solid State,2015.0,126.3,,86.2,582.0,3192.0,0.253,Low Rolling Resistance,4.4,Max Cool,52.0,61.8,3.0,248.0,High,Sport,65.3,688.5
+Tesla,Truck,,RWD,Solid State,2024.0,,2.0,70.7,,2481.0,0.41,Low Rolling Resistance,43.6,Max Heat,46.4,-216.4,5.0,374.0,Off,Eco,18.5,412.8
+BMW,Crossover,,FWD,NMCA,2018.0,44.1,0.0,63.4,624.0,3888.0,0.297,Low Rolling Resistance,,Heating,26.0,-407.7,1.0,71.0,High,Chill,72.3,379.3
+Rivian,Hatchback,DC Fast Charge,FWD,Solid State,,56.1,,72.4,446.0,3100.0,0.372,Low Rolling Resistance,-9.5,Cooling,52.6,-477.4,5.0,,Low,,9.5,317.8
+NIO,Truck,Wireless,RWD,,2015.0,126.8,2.0,64.7,254.0,2994.0,0.351,Standard,-4.6,Heating,,324.5,3.0,252.0,Off,Chill,63.3,212.5
+,Van,Wireless,FWD,LFP,2017.0,105.3,5.0,61.3,489.0,2554.0,0.314,Low Rolling Resistance,35.7,Cooling,38.9,84.8,5.0,,,Off-Road,66.4,472.9
+Lucid,Van,DC Fast Charge,RWD,Solid State,2016.0,49.2,3.0,60.6,309.0,2750.0,0.43,Standard,15.7,,99.9,277.7,5.0,390.0,Low,,65.5,252.4
+,Hatchback,Level 1,4WD,Solid State,2016.0,79.8,4.0,67.0,137.0,2125.0,0.405,Performance,41.8,Max Heat,37.6,-177.1,6.0,431.0,Medium,,31.2,616.0
+,SUV,Level 2,RWD,NCA,2024.0,74.5,0.0,62.9,166.0,3057.0,0.311,Performance,11.7,Cooling,65.9,,2.0,52.0,Low,Normal,,668.5
+Rivian,Van,Level 1,RWD,NMC,,,2.0,,61.0,2987.0,0.446,Standard,29.9,Cooling,44.8,,5.0,17.0,Off,Sport,2.6,319.1
+HYUNDAI,Sports Car,DC Fast Charge,,Solid State,2022.0,36.0,,79.9,626.0,3611.0,0.47,,22.8,None,114.3,,5.0,413.0,High,Chill,34.8,670.8
+tesla ,Sedan,Level 1,AWD,NMC,2022.0,50.8,2.0,92.4,69.0,1879.0,0.299,Performance,8.0,Max Heat,77.2,-126.2,4.0,379.0,Medium,,24.4,663.5
+Lucid,Truck,DC Fast Charge,4WD,LFP,2019.0,86.0,4.0,61.5,216.0,,,Low Rolling Resistance,24.7,Max Cool,128.7,-193.6,2.0,212.0,Low,Sport,63.2,341.8
+Lucid,Hatchback,Supercharger,,,2021.0,62.1,1.0,78.7,239.0,1780.0,0.417,Low Rolling Resistance,41.5,,129.7,-106.9,1.0,165.0,Max,Normal,2.2,648.4
+Rivian,SUV,Supercharger,RWD,NMC,2021.0,104.2,5.0,,,3621.0,0.383,Low Rolling Resistance,30.1,None,51.0,419.2,3.0,462.0,Low,Chill,,256.8
+Tesla,Sedan,Supercharger,RWD,LFP,2017.0,36.4,7.0,,,,0.248,Performance,,Heating,,129.7,4.0,315.0,Off,Off-Road,59.3,168.5
+bmw,Hatchback,Level 2,,Solid State,2017.0,71.1,2.0,95.0,325.0,2661.0,0.312,Standard,17.8,Heating,86.5,343.2,3.0,195.0,Medium,Off-Road,39.9,408.3
+,Hatchback,Supercharger,,LFP,2022.0,66.6,1.0,98.0,114.0,2977.0,0.355,Standard,,,103.4,-462.6,3.0,377.0,Medium,Off-Road,44.8,127.1
+,Sports Car,Level 2,,Solid State,2015.0,43.8,2.0,65.3,82.0,1992.0,0.329,All-Terrain,-4.5,Max Cool,84.0,-342.1,5.0,125.0,Max,Eco,72.7,157.9
+Tesla,,Wireless,RWD,LFP,,93.1,6.0,99.6,596.0,2185.0,0.397,All-Terrain,9.6,Heating,67.9,-400.1,6.0,204.0,Off,Normal,31.3,608.1
+Tesla,Van,Supercharger,AWD,NMCA,2023.0,40.8,0.0,83.0,50.0,,0.28,Performance,-12.8,Max Heat,,,6.0,168.0,,Off-Road,73.8,398.5
+Hyundai,,Supercharger,AWD,,2015.0,120.4,6.0,73.5,475.0,2016.0,0.208,Standard,12.4,Max Heat,60.8,120.7,,44.0,Low,Normal,51.9,294.7
+Tesla,Sports Car,Wireless,4WD,LFP,2016.0,106.5,1.0,80.9,190.0,1363.0,0.237,All-Terrain,,,51.5,,2.0,247.0,Max,Sport,18.2,289.1
+NIO ,Sedan,DC Fast Charge,RWD,NCA,2016.0,73.7,4.0,62.5,524.0,,0.326,Low Rolling Resistance,39.3,Max Cool,52.7,108.6,,35.0,Off,Off-Road,75.4,494.8
+BMW,Hatchback,Supercharger,,LFP,2017.0,66.0,4.0,63.7,,2252.0,0.231,All-Terrain,37.6,Max Cool,,234.0,5.0,282.0,Low,Sport,,503.9
+Hyundai,Truck,Supercharger,,,2024.0,48.7,0.0,92.6,403.0,3164.0,0.275,Low Rolling Resistance,15.9,,72.5,117.7,3.0,357.0,Off,Eco,75.8,206.2
+Audi,Sports Car,,AWD,,2017.0,49.5,9.0,95.5,613.0,1940.0,0.292,Low Rolling Resistance,-9.4,Cooling,26.1,-137.5,1.0,371.0,Medium,Chill,22.3,207.4
+,,,4WD,Solid State,2019.0,112.5,3.0,66.7,381.0,1873.0,0.259,All-Terrain,-17.8,Cooling,93.7,-495.6,3.0,345.0,Medium,Off-Road,51.2,118.5
+VW,Sedan,Supercharger,4WD,NMCA,2019.0,,1.0,70.0,153.0,,,Performance,,Heating,122.4,-382.9,5.0,,Max,Normal,64.2,168.3
+,Truck,Wireless,RWD,Solid State,2015.0,22.2,,99.4,108.0,,0.276,Low Rolling Resistance,19.7,Cooling,,,6.0,244.0,Max,Sport,,376.6
+NIO,Sports Car,DC Fast Charge,FWD,NMC,2023.0,67.8,2.0,97.2,635.0,2670.0,0.316,Performance,-4.3,Max Heat,,408.2,5.0,,Off,Eco,2.3,510.6
+bmw,Sports Car,DC Fast Charge,,NMC,2019.0,93.2,,63.3,642.0,2703.0,,,3.4,Cooling,95.4,,,189.0,Off,Sport,72.0,149.9
+Tesla,Hatchback,Level 2,AWD,NCA,2024.0,68.7,3.0,64.6,,2514.0,0.264,All-Terrain,38.3,Max Heat,122.7,,3.0,225.0,Max,,4.6,479.5
+RIVIAN,SUV,Level 2,,Solid State,2023.0,123.9,4.0,,228.0,2212.0,0.374,,1.0,None,74.6,208.9,3.0,22.0,Low,Chill,41.9,241.1
+BYD,Truck,Supercharger,AWD,NCA,2020.0,111.3,,77.1,296.0,3303.0,,Low Rolling Resistance,-0.9,Max Cool,129.6,317.7,1.0,276.0,Off,,59.1,545.6
+BMW,,Supercharger,4WD,Solid State,2023.0,,9.0,77.1,,2563.0,0.462,Standard,,Max Cool,80.2,-424.4,3.0,137.0,,Chill,37.8,657.2
+Audi,,,FWD,LFP,,78.2,6.0,69.5,,1452.0,0.336,Performance,-14.4,Cooling,105.9,-318.8,3.0,,Medium,Sport,9.1,635.9
+NIO ,Sedan,DC Fast Charge,FWD,NMCA,2023.0,76.9,5.0,82.7,483.0,2826.0,0.316,All-Terrain,10.9,Max Cool,107.6,,5.0,7.0,High,Eco,8.5,352.7
+audi,Truck,Level 2,RWD,NCA,2020.0,57.0,3.0,88.8,,3447.0,0.27,Performance,-2.6,Max Cool,57.3,-307.6,2.0,425.0,Off,Normal,50.3,590.6
+Audi,SUV,Wireless,4WD,NMCA,2021.0,41.3,9.0,,558.0,1334.0,0.37,All-Terrain,,Cooling,59.6,-465.7,2.0,4.0,,Chill,69.6,1484.1613746580954
+rivin,SUV,Level 2,FWD,Solid State,2017.0,,6.0,73.3,656.0,2014.0,0.262,Low Rolling Resistance,-16.6,Cooling,41.4,-125.7,,383.0,Medium,Normal,75.3,699.4
+BYD,Sedan,Wireless,RWD,NCA,2015.0,113.0,9.0,73.2,182.0,1780.0,0.243,,-6.1,,75.7,-418.0,3.0,42.0,Off,Normal,,142.1
+,Sports Car,Supercharger,FWD,NCA,2015.0,27.4,3.0,71.1,396.0,2897.0,0.26,Standard,21.0,Cooling,43.0,,3.0,389.0,,Eco,64.7,236.0
+VW,Hatchback,DC Fast Charge,FWD,NMC,2023.0,80.5,,93.9,134.0,1882.0,0.489,All-Terrain,27.3,Heating,57.8,33.0,3.0,117.0,High,Off-Road,,641.8
+byd,Hatchback,Wireless,4WD,Solid State,2019.0,64.2,9.0,89.6,512.0,,0.373,All-Terrain,-9.3,Heating,122.3,-139.7,2.0,,Off,Normal,51.0,177.8
+Rivian,Sedan,DC Fast Charge,AWD,NCA,2016.0,79.7,6.0,98.6,,,0.483,Standard,-16.3,Heating,,,5.0,,High,Eco,41.7,163.3
+Polestar,Crossover,Supercharger,AWD,Solid State,2019.0,72.9,0.0,97.5,255.0,3248.0,0.214,Standard,37.7,Max Cool,95.0,350.2,6.0,313.0,,Eco,34.6,592.7
+tesla ,,Level 2,4WD,NMC,2024.0,76.1,3.0,77.0,510.0,,0.305,Low Rolling Resistance,12.3,Max Cool,80.6,191.8,3.0,102.0,Off,Off-Road,65.9,432.0
+BYD,Sedan,DC Fast Charge,,NMCA,2023.0,92.1,2.0,80.1,260.0,,0.333,Low Rolling Resistance,-2.3,Max Heat,113.8,-352.8,2.0,,Off,Chill,36.0,645.2
+VW,Hatchback,,FWD,NMCA,2020.0,72.7,5.0,60.9,416.0,2599.0,0.391,Performance,20.7,Heating,127.4,,5.0,374.0,Low,Off-Road,,293.0
+Polestar,Sports Car,Wireless,FWD,NMC,2016.0,,8.0,,344.0,1531.0,0.324,Standard,7.5,Heating,37.1,,,459.0,Off,Chill,68.0,665.0
+BMW,Sports Car,Level 2,4WD,LFP,2023.0,74.6,1.0,60.6,166.0,,0.413,All-Terrain,16.4,Heating,,-119.0,6.0,273.0,Max,Eco,44.4,1308.470816411487
+,Hatchback,,AWD,,2020.0,49.7,4.0,,592.0,2088.0,0.23,Standard,,Cooling,61.3,-20.3,5.0,,Medium,Eco,43.2,580.5
+Hyundai,,Level 2,,LFP,2017.0,126.0,0.0,73.6,59.0,3745.0,0.229,Standard,-16.5,Cooling,67.8,271.8,6.0,,High,Off-Road,60.2,561.7
+,Crossover,Wireless,FWD,NMC,2023.0,45.6,0.0,99.4,154.0,2694.0,0.239,All-Terrain,25.2,,27.6,335.1,1.0,50.0,High,Off-Road,65.1,468.0
+Polestar,Truck,,RWD,LFP,2022.0,78.3,9.0,69.5,272.0,,0.449,,42.3,Max Heat,83.3,-73.5,3.0,279.0,Medium,Sport,43.5,565.7
+,,DC Fast Charge,,LFP,2021.0,74.4,6.0,,699.0,1790.0,0.312,All-Terrain,21.4,Heating,74.9,-367.6,,102.0,Low,Chill,23.0,576.4
+NIO,SUV,Supercharger,AWD,NCA,2024.0,51.6,1.0,84.1,311.0,3156.0,0.38,Low Rolling Resistance,10.8,Heating,61.1,-177.6,5.0,139.0,Medium,Off-Road,50.1,477.9
+BYD,Sedan,Supercharger,4WD,LFP,2023.0,52.5,6.0,97.4,,,0.422,,39.2,Max Heat,126.6,-175.3,3.0,,,Chill,34.4,588.2
+Lucid,Sedan,Level 1,FWD,NMC,2021.0,67.5,,93.6,148.0,1503.0,0.321,All-Terrain,31.8,,129.0,222.0,3.0,459.0,,Off-Road,66.6,345.4
+,Sports Car,,FWD,,2019.0,,2.0,80.8,606.0,1672.0,0.246,All-Terrain,-0.0,Max Heat,22.8,,,167.0,High,Eco,41.6,384.6
+BYD,Sedan,Supercharger,RWD,Solid State,2015.0,85.7,0.0,83.8,,1959.0,0.254,All-Terrain,-4.1,Max Heat,38.7,260.7,2.0,359.0,Medium,Chill,20.1,678.9
+Rivian,Hatchback,Supercharger,AWD,LFP,2024.0,113.1,2.0,80.6,189.0,2274.0,0.285,Standard,-8.9,Heating,101.7,356.9,6.0,187.0,Max,Sport,0.3,372.9
+BMW,Hatchback,Wireless,FWD,NMC,2015.0,96.5,9.0,84.3,518.0,2589.0,0.449,All-Terrain,,Max Cool,30.1,116.1,3.0,377.0,Off,Sport,50.6,305.7
+BMW,SUV,Supercharger,RWD,,2023.0,127.0,9.0,95.2,645.0,2945.0,,Performance,41.2,Max Heat,,,2.0,114.0,Off,Eco,14.2,440.9
+Lucid,Van,Wireless,RWD,Solid State,2019.0,53.7,,80.0,494.0,3041.0,0.409,All-Terrain,,Cooling,56.7,,4.0,152.0,Off,Off-Road,49.9,565.7
+,Crossover,,,NCA,2023.0,22.8,2.0,75.6,338.0,3668.0,0.372,Performance,17.2,Max Heat,57.5,15.3,1.0,474.0,Max,Normal,25.9,479.2
+NIO,Sedan,DC Fast Charge,4WD,,2021.0,100.6,8.0,63.8,125.0,2671.0,0.28,Standard,2.9,Cooling,75.5,230.3,,227.0,Low,Sport,27.1,586.9
+BYD,Hatchback,Level 2,4WD,NMC,2015.0,33.9,4.0,61.9,420.0,1422.0,0.43,Standard,5.0,Heating,,-126.5,4.0,368.0,Off,Off-Road,35.0,672.5
+Hyundai,,Wireless,4WD,NCA,2020.0,66.8,9.0,88.6,264.0,3105.0,0.353,Low Rolling Resistance,36.7,Max Heat,111.5,-191.7,3.0,,Off,Sport,68.4,476.2
+Audi,SUV,Wireless,RWD,,2015.0,53.5,2.0,76.5,85.0,3402.0,0.355,Standard,11.3,Heating,32.3,,4.0,367.0,,,37.2,523.7
+Lucid,Truck,,AWD,Solid State,2022.0,,,87.7,287.0,,,All-Terrain,22.9,Heating,88.2,286.7,2.0,65.0,Off,Sport,25.5,405.9
+Hyundai,Crossover,DC Fast Charge,AWD,NMCA,2018.0,103.9,4.0,78.9,155.0,2200.0,0.224,All-Terrain,10.7,None,77.9,,5.0,101.0,High,Chill,41.8,125.6
+,Van,Level 2,AWD,,2019.0,67.8,8.0,,662.0,2885.0,,Low Rolling Resistance,28.5,Max Heat,83.5,337.6,5.0,100.0,Off,Normal,,122.9
+NIO,Crossover,Wireless,4WD,NMC,2018.0,109.4,1.0,97.6,284.0,2755.0,0.294,,-0.2,Max Heat,119.9,224.2,4.0,246.0,Off,Normal,4.8,358.2
+Polestar,Hatchback,Level 2,RWD,NMCA,2017.0,73.7,8.0,83.6,222.0,1836.0,0.462,Low Rolling Resistance,26.9,Max Heat,,-285.0,6.0,198.0,Max,Eco,,628.5
+tesla ,Sports Car,Level 1,AWD,NMC,2024.0,72.3,4.0,97.9,552.0,1587.0,0.343,Standard,11.9,Cooling,70.7,,6.0,130.0,Off,Off-Road,34.1,618.6
+Rivian,Van,,4WD,LFP,,74.5,2.0,77.7,131.0,3672.0,0.407,Standard,30.7,Max Heat,89.0,-55.9,6.0,447.0,Off,,77.5,2958.6853599345113
+Hyundai,SUV,Level 2,4WD,,2019.0,25.8,0.0,62.7,545.0,3166.0,0.294,Standard,17.9,Max Heat,58.4,-212.6,6.0,350.0,Off,Normal,8.8,299.5
+BMW,Hatchback,Level 1,RWD,NCA,2022.0,55.7,1.0,68.6,495.0,2087.0,,Low Rolling Resistance,10.4,Max Cool,87.8,-416.5,6.0,164.0,Off,Sport,79.7,106.6
+,Hatchback,Level 2,AWD,NMC,2020.0,,3.0,76.0,,,0.339,Performance,34.4,None,49.8,-81.9,2.0,,,Normal,17.7,198.2
+Rivian,Hatchback,Level 2,,,2019.0,,6.0,62.5,459.0,2394.0,0.474,Standard,26.3,Cooling,,,,111.0,High,Off-Road,33.3,634.2
+,Van,,,NCA,,61.2,4.0,68.9,663.0,3373.0,0.426,Performance,19.8,,74.7,315.7,5.0,481.0,Medium,Eco,28.7,435.8
+,Crossover,Supercharger,,Solid State,2016.0,60.3,0.0,100.0,,2383.0,0.226,Standard,8.0,None,54.3,166.9,3.0,308.0,Low,Chill,49.9,279.1
+VW,Truck,Level 2,AWD,,2024.0,93.7,5.0,65.5,639.0,3288.0,0.327,Low Rolling Resistance,6.1,Max Cool,114.4,,,461.0,Medium,Sport,16.9,622.8
+,SUV,Level 2,,Solid State,2017.0,57.8,8.0,96.5,399.0,3674.0,0.313,Performance,-11.5,None,92.9,307.8,5.0,354.0,Medium,Sport,62.5,125.9
+,Van,Level 1,AWD,NMCA,,40.1,7.0,75.3,514.0,,,All-Terrain,2.7,Heating,94.3,7.3,1.0,400.0,Max,,65.5,290.4
+Polestar,Hatchback,DC Fast Charge,4WD,,2020.0,116.8,,95.7,263.0,3533.0,0.321,Low Rolling Resistance,,Max Cool,67.8,,1.0,171.0,Off,Normal,9.4,590.3
+Polestar,Van,,FWD,NMCA,,,8.0,91.4,148.0,2967.0,0.314,Low Rolling Resistance,-0.6,Heating,24.7,-355.2,5.0,,Low,Eco,,146.7
+,Hatchback,Level 1,FWD,NCA,2015.0,60.8,0.0,78.3,223.0,3159.0,0.273,Low Rolling Resistance,20.8,Max Cool,,-458.4,5.0,224.0,Medium,Eco,50.1,250.3
+BYD,Sedan,Level 2,4WD,Solid State,2022.0,83.8,7.0,85.1,268.0,3682.0,0.371,Performance,-19.6,,127.1,256.0,2.0,94.0,Medium,Normal,25.9,367.9
+,Van,Supercharger,4WD,LFP,2024.0,71.3,8.0,63.8,464.0,3016.0,0.484,Low Rolling Resistance,,Max Cool,125.8,-46.1,2.0,346.0,Medium,Normal,,93.8
+Audi,Van,Level 2,FWD,LFP,2021.0,74.3,5.0,,521.0,2995.0,0.424,,-6.2,Max Heat,127.5,-230.6,2.0,206.0,Medium,Eco,6.0,212.9
+LUCID,,DC Fast Charge,FWD,NCA,2021.0,31.2,8.0,73.3,257.0,3811.0,0.495,Performance,30.0,Max Cool,,,3.0,431.0,High,Eco,,87.7
+BMW,Crossover,DC Fast Charge,FWD,,2020.0,107.4,,99.3,627.0,2329.0,,Low Rolling Resistance,-1.0,Cooling,56.9,368.8,1.0,188.0,Max,Normal,25.6,203.3
+,Sedan,Wireless,4WD,,2020.0,42.4,7.0,,,1782.0,0.417,,29.8,Heating,129.0,7.2,3.0,401.0,Low,Off-Road,0.8,454.6
+Polestar,,DC Fast Charge,4WD,NMC,2018.0,61.4,3.0,94.8,193.0,,0.22,All-Terrain,16.6,Max Heat,,-176.6,1.0,333.0,Medium,Chill,36.3,378.5
+Hyundai,SUV,Supercharger,4WD,,2023.0,,2.0,63.9,511.0,2258.0,0.304,Low Rolling Resistance,-12.6,,,-202.1,6.0,74.0,High,Off-Road,14.5,562.8
+Rivian,Van,,FWD,NMCA,,100.7,0.0,66.6,206.0,1407.0,0.486,Performance,17.1,None,72.6,-113.9,5.0,100.0,Medium,Normal,77.9,546.2
+polestar,SUV,Supercharger,AWD,Solid State,2016.0,29.5,1.0,66.6,338.0,2290.0,0.378,Standard,-14.7,Max Heat,51.5,242.2,2.0,447.0,,,15.6,386.4
+,SUV,Supercharger,AWD,NMCA,2015.0,100.1,,79.0,355.0,1939.0,0.206,Low Rolling Resistance,41.5,Heating,103.6,,2.0,24.0,Low,,4.1,427.2
+Rivian,Hatchback,Wireless,4WD,NCA,2021.0,75.1,5.0,60.2,,1709.0,0.205,Performance,,Cooling,62.7,,2.0,449.0,High,Eco,12.4,330.9
+BYD,Van,Level 2,RWD,,,42.0,8.0,62.0,,2064.0,0.416,,,Max Cool,52.6,91.8,6.0,339.0,Low,Normal,56.0,364.3
+POLESTAR,Sports Car,Level 1,,LFP,2021.0,88.0,3.0,94.6,695.0,1643.0,0.289,All-Terrain,37.5,Max Heat,112.0,454.7,6.0,185.0,Medium,Eco,14.6,377.4
+,Hatchback,DC Fast Charge,AWD,LFP,2018.0,28.4,2.0,,,1345.0,0.398,,44.7,Max Heat,114.0,,1.0,153.0,Low,Eco,73.6,284.4
+Lucid,Sports Car,Level 1,FWD,NCA,2018.0,,7.0,91.2,195.0,1586.0,,Standard,-11.4,Max Heat,118.0,159.9,2.0,486.0,Medium,,3.7,426.4
+Rivian,SUV,DC Fast Charge,,NMCA,2018.0,99.7,4.0,69.7,106.0,1920.0,0.275,Performance,-1.6,Heating,24.8,205.3,4.0,459.0,Max,Off-Road,32.0,306.7
+,Hatchback,Level 2,4WD,NCA,2024.0,60.9,,93.5,395.0,3183.0,0.247,,35.6,Max Cool,21.4,324.3,6.0,28.0,Off,Chill,65.6,291.3
+Polestar,Sports Car,Level 1,4WD,NMCA,2015.0,48.1,7.0,80.4,,3574.0,0.328,Standard,-12.2,Cooling,23.3,-433.0,2.0,,Low,Eco,11.3,216.2
+VW,SUV,DC Fast Charge,FWD,NMCA,2018.0,61.6,8.0,97.5,171.0,1581.0,0.399,Standard,-12.8,Heating,125.0,68.3,5.0,496.0,Medium,,58.6,630.6
+Tesla,Van,Level 2,AWD,NCA,2021.0,,,65.4,267.0,3160.0,0.375,Standard,-15.5,None,76.1,266.4,6.0,326.0,High,Eco,62.7,511.7
+BYD,Van,Level 1,AWD,NMC,2023.0,80.3,9.0,,459.0,2897.0,0.353,All-Terrain,-15.8,,61.7,-443.6,1.0,343.0,Off,Chill,24.5,603.4
+,Sports Car,Supercharger,RWD,NMC,2015.0,63.7,7.0,72.9,371.0,1958.0,0.321,All-Terrain,14.6,Max Cool,,473.5,3.0,264.0,Medium,Normal,43.6,363.5
+POLESTAR,,Level 2,,NCA,2018.0,46.4,2.0,76.4,377.0,2521.0,0.376,All-Terrain,-5.0,Max Heat,68.0,414.4,2.0,377.0,Medium,Chill,74.6,286.2
+BMW,Truck,Level 1,AWD,,2016.0,36.1,,92.1,168.0,2885.0,0.238,All-Terrain,-7.1,Cooling,84.7,377.5,6.0,5.0,Max,Sport,36.7,254.2
+BYD,Crossover,Supercharger,RWD,Solid State,2016.0,27.7,6.0,73.0,171.0,2902.0,0.29,Standard,9.1,Heating,33.9,-486.6,6.0,154.0,,Chill,41.0,179.8
+Tesla,Hatchback,Supercharger,RWD,NMC,2020.0,33.9,1.0,82.4,181.0,3450.0,0.452,Performance,21.2,Max Cool,109.3,344.4,6.0,464.0,Medium,Eco,2.1,116.6
+BYD,,Wireless,AWD,Solid State,2024.0,61.4,1.0,71.5,541.0,1341.0,0.334,Low Rolling Resistance,40.9,Max Heat,20.2,-283.1,2.0,426.0,Low,Chill,,503.3
+VW,Crossover,Level 1,AWD,NCA,2021.0,,5.0,71.7,442.0,2243.0,0.397,All-Terrain,7.5,None,99.8,-385.4,2.0,104.0,,Normal,27.6,293.6
+Tesla,Crossover,DC Fast Charge,RWD,NCA,2019.0,22.2,4.0,93.2,578.0,2405.0,0.374,Performance,43.9,None,52.6,-314.6,4.0,352.0,,Sport,38.5,590.1
+BYD,Hatchback,,4WD,NMC,2024.0,71.8,2.0,63.6,67.0,3417.0,0.384,,0.1,None,88.7,185.7,1.0,386.0,Off,Normal,75.5,203.9
