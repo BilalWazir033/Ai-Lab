@@ -6,8 +6,7 @@ for i in range(2):
     print("You are mine")
     print("we miss you")
     print("we can't replace you")
-    print('last')
-
+    
 
 
 
