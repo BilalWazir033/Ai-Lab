@@ -40,7 +40,7 @@ This project is an end-to-end **Machine Learning** application that classifies S
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/SMS-Spam-Detection.git
+git clone https://github.com/BilalWazir033/Ai-Lab/tree/main/Semester_Project_DS(L)
 ```
 
 2. Install dependencies
@@ -68,8 +68,12 @@ SMS-Spam-Detection/
 
 ## 👨‍💻 Author
 
-**Hazrat Bilal**  
-BS Computer Science  
+**Hazrat Bilal**
+**Haroon Ur Rashid**
+**Khalida Afghan**
+**Ilham Raza**  
+Introduction to Data Science
+BS Computer Science 
 University of Engineering & Technology (UET), Peshawar
 
 ---
