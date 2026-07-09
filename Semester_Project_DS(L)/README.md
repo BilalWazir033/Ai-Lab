@@ -52,24 +52,33 @@ The system uses **TF-IDF Vectorization** for feature extraction and **Multinomia
 ---
 ## 🚀 Project Workflow
 
-- 🎯 **Problem Definition**
-  ↓
-- 📂 **Dataset Collection**
-  ↓
-- 🧹 **Data Cleaning**
-  ↓
-- 📊 **Exploratory Data Analysis (EDA)**
-  ↓
-- 📝 **Text Preprocessing (NLP)**
-  ↓
-- 🔤 **TF-IDF Feature Extraction**
-  ↓
-- 🤖 **Model Building**
-  ↓
-- ⚡ **Advanced Models (RF & SVM)**
-  ↓
-- 📈 **Model Evaluation**
-  ↓
+- 🎯 **Problem Definition**  
+  <br>⬇️
+
+- 📂 **Dataset Collection**  
+  <br>⬇️
+
+- 🧹 **Data Cleaning**  
+  <br>⬇️
+
+- 📊 **Exploratory Data Analysis (EDA)**  
+  <br>⬇️
+
+- 📝 **Text Preprocessing (NLP)**  
+  <br>⬇️
+
+- 🔤 **TF-IDF Feature Extraction**  
+  <br>⬇️
+
+- 🤖 **Model Building**  
+  <br>⬇️
+
+- ⚡ **Advanced Models (RF & SVM)**  
+  <br>⬇️
+
+- 📈 **Model Evaluation**  
+  <br>⬇️
+
 - 🌐 **Streamlit Deployment**
 
 --- 
