@@ -28,6 +28,7 @@ The system uses **TF-IDF Vectorization** for feature extraction and **Multinomia
 
 - **Dataset:** SMS Spam Collection Dataset
 - **Source:** Kaggle
+- **Link:** https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 - **Records:** 5,572 SMS messages
 - **Classes:**
   - Ham (Not Spam)
@@ -162,19 +163,22 @@ Features:
 
 ---
 
-## 📁 Project Structure
+## 📂 Project Structure
 
-```
-SMS-Spam-Detection/
+```text
+Email_SMS_Spam_Classifier/
 │
-├── app.py
-├── model.pkl
-├── vectorizer.pkl
-├── spam.csv
-├── sms_spam_detection.ipynb
-├── requirements.txt
-├── README.md
-└── images/
+├── 📓 Email_SMS_Spam_Classifier.ipynb      # Jupyter Notebook
+├── 🐍 PythonScript.py                      # Streamlit Application
+├── 📄 README.md                            # Project Documentation
+├── 📄 Requirements.txt                     # Required Libraries
+├── 📊 spam.csv                             # Dataset
+├── 🤖 model.pkl                            # Trained Model
+├── 🔤 vectorizer.pkl                       # TF-IDF Vectorizer
+├── 🖼️ image.png                            # Application Screenshot
+├── 📑 Project Report Email_SMS Spam Classifier.pdf
+├── 📝 Project Report Email_SMS Spam Classifier.docx
+└── 📽️ SMS_Spam_Classifier_Presentation.pptx
 ```
 
 ---
@@ -222,8 +226,6 @@ streamlit run app.py
 - Hyperparameter tuning
 - Deep Learning models (LSTM/BERT)
 - Multi-language support
-- Email spam detection
-- Cloud deployment (Render/Heroku)
 
 ---
 
