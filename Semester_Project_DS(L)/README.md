@@ -226,7 +226,6 @@ streamlit run app.py
 - Cloud deployment (Render/Heroku)
 
 ---
-```
 
 ## 👨‍💻 Author
 
