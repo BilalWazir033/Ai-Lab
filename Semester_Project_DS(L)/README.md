@@ -68,13 +68,13 @@ SMS-Spam-Detection/
 
 ## 👨‍💻 Author
 
-**Hazrat Bilal**
-**Haroon Ur Rashid**
-**Khalida Afghan**
+**Hazrat Bilal**,
+**Haroon Ur Rashid**,
+**Khalida Afghan**,
 **Ilham Raza**  
-Introduction to Data Science
-BS Computer Science 
-University of Engineering & Technology (UET), Peshawar
+Introduction to Data Science,
+BS Computer Science, 
+University of Engineering & Technology (UET), Peshawar,
 
 ---
 ⭐ If you found this project helpful, consider giving it a star!
